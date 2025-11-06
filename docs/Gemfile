@@ -1,9 +1,10 @@
 source "https://rubygems.org"
 
-# GitHub Pages gem - 会自动包含正确版本的 Jekyll
-gem "github-pages", group: :jekyll_plugins
+# 使用纯 Jekyll，不依赖 github-pages gem
+gem "jekyll", "~> 4.3"
+gem "webrick", "~> 1.8"
 
-# Jekyll plugins (github-pages 已包含这些，但明确列出以便参考)
+# Jekyll plugins
 group :jekyll_plugins do
   gem "jekyll-relative-links"
   gem "jekyll-sitemap"
