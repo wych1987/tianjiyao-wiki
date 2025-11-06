@@ -2,9 +2,6 @@ title: 天机爻 Wiki - 中国传统玄学知识库
 description: 天机爻官方知识库，专业提供八字命理、紫微斗数、AI玄学等中国传统命理学系统性学习资源
 markdown: kramdown
 
-# 完全禁用主题系统
-theme: null
-
 # GitHub Pages settings
 baseurl: ""
 url: "https://wiki.tianjiyao.com"
