@@ -25,8 +25,14 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: true
+          bundler-cache: false
           working-directory: docs
+          
+      - name: Install dependencies
+        run: |
+          cd docs
+          gem install bundler
+          bundle install
           
       - name: Setup Pages
         id: pages
