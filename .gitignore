@@ -1,0 +1,23 @@
+# local env files
+.env*.local
+
+# user data (email campaigns)
+scripts/users.json
+
+# secrets (API keys, service accounts)
+secrets/
+
+# indexing state files
+.indexing-batch-state.json
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+.idea
+.DS_Store
+node_modules
+.env

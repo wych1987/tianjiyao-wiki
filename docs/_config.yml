@@ -1,0 +1,77 @@
+title: 天机爻 Wiki - 中国传统玄学知识库
+description: 天机爻官方知识库，专业提供八字命理、紫微斗数、AI玄学等中国传统命理学系统性学习资源
+markdown: kramdown
+
+# 完全禁用主题系统
+theme: null
+
+# GitHub Pages settings
+baseurl: ""
+url: "https://wiki.tianjiyao.com"
+
+# SEO Configuration
+author: 天机爻团队
+lang: zh-CN
+timezone: Asia/Shanghai
+
+# Brand Keywords
+keywords: 
+  - 天机爻
+  - 八字命理
+  - 紫微斗数
+  - AI命理
+  - 传统玄学
+  - 命理学习
+  - 中国传统文化
+
+# Social Media
+social:
+  name: 天机爻
+  links:
+    - https://tianjiyao.com
+
+# Navigation
+plugins:
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+relative_links:
+  enabled: true
+  collections: true
+
+# SEO Plugin Configuration
+seo:
+  type: Organization
+  name: 天机爻
+  logo: /assets/images/logo.png
+
+# Feed Configuration
+feed:
+  excerpt_only: true
+
+# Google Analytics (请替换为您的GA4测量ID)
+google_analytics: G-YY5JFZSDNE
+
+# Include files
+include:
+  - README.md
+  - index.md
+  - _redirects
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+
+# 明确指定使用自定义布局，不使用主题
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

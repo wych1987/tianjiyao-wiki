@@ -1,0 +1,21 @@
+# 天机爻 Wiki robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://wiki.tianjiyao.com/sitemap.xml
+
+# 禁止访问的目录
+Disallow: /_site/
+Disallow: /assets/vendor/
+Disallow: /.git/
+
+# 允许主要内容目录
+Allow: /bazi/
+Allow: /ziwei/
+Allow: /ai/
+Allow: /research/
+Allow: /about/
+
+# 爬虫延迟（秒）
+Crawl-delay: 1

@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'zh-CN' }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <!-- SEO Meta Tags -->
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | join: ', ' }}{% endif %}{{ site.keywords | join: ', ' }}">
+    <meta name="author" content="{{ site.author }}">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/og-image.jpg' | absolute_url }}{% endif %}">
+    <meta property="og:locale" content="zh_CN">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/og-image.jpg' | absolute_url }}{% endif %}">
+    
+    <!-- Structured Data - Organization -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "{{ site.title }}",
+        "url": "{{ site.url }}",
+        "logo": "{{ '/assets/images/logo.png' | absolute_url }}",
+        "description": "{{ site.description }}",
+        "sameAs": [
+            "https://tianjiyao.com"
+        ]
+    }
+    </script>
+    
+    <!-- Structured Data - Breadcrumb -->
+    {% if page.breadcrumbs %}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {% for crumb in page.breadcrumbs %}
+            {
+                "@type": "ListItem",
+                "position": {{ forloop.index }},
+                "name": "{{ crumb.name }}",
+                "item": "{{ crumb.url | absolute_url }}"
+            }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+        ]
+    }
+    </script>
+    {% endif %}
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    
+    <!-- RSS Feed -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    
+    <!-- Google Analytics 4 - Head Section -->
+    {% if site.google_analytics %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+    </script>
+    {% endif %}
+    
+    <!-- Theme CSS from CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
+    <link rel="stylesheet" href="https://pages-themes.github.io/cayman/assets/css/style.css">
+    
+    <!-- Custom CSS -->
+    <style>
+        /* Navigation Styles */
+        .main-nav {
+            background: #fff;
+            border-bottom: 1px solid #e1e4e8;
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .nav-brand {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #155799;
+            text-decoration: none;
+        }
+        
+        .nav-menu {
+            display: flex;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            gap: 2rem;
+        }
+        
+        .nav-menu a {
+            color: #586069;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+        
+        .nav-menu a:hover {
+            color: #155799;
+        }
+        
+        /* Breadcrumb Styles */
+        .breadcrumb {
+            background: #f6f8fa;
+            padding: 0.5rem 2rem;
+            border-bottom: 1px solid #e1e4e8;
+        }
+        
+        .breadcrumb ol {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+        }
+        
+        .breadcrumb li {
+            font-size: 0.875rem;
+        }
+        
+        .breadcrumb li:not(:last-child)::after {
+            content: "›";
+            margin: 0 0.5rem;
+            color: #6a737d;
+        }
+        
+        .breadcrumb a {
+            color: #586069;
+            text-decoration: none;
+        }
+        
+        .breadcrumb a:hover {
+            color: #155799;
+        }
+        
+        /* Content Styles */
+        .page-header {
+            background: linear-gradient(120deg, #155799, #159957);
+            color: white;
+        }
+        
+        .main-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        /* Footer Styles */
+        .site-footer {
+            background: #f6f8fa;
+            border-top: 1px solid #e1e4e8;
+            padding: 2rem 0;
+            margin-top: 4rem;
+            text-align: center;
+            color: #586069;
+        }
+        
+        .footer-links {
+            margin: 1rem 0;
+        }
+        
+        .footer-links a {
+            color: #586069;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+        
+        .footer-links a:hover {
+            color: #155799;
+        }
+        
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+            .nav-container {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            
+            .nav-menu {
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 1rem;
+            }
+            
+            .main-content {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="main-nav">
+        <div class="nav-container">
+            <a href="{{ '/' | relative_url }}" class="nav-brand">{{ site.title }}</a>
+            <ul class="nav-menu">
+                <li><a href="{{ '/' | relative_url }}">首页</a></li>
+                <li><a href="{{ '/bazi/' | relative_url }}">八字命理</a></li>
+                <li><a href="{{ '/ziwei/' | relative_url }}">紫微斗数</a></li>
+                <li><a href="{{ '/ai/' | relative_url }}">AI玄学</a></li>
+                <li><a href="https://www.tianjiyao.com/zh" target="_blank" rel="noopener">AI占卜体验 ↗</a></li>
+            </ul>
+        </div>
+    </nav>
+    
+    <!-- Breadcrumb -->
+    {% if page.breadcrumbs %}
+    <nav class="breadcrumb">
+        <ol>
+            {% for crumb in page.breadcrumbs %}
+            <li>
+                {% if crumb.url and forloop.last == false %}
+                    <a href="{{ crumb.url | relative_url }}">{{ crumb.name }}</a>
+                {% else %}
+                    {{ crumb.name }}
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ol>
+    </nav>
+    {% endif %}
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+        <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+    </section>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-links">
+            <a href="https://tianjiyao.com">天机爻主站</a>
+            <a href="{{ '/about/' | relative_url }}">关于我们</a>
+            <a href="{{ '/feed.xml' | relative_url }}">RSS订阅</a>
+        </div>
+        <p>&copy; {{ 'now' | date: "%Y" }} 天机爻. 致力于传播中国传统文化智慧.</p>
+        <p><small>本站内容仅供学习参考，请理性对待传统命理学</small></p>
+    </footer>
+    
+    <!-- Analytics (Google Analytics 4) -->
+    {% if site.google_analytics %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+    </script>
+    {% endif %}
+</body>
+</html>

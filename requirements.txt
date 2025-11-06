@@ -1,0 +1,4 @@
+requests>=2.31.0
+pyyaml>=6.0.1
+pathlib>=1.0.1
+argparse>=1.4.0

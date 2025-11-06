@@ -1,0 +1,46 @@
+{
+  "name": "tianjiyao-wiki-enhancer",
+  "version": "1.0.0",
+  "description": "天机爻Wiki专业文档生成和增强工具",
+  "main": "enhance-docs.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "node test-enhance.js",
+    "analyze": "node analyze-docs.js",
+    "enhance": "node enhance-docs.js enhance",
+    "create": "node create-doc.js",
+    "create-missing": "node create-missing-docs.js",
+    "create-ziwei": "node create-ziwei-docs.js",
+    "create-ai": "node create-ai-docs.js",
+    "create-practice": "node create-practice-docs.js",
+    "create-theory": "node create-theory-docs.js",
+    "create-all": "npm run create-missing && npm run create-ziwei && npm run create-ai && npm run create-practice && npm run create-theory",
+    "optimize-links": "node optimize-internal-links.js",
+    "sitemap": "node generate-sitemap.js",
+    "help": "node enhance-docs.js --help"
+  },
+  "keywords": [
+    "wiki",
+    "documentation",
+    "ai",
+    "deepseek",
+    "traditional-culture",
+    "chinese-philosophy"
+  ],
+  "author": "天机爻团队",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "dotenv": "^16.6.1",
+    "fs-extra": "^11.1.1",
+    "glob": "^10.3.10",
+    "inquirer": "^8.2.6",
+    "markdown-it": "^14.0.0",
+    "yaml": "^2.3.4"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
