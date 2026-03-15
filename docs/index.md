@@ -34,6 +34,15 @@ breadcrumbs:
 **核心学习路径：**
 - [八字命理入门](bazi/introduction.md) - 了解基础概念、天干地支、五行理论
 - [十神体系详解](bazi/ten-gods.md) - 深入学习八字命理的核心分析方法
+- [日主旺衰判断](bazi/day-master-strength.md) - 建立身强身弱与从格的基础判断框架
+- [用神喜忌与调候通关](bazi/yongshen-tiaohou.md) - 把扶抑、调候、病药纳入同一分析系统
+- [干支合冲刑害总论](bazi/ganzhi-relations.md) - 系统理解天干地支之间的作用关系与判断顺序
+- [命例分析方法](bazi/case-methodology.md) - 把旺衰、格局、取用与大运验证串成标准分析流程
+- [特殊格命例专题](bazi/special-pattern-case-studies.md) - 专门拆解从格、化气格与假从边界
+- [破格与转运命例专题](bazi/broken-pattern-case-studies.md) - 补足命局失衡与运势改写这一层高级判断
+- [八字合婚方法](bazi/compatibility-analysis.md) - 把八字关系判断推进到双人匹配与落地时机分析
+- [健康判断](bazi/health-analysis.md) - 补足体质偏向、调候失衡与风险阶段的专业框架
+- [健康命例专题](bazi/health-case-studies.md) - 用案例说明长期透支、寒热失衡与大运触发逻辑
 
 **适合人群：** 传统文化爱好者、命理学初学者、专业研究人员
 
@@ -43,6 +52,22 @@ breadcrumbs:
 
 **学习资源：**
 - [紫微斗数星曜解析](ziwei/stars.md) - 全面了解主要星曜特性和宫位含义
+- [排盘与安星规则](ziwei/charting-rules.md) - 从命宫定位到四化落宫的结构化排盘思路
+- [辅曜煞曜体系](ziwei/assistant-stars.md) - 建立主星、辅曜、煞曜的优先级判断方法
+- [三方四正与对宫体系](ziwei/sanfang-sizheng.md) - 形成从单宫到结构场的专业读盘能力
+- [大限流年总论](ziwei/dynamic-fortune.md) - 从本命盘过渡到动态运势分析
+- [父母宫专题](ziwei/parents-palace-analysis.md) - 补足原生家庭、长辈与权威接口这条关键判断线
+- [子女宫专题](ziwei/children-palace-analysis.md) - 从子女缘分扩展到创造输出与培养关系
+- [交友宫专题](ziwei/friendship-palace-analysis.md) - 让朋友、人脉、团队协作判断真正纳入结构分析
+- [兄弟宫专题](ziwei/siblings-palace-analysis.md) - 把手足缘分、平辈比较与横向合作结构补齐
+- [命例分析方法](ziwei/case-methodology.md) - 为紫微后续命例专题建立统一写法和验证框架
+- [婚姻命例专题](ziwei/marriage-case-studies.md) - 把紫微婚姻判断从宫位专题推进到真实案例拆盘
+- [事业命例专题](ziwei/career-case-studies.md) - 用案例说明不同事业结构如何在运势中起落
+- [财富命例专题](ziwei/wealth-case-studies.md) - 从财帛、福德、田宅联动理解钱从哪里来、能否留下
+- [大限转折命例专题](ziwei/dynamic-turning-point-case-studies.md) - 把紫微动态运势判断落到具体阶段与关键年份案例
+- [命宫与福德命例专题](ziwei/life-fortune-case-studies.md) - 解释为什么有些盘外在不错但内里很累，或反而更能活出稳定感
+- [双人合盘方法](ziwei/compatibility-analysis.md) - 把紫微从单盘分析推进到双人关系匹配与落地时机判断
+- [婚后协同专题](ziwei/marital-collaboration-analysis.md) - 补足婚后分工、财务、空间与长期相处这条应用线
 
 **学习特点：** 系统性强、逻辑清晰、实用性高
 
@@ -59,7 +84,7 @@ breadcrumbs:
 
 **创新亮点：** 传统与现代结合、技术赋能文化、智能化学习体验
 
-### � 周易八卦
+### 🔮 周易八卦
 
 周易是中华文化的源头活水，六爻占卜是最古老、最灵活的预测方法之一，与八字、紫微并称传统命理三大支柱。
 
@@ -67,13 +92,18 @@ breadcrumbs:
 - [周易八卦概论](yijing/index.md) - 了解周易的哲学基础和预测原理
 - [八卦详解](yijing/bagua.md) - 深入学习乾坤震巽坎离艮兑八卦
 - [六爻占卜入门](yijing/liuyao.md) - 掌握起卦、装卦、解卦完整流程
+- [六爻纳甲装卦体系](yijing/najia-system.md) - 补足六亲、六神、世应与伏神结构
+- [六爻断卦核心法则](yijing/duan-gua-rules.md) - 建立取用神、辨旺衰、推应期的专业顺序
+- [六爻分类占断总论](yijing/classified-divination.md) - 按题目建立婚姻、求财、事业、疾病等分类判断框架
+- [六爻考试升学占断](yijing/exam-divination.md) - 补足考试、证书、录取通知这一类极高频现实题目
+- [六爻应期判断](yijing/response-timing.md) - 专门解释六爻里最难也最关键的时间判断逻辑
 - [64卦详解](yijing/hexagrams.md) - 系统学习六十四卦卦辞爻辞
 - [占卜方法与技巧](yijing/divination-methods.md) - 提升预测准确度的实战经验
 - [六爻实战案例](yijing/practical-cases.md) - 真实案例深度分析
 
 **学习特色：** 灵活应变、即时反馈、应用广泛、易学难精
 
-### �📐 理论基础
+### 📐 理论基础
 
 深入探究支撑命理学的核心哲学理论，理解传统智慧的底层逻辑。
 
@@ -90,6 +120,8 @@ breadcrumbs:
 从理论走向实践，掌握命理学习的方法论和实战技巧。
 
 **实用内容：**
+- [统一学习地图](practice/learning-map.md) - 用一张路线图串起八字、紫微、六爻三大体系的学习顺序
+- [命例库索引](practice/case-library.md) - 按体系与主题整理全站命例、案例与实战专题入口
 - [自学路径指南](practice/self-learning.md) - 高效的自主学习方法
 - [经典案例分析](practice/case-studies.md) - 真实案例的深度解读
 - [常见错误避坑](practice/common-mistakes.md) - 初学者易犯错误总结

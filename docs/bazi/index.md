@@ -33,12 +33,32 @@ breadcrumbs:
   - 日主与其他干支关系
   - 十神在命理分析中的应用
   - 实际案例分析
+- **[日主旺衰判断](day-master-strength.md)**
+  - 月令、通根、透干的权重顺序
+  - 身强身弱与从格边界
+  - 整体气势与寒暖燥湿的综合判断
+- **[用神喜忌与调候通关](yongshen-tiaohou.md)**
+  - 用神、喜神、忌神的真实区别
+  - 扶抑、调候、通关、病药的完整思路
+  - 从结构问题出发选择命局所需力量
 
 ### ⚡ 进阶学习（规划中）
-- **五行格局判断** - 正格与变格的识别方法
-- **大运流年分析** - 时间维度的运势变化
+- **[五行格局判断](pattern-analysis.md)** - 正格与变格的识别方法
+- **[大运流年分析](luck-cycles.md)** - 时间维度的运势变化
+- **[干支合冲刑害总论](ganzhi-relations.md)** - 天干地支作用关系的专业判断次序
+- **[财运与事业判断](wealth-career-analysis.md)** - 从财星、官杀、食伤与承载力综合理解职业与财富
+- **[婚姻感情判断](marriage-analysis.md)** - 从配偶星、日支与大运触发理解关系结构与婚姻节奏
+- **[八字合婚方法](compatibility-analysis.md)** - 从日主关系、婚姻结构与运势同步理解关系匹配度
+- **[健康判断](health-analysis.md)** - 从五行偏枯、调候与长期压力结构理解体质风险
+- **[命例分析方法](case-methodology.md)** - 建立从旺衰、格局、取用到大运验证的标准命例写法
+- **[婚姻命例专题](marriage-case-studies.md)** - 用教学型案例理解配偶星、日支与婚姻转折
+- **[财运命例专题](wealth-case-studies.md)** - 用案例理解食伤生财、财多身弱与守财难点
+- **[事业命例专题](career-case-studies.md)** - 用案例理解官印相生、杀印相生与输出型职业结构
+- **[健康命例专题](health-case-studies.md)** - 用案例理解体质偏向、长期透支与风险阶段触发
+- **[特殊格命例专题](special-pattern-case-studies.md)** - 用案例拆解从格、化气格与假从误判边界
+- **[破格与转运命例专题](broken-pattern-case-studies.md)** - 用案例理解结构失衡、运势放大与阶段性修复
 - **命宫与胎元** - 辅助分析要素
-- **八字合婚技巧** - 关系匹配度分析
+- **[八字合婚方法](compatibility-analysis.md)** - 关系匹配度分析
 
 ## 🎓 学习建议
 
@@ -101,6 +121,20 @@ breadcrumbs:
 
 - [八字命理入门教程](./introduction.md)
 - [十神体系详解](./ten-gods.md)
+- [日主旺衰判断](./day-master-strength.md)
+- [用神喜忌与调候通关](./yongshen-tiaohou.md)
+- [干支合冲刑害总论](./ganzhi-relations.md)
+- [财运与事业判断](./wealth-career-analysis.md)
+- [婚姻感情判断](./marriage-analysis.md)
+- [八字合婚方法](./compatibility-analysis.md)
+- [健康判断](./health-analysis.md)
+- [命例分析方法](./case-methodology.md)
+- [婚姻命例专题](./marriage-case-studies.md)
+- [财运命例专题](./wealth-case-studies.md)
+- [事业命例专题](./career-case-studies.md)
+- [健康命例专题](./health-case-studies.md)
+- [特殊格命例专题](./special-pattern-case-studies.md)
+- [破格与转运命例专题](./broken-pattern-case-studies.md)
 - [紫微斗数理论](../ziwei/index.md)
 - [AI与传统玄学](../ai/ai-introduction.md)
 

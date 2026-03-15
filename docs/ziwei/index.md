@@ -57,12 +57,35 @@ breadcrumbs:
 - **[十二宫位详解](palaces.md)** - 十二宫位的深层含义与应用
 - **[四化飞星理论](four-transformations.md)** - 化禄、化权、化科、化忌的深层含义
 - **[星曜组合分析](pattern-combinations.md)** - 星曜间的相位关系与能量互动
+- **[排盘与安星规则](charting-rules.md)** - 命宫身宫定位、主星落宫与四化结构
+- **[辅曜煞曜体系](assistant-stars.md)** - 六吉六煞与杂曜的分层判断方法
+- **[三方四正与对宫体系](sanfang-sizheng.md)** - 建立从单宫到结构场的专业读盘框架
+- **[大限流年总论](dynamic-fortune.md)** - 从本命盘进入动态运势判断的层级方法
+- **[夫妻宫与官禄宫专题](marriage-career-palaces.md)** - 把关系结构与事业结构拉回三方四正和四化体系中分析
+- **[财帛宫专题](wealth-palace-analysis.md)** - 系统理解财富结构、收入模式与资源承接
+- **[福德宫专题](fortune-palace-analysis.md)** - 分析幸福感、欲求结构与内在稳定度
+- **[迁移宫专题](travel-palace-analysis.md)** - 理解外部环境、异地发展与公众场域的接口关系
+- **[命宫专题](life-palace-analysis.md)** - 从人格核心、命身关系与三方承接理解整盘起点
+- **[疾厄宫专题](health-palace-analysis.md)** - 分析健康体质、风险课题与恢复能力
+- **[田宅宫专题](property-palace-analysis.md)** - 理解家宅稳定度、不动产与生活承载空间
+- **[父母宫专题](parents-palace-analysis.md)** - 理解原生家庭、长辈支持与权威关系的承接方式
+- **[子女宫专题](children-palace-analysis.md)** - 从后代缘分、创造输出与培养关系理解延伸结构
+- **[交友宫专题](friendship-palace-analysis.md)** - 分析朋友、人脉、团队与合作资源的质量和边界
+- **[兄弟宫专题](siblings-palace-analysis.md)** - 理解手足缘分、同辈比较与横向协作结构
 - **格局判断体系** - 传统格局与现代新格局识别
 - **流年大运推算** - 时间维度下的运势变化规律
 
 ### ⚡ 高级应用研究
 - **[高级技法详解](advanced-techniques.md)** - 紫微斗数的高级分析技巧
 - **[实战分析方法](practical-analysis.md)** - 从理论到实践的完整流程
+- **[命例分析方法](case-methodology.md)** - 建立从本命结构到大限流年验证的标准拆盘顺序
+- **[婚姻命例专题](marriage-case-studies.md)** - 用案例理解夫妻宫、福德宫与关系阶段触发
+- **[事业命例专题](career-case-studies.md)** - 用案例理解官禄宫、命财官迁与事业起势逻辑
+- **[财富命例专题](wealth-case-studies.md)** - 用案例理解财帛宫、福德宫与财富承接结构
+- **[大限转折命例专题](dynamic-turning-point-case-studies.md)** - 用案例拆解阶段主轴、关键年份与结构性转折
+- **[命宫与福德命例专题](life-fortune-case-studies.md)** - 用案例拆解人格主轴、内在承受与幸福感形成机制
+- **[双人合盘方法](compatibility-analysis.md)** - 建立从命宫、夫妻宫到阶段同步的双盘分析框架
+- **[婚后协同专题](marital-collaboration-analysis.md)** - 分析婚后分工、财务节奏与长期共处的结构匹配度
 - **双人合盘分析** - 人际关系匹配度的专业评估
 - **职业定位研究** - 基于命盘特质的事业发展方向
 - **财富格局分析** - 财运周期与投资时机判断

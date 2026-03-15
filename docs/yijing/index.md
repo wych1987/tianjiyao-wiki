@@ -219,6 +219,42 @@ date: 2025-11-06
 系统研究易学流派、深入理解易学哲学
 形成个人理解体系、尝试实际应用指导
 
+## 七、六爻进阶学习入口
+
+如果希望从周易爱好者进入专业六爻判断层面，建议在基础概论之外，补足以下两个中层专题：
+
+- [六爻纳甲装卦体系](najia-system.md) - 补齐六亲、六神、世应、伏神等装卦基础
+- [六爻断卦核心法则](duan-gua-rules.md) - 建立取用神、辨旺衰、推应期的判断框架
+- [六爻分类占断总论](classified-divination.md) - 按婚姻、求财、事业、疾病等题目建立分类判断主线
+- [六爻婚姻感情占断](marriage-divination.md) - 深入分析恋爱、复合、结婚、离婚等关系问题
+- [六爻求财与投资占断](wealth-divination.md) - 从财爻、子孙、兄弟与应爻结构判断收益与风险
+- [六爻事业与求职占断](career-divination.md) - 系统分析求职、升职、跳槽与创业问题
+- [六爻疾病健康占断](health-divination.md) - 从官鬼、世爻、子孙判断病势、恢复与风险边界
+- [六爻失物寻人与寻宠占断](lost-item-divination.md) - 从财爻、父母、子孙与方位动静判断去向与回归
+- [六爻官司诉讼占断](lawsuit-divination.md) - 以官鬼、父母、世应和文书结构分析纠纷胜负与和解空间
+- [六爻出行迁移占断](travel-divination.md) - 分析旅行、搬迁、调动、异地发展中的成行与承接问题
+- [六爻考试升学占断](exam-divination.md) - 系统分析考试、证书、面试、录取与通知问题
+- [六爻应期判断](response-timing.md) - 专门解决六爻里最关键的“什么时候应”问题
+
+与已有内容配合的建议学习顺序为：
+
+1. [周易八卦概论](index.md)
+2. [六爻占卜入门](liuyao.md)
+3. [六爻纳甲装卦体系](najia-system.md)
+4. [六爻断卦核心法则](duan-gua-rules.md)
+5. [六爻分类占断总论](classified-divination.md)
+6. [六爻婚姻感情占断](marriage-divination.md)
+7. [六爻求财与投资占断](wealth-divination.md)
+8. [六爻事业与求职占断](career-divination.md)
+9. [六爻疾病健康占断](health-divination.md)
+10. [六爻失物寻人与寻宠占断](lost-item-divination.md)
+11. [六爻官司诉讼占断](lawsuit-divination.md)
+12. [六爻出行迁移占断](travel-divination.md)
+13. [六爻考试升学占断](exam-divination.md)
+14. [六爻应期判断](response-timing.md)
+15. [卦象解读技巧](interpretation.md)
+16. [六爻实战案例](practical-cases.md)
+
 ### 常见误区避免
 1. **迷信化**：将周易简单等同于算命工具
 2. **机械化**：死记硬背而缺乏灵活理解
