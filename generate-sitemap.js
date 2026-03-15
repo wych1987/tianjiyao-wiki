@@ -16,7 +16,7 @@ const DOCS_DIR = path.join(__dirname, 'docs');
 const files = glob.sync('**/*.md', {
   cwd: DOCS_DIR,
   ignore: ['**/README.md', '**/SEO_*.md', '_layouts/**']
-});
+}).sort();
 
 // 生成sitemap条目
 const urlEntries = files.map(file => {
@@ -35,6 +35,18 @@ const urlEntries = files.map(file => {
   } else if (file.includes('/index.md')) {
     priority = '0.8';
     changefreq = 'weekly';
+  } else if (file.startsWith('practice/')) {
+    priority = '0.8';
+    changefreq = 'weekly';
+  } else if (file.startsWith('theory/')) {
+    priority = '0.7';
+    changefreq = 'monthly';
+  } else if (file.startsWith('yijing/')) {
+    priority = '0.7';
+    changefreq = 'monthly';
+  } else if (file.startsWith('ai/')) {
+    priority = '0.6';
+    changefreq = 'monthly';
   } else if (file.startsWith('bazi/') || file.startsWith('ziwei/')) {
     priority = '0.7';
     changefreq = 'monthly';

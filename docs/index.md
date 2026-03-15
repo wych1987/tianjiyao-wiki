@@ -122,6 +122,10 @@ breadcrumbs:
 **实用内容：**
 - [统一学习地图](practice/learning-map.md) - 用一张路线图串起八字、紫微、六爻三大体系的学习顺序
 - [命例库索引](practice/case-library.md) - 按体系与主题整理全站命例、案例与实战专题入口
+- [专题导航中心](practice/topic-navigation-center.md) - 把婚姻、财富事业、健康风险三条专题线汇总成统一总入口
+- [婚姻关系专题导航](practice/marriage-topic-navigation.md) - 把八字、紫微、六爻中的婚恋与合盘内容横向串起来
+- [财富事业专题导航](practice/wealth-career-topic-navigation.md) - 把财运、事业、职业路径和求财求职内容整理成跨体系入口
+- [健康风险专题导航](practice/health-risk-topic-navigation.md) - 把体质、承压、病势与风险阶段内容整理成跨体系入口
 - [自学路径指南](practice/self-learning.md) - 高效的自主学习方法
 - [经典案例分析](practice/case-studies.md) - 真实案例的深度解读
 - [常见错误避坑](practice/common-mistakes.md) - 初学者易犯错误总结

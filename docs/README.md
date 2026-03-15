@@ -13,7 +13,7 @@
 - **理论基础**：阴阳五行、天干地支、六十甲子等核心理论
 - **实践指南**：自学方法、案例分析、常见误区、工具资源
 
-目前共有 **40 篇专业文档**，涵盖传统命理三大支柱（八字、紫微、周易）的完整知识体系。
+目前 `docs/` 目录下已有 **98 篇 Markdown 文档**，并且已经形成首页、模块首页、学习地图、专题导航中心、命例库索引这几层导航结构。
 
 ## 配置 GitHub Pages
 
@@ -74,6 +74,12 @@
   │   ├── earthly-branches.md # 地支详解
   │   └── sixty-jiazi.md    # 六十甲子
   ├── practice/             # 实践指南模块
+  │   ├── learning-map.md   # 统一学习地图
+  │   ├── topic-navigation-center.md # 专题导航总入口
+  │   ├── case-library.md   # 命例库索引
+  │   ├── marriage-topic-navigation.md # 婚姻关系专题导航
+  │   ├── wealth-career-topic-navigation.md # 财富事业专题导航
+  │   ├── health-risk-topic-navigation.md # 健康风险专题导航
   │   ├── self-learning.md  # 自学指南
   │   ├── case-studies.md   # 案例研究
   │   ├── common-mistakes.md # 常见误区
@@ -81,6 +87,12 @@
   ├── sitemap.xml           # 网站地图
   └── robots.txt            # 搜索引擎爬虫规则
 ```
+
+## Sitemap 维护
+
+- `docs/sitemap.xml` 由根目录脚本 `generate-sitemap.js` 生成
+- 新增或批量更新页面后，建议重新执行一次站点地图生成
+- 部署时 `jekyll-sitemap` 插件也会参与生成，但仓库内保留静态 sitemap 便于检查与提交搜索引擎
 
 ## 本地预览
 

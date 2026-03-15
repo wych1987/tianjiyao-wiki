@@ -13,9 +13,10 @@ Disallow: /.git/
 # 允许主要内容目录
 Allow: /bazi/
 Allow: /ziwei/
+Allow: /yijing/
 Allow: /ai/
-Allow: /research/
-Allow: /about/
+Allow: /theory/
+Allow: /practice/
 
 # 爬虫延迟（秒）
 Crawl-delay: 1

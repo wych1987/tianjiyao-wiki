@@ -179,6 +179,60 @@
             margin: 0 auto;
             padding: 2rem;
         }
+
+        .site-cta {
+            max-width: 1200px;
+            margin: 2rem auto 0;
+            padding: 0 2rem;
+        }
+
+        .site-cta-card {
+            background: linear-gradient(135deg, #eef7ff 0%, #f4fbf6 100%);
+            border: 1px solid #d0e6dc;
+            border-radius: 16px;
+            padding: 1.5rem;
+            box-shadow: 0 8px 24px rgba(21, 87, 153, 0.08);
+        }
+
+        .site-cta-card h3 {
+            margin-top: 0;
+            margin-bottom: 0.75rem;
+            color: #155799;
+        }
+
+        .site-cta-card p {
+            margin: 0 0 1rem;
+            color: #4a5568;
+        }
+
+        .site-cta-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .site-cta-links a {
+            display: inline-block;
+            padding: 0.65rem 1rem;
+            background: #ffffff;
+            border: 1px solid #cbd5e0;
+            border-radius: 999px;
+            text-decoration: none;
+            color: #155799;
+            font-weight: 600;
+            transition: all 0.2s ease;
+        }
+
+        .site-cta-links a:hover {
+            border-color: #155799;
+            background: #f8fbff;
+        }
+
+        .site-cta-note {
+            font-size: 0.95rem;
+            color: #586069;
+        }
         
         /* Footer Styles */
         .site-footer {
@@ -219,6 +273,10 @@
             
             .main-content {
                 padding: 1rem;
+            }
+
+            .site-cta {
+                padding: 0 1rem;
             }
         }
     </style>
@@ -268,11 +326,28 @@
         {{ content }}
     </main>
 
+    {% unless page.hide_site_cta %}
+    <section class="site-cta">
+        <div class="site-cta-card">
+            <h3>继续到天机爻主站做真实排盘与分析</h3>
+            <p>Wiki 负责系统学习，主站负责真实使用。读完理论后，可以直接到主站体验排盘、占断与合盘分析。</p>
+            <div class="site-cta-links">
+                <a href="https://www.tianjiyao.com/zh" target="_blank" rel="noopener">进入主站</a>
+                <a href="https://www.tianjiyao.com/zh/bazi" target="_blank" rel="noopener">生辰八字分析</a>
+                <a href="https://www.tianjiyao.com/zh/ziwei" target="_blank" rel="noopener">紫微斗数排盘</a>
+                <a href="https://www.tianjiyao.com/zh/ai-divination" target="_blank" rel="noopener">AI六爻占卜</a>
+                <a href="https://www.tianjiyao.com/zh/hepan" target="_blank" rel="noopener">命理合盘分析</a>
+            </div>
+            <div class="site-cta-note">这是一层通用模块，会自动出现在使用默认布局的页面中，后续不需要每页单独手写引导。</div>
+        </div>
+    </section>
+    {% endunless %}
+
     <!-- Footer -->
     <footer class="site-footer">
         <div class="footer-links">
-            <a href="https://tianjiyao.com">天机爻主站</a>
-            <a href="{{ '/about/' | relative_url }}">关于我们</a>
+            <a href="https://www.tianjiyao.com/zh">天机爻主站</a>
+            <a href="https://www.tianjiyao.com/zh" target="_blank" rel="noopener">产品首页</a>
             <a href="{{ '/feed.xml' | relative_url }}">RSS订阅</a>
         </div>
         <p>&copy; {{ 'now' | date: "%Y" }} 天机爻. 致力于传播中国传统文化智慧.</p>

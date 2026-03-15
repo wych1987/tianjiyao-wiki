@@ -4,7 +4,7 @@
 
 ## 📊 知识库概况
 
-- 📚 **40 篇专业文档**，总计约 18 万字
+- 📚 **98 篇 Markdown 文档**，已形成接近百页的系统知识库
 - 🎯 **6 大知识模块**：八字、紫微、周易、AI应用、理论基础、实践指南
 - 🔮 **完整的传统命理三大支柱**：八字命理、紫微斗数、周易八卦
 - 🤖 **AI与传统结合**：探索人工智能在命理学中的创新应用
@@ -57,10 +57,19 @@
 - [六十甲子](docs/theory/sixty-jiazi.md) - 干支纪年法
 
 ### 💡 实践指南
+- [统一学习地图](docs/practice/learning-map.md) - 按阶段和体系组织全站学习顺序
+- [专题导航中心](docs/practice/topic-navigation-center.md) - 按婚姻、财富事业、健康风险三条主线进入内容
+- [命例库索引](docs/practice/case-library.md) - 按体系、主题、阶段检索案例与实战专题
 - [自学指南](docs/practice/self-learning.md) - 如何系统学习传统命理
 - [案例研究](docs/practice/case-studies.md) - 真实案例分析
 - [常见误区](docs/practice/common-mistakes.md) - 学习中的常见问题
 - [工具资源](docs/practice/tools-resources.md) - 推荐学习资源
+
+## 站点维护
+
+- 站点地图通过根目录的 `generate-sitemap.js` 生成，输出到 `docs/sitemap.xml`
+- 新增知识页后，除了补模块索引和首页，也应重新生成一次 sitemap
+- 当前实践区已经形成“学习地图 → 专题导航中心 → 命例库索引”的三层入口结构
 
 ## GitHub Pages
 

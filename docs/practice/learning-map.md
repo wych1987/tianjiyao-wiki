@@ -266,6 +266,7 @@ date: 2026-03-15
 
 ## 参考阅读
 
+- [专题导航中心](topic-navigation-center.md)
 - [自学路径指南](self-learning.md)
 - [常见错误避坑](common-mistakes.md)
 - [工具与资源](tools-resources.md)
