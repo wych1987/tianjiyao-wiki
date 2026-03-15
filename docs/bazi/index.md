@@ -42,7 +42,7 @@ breadcrumbs:
   - 扶抑、调候、通关、病药的完整思路
   - 从结构问题出发选择命局所需力量
 
-### ⚡ 进阶学习（规划中）
+### ⚡ 进阶专题
 - **[五行格局判断](pattern-analysis.md)** - 正格与变格的识别方法
 - **[大运流年分析](luck-cycles.md)** - 时间维度的运势变化
 - **[干支合冲刑害总论](ganzhi-relations.md)** - 天干地支作用关系的专业判断次序
@@ -57,15 +57,11 @@ breadcrumbs:
 - **[健康命例专题](health-case-studies.md)** - 用案例理解体质偏向、长期透支与风险阶段触发
 - **[特殊格命例专题](special-pattern-case-studies.md)** - 用案例拆解从格、化气格与假从误判边界
 - **[破格与转运命例专题](broken-pattern-case-studies.md)** - 用案例理解结构失衡、运势放大与阶段性修复
-- **命宫与胎元** - 辅助分析要素
-- **[八字合婚方法](compatibility-analysis.md)** - 关系匹配度分析
 
 ## 🎓 学习建议
 
 ### 初学者路径
-```
-基础概念 → 排盘练习 → 十神学习 → 简单分析 → 实践应用
-```
+基础概念 → 排盘练习 → 十神学习 → 旺衰与取用 → 命例验证
 
 ### 学习要点
 1. **循序渐进**：先掌握基本概念再学习应用
@@ -73,29 +69,21 @@ breadcrumbs:
 3. **保持客观**：以学术研究态度对待传统文化
 4. **现代应用**：了解AI技术如何辅助传统分析
 
-## 🔮 理论与实践结合
+## 🔮 实践入口
 
-### 在线实践平台
-学完理论知识后，建议通过实际应用加深理解：
+学完理论知识后，建议先回到站内方法页和专题页完成一轮结构训练，再到主站做真实排盘与验证。
 
-- **[AI八字排盘分析](https://www.tianjiyao.com/zh/bazi)** - 体验现代AI如何应用传统理论
-- **[八字合盘分析](https://www.tianjiyao.com/zh/hepan)** - 了解八字在关系分析中的应用
-- **[综合命理分析](https://www.tianjiyao.com/zh/ai-divination)** - 八字结合其他方法的全面分析
+### 站内优先阅读
 
-### 学习验证
-- 对比传统理论与AI分析结果
-- 理解算法背后的传统智慧
-- 提升理论理解和实际应用能力
+- [命例分析方法](case-methodology.md) - 先建立标准分析顺序
+- [婚姻感情判断](marriage-analysis.md) - 进入高频专题应用
+- [财运与事业判断](wealth-career-analysis.md) - 训练结构与现实问题的对应
+- [健康判断](health-analysis.md) - 补齐体质与风险阶段判断
 
-## 🌟 相关学习资源
+### 外部实践入口
 
-### 对比学习
-- **[紫微斗数学习](../ziwei/)** - 了解另一重要命理体系
-- **[AI技术在命理中的应用](../ai/)** - 传统与现代的结合
-
-### 深度探索
-- **[天机爻博客](https://www.tianjiyao.com/zh/blog)** - 更多命理知识和应用案例
-- **[周易入门](https://www.tianjiyao.com/zh/blog/what-is-i-ching)** - 了解八字的哲学基础
+- [天机爻八字排盘](https://www.tianjiyao.com/zh/bazi) - 用真实排盘验证理论理解
+- [命理合盘分析](https://www.tianjiyao.com/zh/hepan) - 在关系主题中练习双人匹配视角
 
 ## ⚠️ 重要提醒
 
@@ -111,11 +99,6 @@ breadcrumbs:
 - 以**积极心态**面对命理分析结果
 - 将传统智慧与现代思维相结合
 
----
-
-*开始您的八字命理学习之旅，在传统智慧中发现人生的奥秘！*
-
----
 
 ## 📚 相关阅读
 
@@ -136,5 +119,7 @@ breadcrumbs:
 - [特殊格命例专题](./special-pattern-case-studies.md)
 - [破格与转运命例专题](./broken-pattern-case-studies.md)
 - [紫微斗数理论](../ziwei/index.md)
+- [周易八卦学习](../yijing/index.md)
+- [理论基础模块](../theory/index.md)
 - [AI与传统玄学](../ai/ai-introduction.md)
 

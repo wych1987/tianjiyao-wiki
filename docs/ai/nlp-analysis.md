@@ -909,10 +909,6 @@ class ContinuousLearning:
 
 ---
 
-## 🔮 在线体验AI命理前沿技术
-
-
-
 ## 📚 相关阅读
 
 - [返回AI玄学首页](./ai-introduction.md)
