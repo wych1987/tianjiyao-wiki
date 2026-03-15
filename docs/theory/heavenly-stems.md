@@ -217,21 +217,7 @@ categories: [基础理论, 传统文化]
 
 ---
 
-## 🔮 理论应用实践
 
-掌握了命理基础理论后，欢迎使用天机爻专业工具进行实践：
-
-### 专业命理分析服务
-- **[天机爻AI占卜平台](https://www.tianjiyao.com/zh)** - 将理论知识转化为实践
-  - 🎯 **[生辰八字分析](https://www.tianjiyao.com/zh/bazi)** - 天干地支实战应用
-  - ⭐ **[紫微斗数排盘](https://www.tianjiyao.com/zh/ziwei)** - 星曜五行综合分析
-  - 🔄 **[AI六爻占卜](https://www.tianjiyao.com/zh/ai-divination)** - 阴阳八卦实践
-  - 💑 **[命理合盘分析](https://www.tianjiyao.com/zh/hepan)** - 五行生克应用
-
-💡 **理论指导实践，实践验证理论**  
-访问 [天机爻官网](https://www.tianjiyao.com/zh) 将所学理论付诸实践
-
----
 
 ## 📚 相关阅读
 
