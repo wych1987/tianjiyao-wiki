@@ -2,7 +2,7 @@
 layout: default
 title: 占卜方法与技巧：提升预测准确度的实战经验
 description: 总结六爻占卜的高级技法、判断思路及实战经验
-keywords: [占卜技巧, 断卦方法, 用神取用, 动爻分析, 进退神, 飞神伏神]
+keywords: [ 占卜技巧, 断卦方法, 用神取用, 动爻分析, 进退神, 飞神伏神 ]
 author: 周易研究团队
 date: 2025-11-06
 ---
@@ -345,8 +345,8 @@ date: 2025-11-06
 
 ## 📚 相关阅读
 
-- [返回周易首页](./index.md)
+- [周易六爻学习中心](./index.md)
 - [八字命理](../bazi/index.md)
 - [紫微斗数](../ziwei/index.md)
 - [AI与传统玄学](../ai/ai-introduction.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)

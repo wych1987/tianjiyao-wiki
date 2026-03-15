@@ -2,7 +2,7 @@
 layout: default
 title: 64卦详解：卦辞爻辞深度解析
 description: 系统解读六十四卦的卦象、卦辞、爻辞及占断应用
-keywords: [六十四卦, 卦辞, 爻辞, 卦象, 卦义, 周易本义]
+keywords: [ 六十四卦, 卦辞, 爻辞, 卦象, 卦义, 周易本义 ]
 author: 周易研究团队
 date: 2025-11-06
 ---
@@ -487,8 +487,8 @@ date: 2025-11-06
 
 ## 📚 相关阅读
 
-- [返回周易首页](./index.md)
+- [周易六爻学习中心](./index.md)
 - [八字命理](../bazi/index.md)
 - [紫微斗数](../ziwei/index.md)
 - [AI与传统玄学](../ai/ai-introduction.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)

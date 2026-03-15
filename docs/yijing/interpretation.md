@@ -2,7 +2,7 @@
 layout: default
 title: 卦象解读技巧：从卦象到人事的思维转换
 description: 掌握卦象分析的思维方法，提升解卦的灵活性和准确性
-keywords: [卦象解读, 象数思维, 取象比类, 综合分析, 应期推算]
+keywords: [ 卦象解读, 象数思维, 取象比类, 综合分析, 应期推算 ]
 author: 周易研究团队
 date: 2025-11-06
 ---
@@ -443,8 +443,8 @@ date: 2025-11-06
 
 ## 📚 相关阅读
 
-- [返回周易首页](./index.md)
+- [周易六爻学习中心](./index.md)
 - [八字命理](../bazi/index.md)
 - [紫微斗数](../ziwei/index.md)
 - [AI与传统玄学](../ai/ai-introduction.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)

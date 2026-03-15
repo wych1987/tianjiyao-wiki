@@ -2,7 +2,7 @@
 layout: default
 title: 命例库索引：八字、紫微、六爻案例与实战专题总导航
 description: 汇总天机爻Wiki中的八字、紫微斗数、六爻案例与实战专题，按体系和主题建立统一命例库索引。
-keywords: [命例库, 案例索引, 八字案例, 紫微案例, 六爻案例, 实战专题]
+keywords: [ 命例库, 案例索引, 八字案例, 紫微案例, 六爻案例, 实战专题 ]
 author: 命理学习指导团队
 date: 2026-03-15
 ---
@@ -188,4 +188,4 @@ date: 2026-03-15
 - [统一学习地图](learning-map.md)
 - [经典案例分析](case-studies.md)
 - [自学路径指南](self-learning.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)

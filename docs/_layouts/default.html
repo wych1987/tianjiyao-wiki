@@ -4,27 +4,57 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    {% assign meta_title = page.seo_title | default: page.title %}
+    {% assign page_description = page.description | default: page.excerpt | strip_html | strip_newlines | truncate: 160 | default: site.description %}
+    {% assign page_keywords = page.keywords | default: site.keywords %}
+    {% assign current_page_name = meta_title | default: site.title %}
+    {% assign section_name = '' %}
+    {% assign section_url = '' %}
+    {% if page.path contains 'bazi/' %}
+        {% assign section_name = '八字命理' %}
+        {% assign section_url = '/bazi/' %}
+    {% elsif page.path contains 'ziwei/' %}
+        {% assign section_name = '紫微斗数' %}
+        {% assign section_url = '/ziwei/' %}
+    {% elsif page.path contains 'yijing/' %}
+        {% assign section_name = '周易八卦' %}
+        {% assign section_url = '/yijing/' %}
+    {% elsif page.path contains 'ai/' %}
+        {% assign section_name = 'AI与传统玄学' %}
+        {% assign section_url = '/ai/' %}
+    {% elsif page.path contains 'practice/' %}
+        {% assign section_name = '实践指南' %}
+        {% assign section_url = '/practice/' %}
+    {% elsif page.path contains 'theory/' %}
+        {% assign section_name = '理论基础' %}
+        {% assign section_url = '/theory/' %}
+    {% endif %}
+    {% assign has_auto_breadcrumbs = false %}
+    {% if page.breadcrumbs == nil and page.path and page.path != 'index.md' %}
+        {% assign has_auto_breadcrumbs = true %}
+    {% endif %}
     
     <!-- SEO Meta Tags -->
-    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | join: ', ' }}{% endif %}{{ site.keywords | join: ', ' }}">
+    <title>{% if meta_title %}{{ meta_title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ page_description }}">
+    <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | join: ', ' }}, {% endif %}{{ site.keywords | join: ', ' }}">
     <meta name="author" content="{{ site.author }}">
+    <meta name="robots" content="index,follow,max-image-preview:large">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:title" content="{% if meta_title %}{{ meta_title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{{ page_description }}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/og-image.jpg' | absolute_url }}{% endif %}">
+    <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/apple-touch-icon.png' | absolute_url }}{% endif %}">
     <meta property="og:locale" content="zh_CN">
     
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/og-image.jpg' | absolute_url }}{% endif %}">
+    <meta name="twitter:title" content="{% if meta_title %}{{ meta_title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{{ page_description }}">
+    <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/apple-touch-icon.png' | absolute_url }}{% endif %}">
     
     <!-- Structured Data - Organization -->
     <script type="application/ld+json">
@@ -33,21 +63,71 @@
         "@type": "Organization",
         "name": "{{ site.title }}",
         "url": "{{ site.url }}",
-        "logo": "{{ '/assets/images/logo.png' | absolute_url }}",
+        "logo": "{{ '/apple-touch-icon.png' | absolute_url }}",
         "description": "{{ site.description }}",
         "sameAs": [
             "https://tianjiyao.com"
         ]
     }
     </script>
+
+    <!-- Structured Data - WebPage -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": {{ current_page_name | jsonify }},
+        "url": {{ page.url | absolute_url | jsonify }},
+        "description": {{ page_description | jsonify }},
+        "inLanguage": {{ site.lang | default: 'zh-CN' | jsonify }},
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": {{ site.title | jsonify }},
+            "url": {{ site.url | jsonify }}
+        }{% if page_keywords %},
+        "keywords": {{ page_keywords | join: ', ' | jsonify }}{% endif %}
+    }
+    </script>
+
+    <!-- Structured Data - Article -->
+    {% if page.date and page.path %}
+    {% unless page.path contains 'index.md' %}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": {% if page.path contains 'ai/' %}"TechArticle"{% else %}"Article"{% endif %},
+        "headline": {{ current_page_name | jsonify }},
+        "description": {{ page_description | jsonify }},
+        "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+        "dateModified": {{ page.date | date_to_xmlschema | jsonify }},
+        "mainEntityOfPage": {{ page.url | absolute_url | jsonify }},
+        "author": {
+            "@type": "Organization",
+            "name": {{ page.author | default: site.author | jsonify }}
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": {{ site.title | jsonify }},
+            "logo": {
+                "@type": "ImageObject",
+                "url": {{ '/apple-touch-icon.png' | absolute_url | jsonify }}
+            }
+        }{% if section_name != '' %},
+        "articleSection": {{ section_name | jsonify }}{% endif %}{% if page_keywords %},
+        "keywords": {{ page_keywords | join: ', ' | jsonify }}{% endif %}
+    }
+    </script>
+    {% endunless %}
+    {% endif %}
     
     <!-- Structured Data - Breadcrumb -->
-    {% if page.breadcrumbs %}
+    {% if page.breadcrumbs or has_auto_breadcrumbs %}
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
+            {% if page.breadcrumbs %}
             {% for crumb in page.breadcrumbs %}
             {
                 "@type": "ListItem",
@@ -56,6 +136,34 @@
                 "item": "{{ crumb.url | absolute_url }}"
             }{% unless forloop.last %},{% endunless %}
             {% endfor %}
+            {% else %}
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "首页",
+                "item": "{{ '/' | absolute_url }}"
+            }{% if section_name != '' %},
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "{{ section_name }}",
+                "item": "{{ section_url | absolute_url }}"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": {{ current_page_name | jsonify }},
+                "item": {{ page.url | absolute_url | jsonify }}
+            }
+            {% else %},
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": {{ current_page_name | jsonify }},
+                "item": {{ page.url | absolute_url | jsonify }}
+            }
+            {% endif %}
+            {% endif %}
         ]
     }
     </script>
@@ -299,9 +407,10 @@
     </nav>
     
     <!-- Breadcrumb -->
-    {% if page.breadcrumbs %}
+    {% if page.breadcrumbs or has_auto_breadcrumbs %}
     <nav class="breadcrumb">
         <ol>
+            {% if page.breadcrumbs %}
             {% for crumb in page.breadcrumbs %}
             <li>
                 {% if crumb.url and forloop.last == false %}
@@ -311,14 +420,21 @@
                 {% endif %}
             </li>
             {% endfor %}
+            {% else %}
+            <li><a href="{{ '/' | relative_url }}">首页</a></li>
+            {% if section_name != '' %}
+            <li><a href="{{ section_url | relative_url }}">{{ section_name }}</a></li>
+            {% endif %}
+            <li>{{ current_page_name }}</li>
+            {% endif %}
         </ol>
     </nav>
     {% endif %}
 
     <!-- Page Header -->
     <section class="page-header">
-        <h1 class="project-name">{{ page.title | default: site.title }}</h1>
-        <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+        <div class="project-name">{{ meta_title | default: site.title }}</div>
+        <p class="project-tagline">{{ page_description }}</p>
     </section>
 
     <!-- Main Content -->

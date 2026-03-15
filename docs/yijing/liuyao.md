@@ -2,7 +2,7 @@
 layout: default
 title: 六爻占卜入门：从起卦到解卦的完整流程
 description: 详解六爻占卜的基本原理、起卦方法、装卦技巧及解卦要点
-keywords: [六爻, 占卜, 起卦, 装卦, 解卦, 世应, 六亲, 六神]
+keywords: [ 六爻, 占卜, 起卦, 装卦, 解卦, 世应, 六亲, 六神 ]
 author: 周易研究团队
 date: 2025-11-06
 ---
@@ -478,8 +478,8 @@ date: 2025-11-06
 
 ## 📚 相关阅读
 
-- [返回周易首页](./index.md)
+- [周易六爻学习中心](./index.md)
 - [八字命理](../bazi/index.md)
 - [紫微斗数](../ziwei/index.md)
 - [AI与传统玄学](../ai/ai-introduction.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)

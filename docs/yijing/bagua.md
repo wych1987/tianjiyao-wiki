@@ -2,7 +2,7 @@
 layout: default
 title: 八卦详解：从乾坤到离坎的象征体系
 description: 深入解析八卦的形成原理、象征意义、相互关系及在占卜中的具体应用
-keywords: [八卦, 乾坤, 震巽, 坎离, 艮兑, 八卦类象, 先天八卦, 后天八卦]
+keywords: [ 八卦, 乾坤, 震巽, 坎离, 艮兑, 八卦类象, 先天八卦, 后天八卦 ]
 author: 周易研究团队
 date: 2025-11-06
 ---
@@ -413,8 +413,8 @@ date: 2025-11-06
 
 ## 📚 相关阅读
 
-- [返回周易首页](./index.md)
+- [周易六爻学习中心](./index.md)
 - [八字命理](../bazi/index.md)
 - [紫微斗数](../ziwei/index.md)
 - [AI与传统玄学](../ai/ai-introduction.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)

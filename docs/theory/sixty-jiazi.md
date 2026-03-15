@@ -2,10 +2,10 @@
 layout: default
 title: 六十甲子体系：干支组合的完整理论
 description: 系统讲解六十甲子的构成、纳音五行、空亡理论及在命理学中的广泛应用
-keywords: [六十甲子, 干支组合, 纳音五行, 空亡, 甲子历, 干支纪年, 命理基础]
+keywords: [ 六十甲子, 干支组合, 纳音五行, 空亡, 甲子历, 干支纪年, 命理基础 ]
 author: 命理理论研究团队
 date: 2025-11-06
-categories: [基础理论, 传统文化]
+categories: [ 基础理论, 传统文化 ]
 ---
 
 # 六十甲子理论体系研究：从干支历法到命理应用
@@ -373,4 +373,4 @@ if 纳音数 == 0 then 纳音数 = 5
 - [八字命理学习](../bazi/index.md)
 - [紫微斗数学习](../ziwei/index.md)
 - [实践应用指南](../practice/self-learning.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)

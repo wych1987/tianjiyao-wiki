@@ -2,7 +2,7 @@
 layout: default
 title: AI技术在周易占卜中的创新应用
 description: 探索人工智能如何辅助周易占卜，提升分析效率和准确性
-keywords: [AI占卜, 人工智能, 周易AI, 智能解卦, 机器学习, 知识图谱]
+keywords: [ AI占卜, 人工智能, 周易AI, 智能解卦, 机器学习, 知识图谱 ]
 author: AI玄学研究团队
 date: 2025-11-06
 ---
@@ -539,8 +539,8 @@ AI技术与周易研究的结合代表着传统文化与现代科技的有机融
 
 ## 📚 相关阅读
 
-- [返回周易首页](./index.md)
+- [周易六爻学习中心](./index.md)
 - [八字命理](../bazi/index.md)
 - [紫微斗数](../ziwei/index.md)
 - [AI与传统玄学](../ai/ai-introduction.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)

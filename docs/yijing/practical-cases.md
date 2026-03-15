@@ -2,7 +2,7 @@
 layout: default
 title: 六爻实战案例：真实占断的分析与验证
 description: 通过真实案例展示六爻占卜的完整流程和准确性验证
-keywords: [六爻案例, 实战占断, 案例分析, 验证反馈, 占卜经验]
+keywords: [ 六爻案例, 实战占断, 案例分析, 验证反馈, 占卜经验 ]
 author: 周易研究团队
 date: 2025-11-06
 ---
@@ -235,8 +235,8 @@ date: 2025-11-06
 
 ## 📚 相关阅读
 
-- [返回周易首页](./index.md)
+- [周易六爻学习中心](./index.md)
 - [八字命理](../bazi/index.md)
 - [紫微斗数](../ziwei/index.md)
 - [AI与传统玄学](../ai/ai-introduction.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)

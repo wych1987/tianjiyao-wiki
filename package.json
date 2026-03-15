@@ -16,6 +16,8 @@
     "create-theory": "node create-theory-docs.js",
     "create-all": "npm run create-missing && npm run create-ziwei && npm run create-ai && npm run create-practice && npm run create-theory",
     "optimize-links": "node optimize-internal-links.js",
+    "seo:normalize": "node tools/normalize-seo-frontmatter.js",
+    "seo:anchors": "node tools/optimize-anchor-texts.js",
     "sitemap": "node generate-sitemap.js",
     "help": "node enhance-docs.js --help"
   },

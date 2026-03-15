@@ -2,10 +2,10 @@
 layout: default
 title: 地支详解：十二地支的奥秘
 description: 深入讲解十二地支的内涵、相互关系、藏干理论及命理应用
-keywords: [地支, 十二地支, 子丑寅卯, 地支五行, 地支刑冲害合, 地支藏干, 生肖]
+keywords: [ 地支, 十二地支, 子丑寅卯, 地支五行, 地支刑冲害合, 地支藏干, 生肖 ]
 author: 命理理论研究团队
 date: 2025-11-06
-categories: [基础理论, 传统文化]
+categories: [ 基础理论, 传统文化 ]
 ---
 
 # 十二地支深度理论研究
@@ -380,4 +380,4 @@ categories: [基础理论, 传统文化]
 - [八字命理学习](../bazi/index.md)
 - [紫微斗数学习](../ziwei/index.md)
 - [实践应用指南](../practice/self-learning.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)

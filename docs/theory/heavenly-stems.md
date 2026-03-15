@@ -2,10 +2,10 @@
 layout: default
 title: 天干详解：十天干的象征与应用
 description: 全面解析十天干的含义、属性、相互关系及在命理学中的具体应用
-keywords: [天干, 十天干, 甲乙丙丁, 天干五行, 天干阴阳, 干支系统, 天干合化]
+keywords: [ 天干, 十天干, 甲乙丙丁, 天干五行, 天干阴阳, 干支系统, 天干合化 ]
 author: 命理理论研究团队
 date: 2025-11-06
-categories: [基础理论, 传统文化]
+categories: [ 基础理论, 传统文化 ]
 ---
 
 # 十天干系统理论研究：从哲学基础到实践应用
@@ -226,4 +226,4 @@ categories: [基础理论, 传统文化]
 - [六十甲子体系](./sixty-jiazi.md)
 - [八字命理学习](../bazi/index.md)
 - [紫微斗数学习](../ziwei/index.md)
-- [返回首页](../index.md)
+- [天机爻 Wiki 首页](../index.md)
