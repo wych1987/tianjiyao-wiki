@@ -20,7 +20,10 @@ const files = glob.sync('**/*.md', {
 
 // 生成sitemap条目
 const urlEntries = files.map(file => {
-  const url = file.replace(/\.md$/, '.html').replace(/index\.html$/, '');
+  const htmlPath = file.replace(/\.md$/, '.html');
+  const url = htmlPath === 'index.html'
+    ? ''
+    : htmlPath.replace(/\/index\.html$/, '/');
   const filePath = path.join(DOCS_DIR, file);
   const stats = fs.statSync(filePath);
   const lastmod = stats.mtime.toISOString().split('T')[0];

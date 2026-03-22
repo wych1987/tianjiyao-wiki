@@ -2,7 +2,7 @@
 layout: default
 title: AI与传统玄学 - 天机爻Wiki
 seo_title: AI 命理与传统玄学：机器学习、NLP 与知识图谱
-description: 聚焦 AI 命理与传统玄学的结合，涵盖机器学习、自然语言处理、知识图谱与大语言模型在命理中的应用。
+description: 聚焦 AI 命理与传统玄学的结合，涵盖机器学习、自然语言处理、知识图谱与大语言模型在命理中的应用，适合了解技术方法、应用场景与研究边界。
 keywords:
   - AI命理
   - 机器学习

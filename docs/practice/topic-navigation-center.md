@@ -104,6 +104,11 @@ date: 2026-03-15
 2. [专题导航中心](topic-navigation-center.md)
 3. [命例库索引](case-library.md)
 
+如果你在学习过程中频繁遇到概念混淆，可以再配合：
+
+1. [命理术语总表：八字、紫微、六爻常用概念统一索引](glossary-index.md)
+2. [八字与紫微对比：结构、人格与运势视角的差异](bazi-ziwei-comparison.md)
+
 这样可以先建立主干，再进入具体问题，再进入案例训练。
 
 ## 四、专题导航和命例库的关系
@@ -138,5 +143,7 @@ date: 2026-03-15
 
 - [统一学习地图](learning-map.md)
 - [命例库索引](case-library.md)
+- [命理术语总表：八字、紫微、六爻常用概念统一索引](glossary-index.md)
+- [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
 - [返回实践指南](index.md)
 - [天机爻 Wiki 首页](../index.md)

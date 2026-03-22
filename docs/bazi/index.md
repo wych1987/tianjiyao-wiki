@@ -2,7 +2,7 @@
 layout: default
 title: 八字命理学术体系 - 四柱理论与实践
 seo_title: 八字命理学习中心：四柱、十神、格局与命例
-description: 系统学习八字命理、四柱排盘、十神分析、旺衰取用、格局判断与命例拆解，适合八字入门到进阶。
+description: 系统学习八字命理、四柱排盘、十神分析、旺衰取用、格局判断与命例拆解，适合八字入门到进阶，适合入门学习、专题进阶与案例延伸阅读。
 keywords:
   - 八字命理学习
   - 四柱八字教程
@@ -58,6 +58,7 @@ breadcrumbs:
 - **[健康命例专题](health-case-studies.md)** - 用案例理解体质偏向、长期透支与风险阶段触发
 - **[特殊格命例专题](special-pattern-case-studies.md)** - 用案例拆解从格、化气格与假从误判边界
 - **[破格与转运命例专题](broken-pattern-case-studies.md)** - 用案例理解结构失衡、运势放大与阶段性修复
+- **[八字命理常见问题](faq.md)** - 集中回答入门顺序、旺衰取用、合婚与理性使用等高频问题
 
 ## 🎓 学习建议
 
@@ -119,6 +120,8 @@ breadcrumbs:
 - [健康命例专题](./health-case-studies.md)
 - [特殊格命例专题](./special-pattern-case-studies.md)
 - [破格与转运命例专题](./broken-pattern-case-studies.md)
+- [八字命理常见问题](./faq.md)
+- [八字与紫微对比：结构、人格与运势视角的差异](../practice/bazi-ziwei-comparison.md)
 - [紫微斗数理论](../ziwei/index.md)
 - [周易八卦学习](../yijing/index.md)
 - [理论基础模块](../theory/index.md)

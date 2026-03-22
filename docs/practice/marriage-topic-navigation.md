@@ -106,6 +106,7 @@ date: 2026-03-15
 1. [八字合婚方法](../bazi/compatibility-analysis.md)
 2. [紫微双人合盘方法](../ziwei/compatibility-analysis.md)
 3. [紫微婚后协同专题](../ziwei/marital-collaboration-analysis.md)
+4. [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
 
 ### 4. 想处理眼前感情问题
 
@@ -122,6 +123,10 @@ date: 2026-03-15
 2. 再用紫微看关系模式和双盘协同
 3. 最后用六爻看具体阶段和当前事件推进
 
+如果你希望把三层视角直接整理成一套完整关系判断框架，可以继续读：
+
+1. [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
+
 这样的训练方式，比只学单一体系更容易形成完整判断。
 
 ## 八、相关阅读
@@ -129,4 +134,5 @@ date: 2026-03-15
 - [专题导航中心](topic-navigation-center.md)
 - [统一学习地图](learning-map.md)
 - [命例库索引](case-library.md)
+- [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
 - [返回实践指南](index.md)

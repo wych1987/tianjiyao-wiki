@@ -2,7 +2,7 @@
 layout: default
 title: 天机爻Wiki - 传统命理学知识库
 seo_title: 八字、紫微、周易与 AI 命理知识库
-description: 天机爻官方知识库，系统整理八字命理、紫微斗数、周易六爻、阴阳五行与 AI 命理学习内容。
+description: 天机爻官方知识库，系统整理八字命理、紫微斗数、周易六爻、阴阳五行与 AI 命理内容，适合入门学习、专题检索与案例延伸。
 keywords:
   - 天机爻
   - 八字命理教程
@@ -37,6 +37,7 @@ breadcrumbs:
 - [八字合婚方法](bazi/compatibility-analysis.md) - 把八字关系判断推进到双人匹配与落地时机分析
 - [健康判断](bazi/health-analysis.md) - 补足体质偏向、调候失衡与风险阶段的专业框架
 - [健康命例专题](bazi/health-case-studies.md) - 用案例说明长期透支、寒热失衡与大运触发逻辑
+- [八字常见问题](bazi/faq.md) - 统一解答入门顺序、旺衰取用、合婚与准确性等高频问题
 
 ### ⭐ 紫微斗数
 
@@ -60,6 +61,7 @@ breadcrumbs:
 - [命宫与福德命例专题](ziwei/life-fortune-case-studies.md) - 解释为什么有些盘外在不错但内里很累，或反而更能活出稳定感
 - [双人合盘方法](ziwei/compatibility-analysis.md) - 把紫微从单盘分析推进到双人关系匹配与落地时机判断
 - [婚后协同专题](ziwei/marital-collaboration-analysis.md) - 补足婚后分工、财务、空间与长期相处这条应用线
+- [紫微斗数常见问题](ziwei/faq.md) - 回答宫位、星曜、四化、合盘与学习顺序等高频疑问
 
 ### 🤖 AI 与传统玄学
 
@@ -85,9 +87,11 @@ breadcrumbs:
 - [六爻分类占断总论](yijing/classified-divination.md) - 按题目建立婚姻、求财、事业、疾病等分类判断框架
 - [六爻考试升学占断](yijing/exam-divination.md) - 补足考试、证书、录取通知这一类极高频现实题目
 - [六爻应期判断](yijing/response-timing.md) - 专门解释六爻里最难也最关键的时间判断逻辑
+- [六爻应期案例专题](yijing/response-timing-cases.md) - 用案例拆解消息应、结果应、出空应与阶段成熟应
 - [64卦详解](yijing/hexagrams.md) - 系统学习六十四卦卦辞爻辞
 - [占卜方法与技巧](yijing/divination-methods.md) - 提升预测准确度的实战经验
 - [六爻实战案例](yijing/practical-cases.md) - 真实案例深度分析
+- [六爻常见问题](yijing/faq.md) - 集中回答入门、断卦、应期与准确性等高频问题
 
 ### 📐 理论基础
 
@@ -110,6 +114,10 @@ breadcrumbs:
 - [婚姻关系专题导航](practice/marriage-topic-navigation.md) - 把八字、紫微、六爻中的婚恋与合盘内容横向串起来
 - [财富事业专题导航](practice/wealth-career-topic-navigation.md) - 把财运、事业、职业路径和求财求职内容整理成跨体系入口
 - [健康风险专题导航](practice/health-risk-topic-navigation.md) - 把体质、承压、病势与风险阶段内容整理成跨体系入口
+- [命理术语总表](practice/glossary-index.md) - 为高频概念和跨体系名词建立统一查词中心
+- [八字与紫微对比](practice/bazi-ziwei-comparison.md) - 把两套主体系的分工、差异与互补关系说清楚
+- [综合关系匹配](practice/comprehensive-compatibility-analysis.md) - 用八字、紫微、六爻三层视角处理合婚与关系推进问题
+- [命理的科学性与边界](practice/scientific-perspective.md) - 回答“命理是不是科学”及其理性使用方式
 - [自学路径指南](practice/self-learning.md) - 高效的自主学习方法
 - [经典案例分析](practice/case-studies.md) - 真实案例的深度解读
 - [常见错误避坑](practice/common-mistakes.md) - 初学者易犯错误总结

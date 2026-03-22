@@ -73,6 +73,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://wiki.tianjiyao.com/bazi/faq.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://wiki.tianjiyao.com/bazi/five-elements.html</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -104,7 +110,7 @@
   </url>
   <url>
     <loc>https://wiki.tianjiyao.com/bazi/</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -146,7 +152,7 @@
   </url>
   <url>
     <loc>https://wiki.tianjiyao.com/bazi/ten-gods-enhanced.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -176,13 +182,19 @@
   </url>
   <url>
     <loc>https://wiki.tianjiyao.com/</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://wiki.tianjiyao.com/practice/bazi-ziwei-comparison.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://wiki.tianjiyao.com/practice/case-library.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -199,6 +211,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://wiki.tianjiyao.com/practice/comprehensive-compatibility-analysis.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wiki.tianjiyao.com/practice/glossary-index.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://wiki.tianjiyao.com/practice/health-risk-topic-navigation.html</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,19 +230,25 @@
   </url>
   <url>
     <loc>https://wiki.tianjiyao.com/practice/</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://wiki.tianjiyao.com/practice/learning-map.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://wiki.tianjiyao.com/practice/marriage-topic-navigation.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wiki.tianjiyao.com/practice/scientific-perspective.html</loc>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -236,7 +266,7 @@
   </url>
   <url>
     <loc>https://wiki.tianjiyao.com/practice/topic-navigation-center.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -319,6 +349,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://wiki.tianjiyao.com/yijing/faq.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://wiki.tianjiyao.com/yijing/health-divination.html</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -332,7 +368,7 @@
   </url>
   <url>
     <loc>https://wiki.tianjiyao.com/yijing/</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -375,6 +411,12 @@
   <url>
     <loc>https://wiki.tianjiyao.com/yijing/practical-cases.html</loc>
     <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wiki.tianjiyao.com/yijing/response-timing-cases.html</loc>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,6 +493,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://wiki.tianjiyao.com/ziwei/faq.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://wiki.tianjiyao.com/ziwei/fortune-palace-analysis.html</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -476,7 +524,7 @@
   </url>
   <url>
     <loc>https://wiki.tianjiyao.com/ziwei/</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 命例库索引：八字、紫微、六爻案例与实战专题总导航
-description: 汇总天机爻Wiki中的八字、紫微斗数、六爻案例与实战专题，按体系和主题建立统一命例库索引。
+description: 汇总天机爻Wiki中的八字、紫微斗数、六爻案例与实战专题，按体系和主题建立统一命例库索引，适合用于专题检索、学习规划与案例延伸。
 keywords: [ 命例库, 案例索引, 八字案例, 紫微案例, 六爻案例, 实战专题 ]
 author: 命理学习指导团队
 date: 2026-03-15
@@ -81,7 +81,8 @@ date: 2026-03-15
 
 1. [六爻分类占断总论](../yijing/classified-divination.md)
 2. [六爻应期判断](../yijing/response-timing.md)
-3. [六爻实战案例](../yijing/practical-cases.md)
+3. [六爻应期案例专题](../yijing/response-timing-cases.md)
+4. [六爻实战案例](../yijing/practical-cases.md)
 
 ### 六爻高频专题入口
 
@@ -106,6 +107,7 @@ date: 2026-03-15
 4. [紫微双人合盘方法](../ziwei/compatibility-analysis.md)
 5. [紫微婚后协同专题](../ziwei/marital-collaboration-analysis.md)
 6. [六爻婚姻感情占断](../yijing/marriage-divination.md)
+7. [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
 
 ### 财富与事业
 
@@ -128,6 +130,7 @@ date: 2026-03-15
 1. [八字破格与转运命例专题](../bazi/broken-pattern-case-studies.md)
 2. [紫微大限转折命例专题](../ziwei/dynamic-turning-point-case-studies.md)
 3. [六爻应期判断](../yijing/response-timing.md)
+4. [六爻应期案例专题](../yijing/response-timing-cases.md)
 
 ### 学业、证件、录取
 
@@ -160,6 +163,7 @@ date: 2026-03-15
 2. [紫微双人合盘方法](../ziwei/compatibility-analysis.md)
 3. [紫微婚后协同专题](../ziwei/marital-collaboration-analysis.md)
 4. [六爻考试升学占断](../yijing/exam-divination.md)
+5. [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
 
 ## 七、建议的配套用法
 
@@ -181,11 +185,13 @@ date: 2026-03-15
 3. 六爻高频问题案例库索引
 4. 更多跨体系主题导航页
 5. 六爻高频问题的独立案例页
+6. 更细的应期案例分型页
 
 ## 相关阅读
 
 - [专题导航中心](topic-navigation-center.md)
 - [统一学习地图](learning-map.md)
+- [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
 - [经典案例分析](case-studies.md)
 - [自学路径指南](self-learning.md)
 - [天机爻 Wiki 首页](../index.md)

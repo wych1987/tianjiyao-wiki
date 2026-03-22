@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 命理学习地图：八字、紫微、六爻进阶路线
-description: 整理八字、紫微斗数、周易六爻三大体系的学习顺序，帮助读者建立可执行的命理进阶路线。
+description: 整理八字、紫微斗数、周易六爻三大体系的学习顺序，帮助读者建立可执行的命理进阶路线，适合用于专题检索、学习规划与案例延伸。
 keywords: [ 学习地图, 学习路径, 八字学习路线, 紫微学习路线, 六爻学习路线, 命理进阶 ]
 author: 命理学习指导团队
 date: 2026-03-15
@@ -42,10 +42,10 @@ seo_title: 命理学习地图：八字、紫微、六爻路线
 
 建议阅读顺序：
 
-1. [阴阳理论基础](theory/yinyang.md)
-2. [天干详解](theory/heavenly-stems.md)
-3. [地支详解](theory/earthly-branches.md)
-4. [六十甲子体系](theory/sixty-jiazi.md)
+1. [阴阳理论基础](../theory/yinyang.md)
+2. [天干详解](../theory/heavenly-stems.md)
+3. [地支详解](../theory/earthly-branches.md)
+4. [六十甲子体系](../theory/sixty-jiazi.md)
 5. [自学路径指南](self-learning.md)
 
 这一阶段完成后，至少应做到：
@@ -73,6 +73,11 @@ seo_title: 命理学习地图：八字、紫微、六爻路线
 1. 先学八字，再学紫微：能更好区分“结构”和“人格场”
 2. 先学紫微，再学八字：能更好区分“宫位关系”和“干支气势”
 3. 先学八字或紫微，再学六爻：更容易理解静态结构与动态事件的差别
+
+这一步很适合配合阅读：
+
+1. [八字与紫微对比：结构、人格与运势视角的差异](bazi-ziwei-comparison.md)
+2. [命理术语总表：八字、紫微、六爻常用概念统一索引](glossary-index.md)
 
 ### 第四阶段：进入命例与应用层
 
@@ -268,6 +273,8 @@ seo_title: 命理学习地图：八字、紫微、六爻路线
 ## 参考阅读
 
 - [专题导航中心](topic-navigation-center.md)
+- [命理术语总表：八字、紫微、六爻常用概念统一索引](glossary-index.md)
+- [八字与紫微对比：结构、人格与运势视角的差异](bazi-ziwei-comparison.md)
 - [自学路径指南](self-learning.md)
 - [常见错误避坑](common-mistakes.md)
 - [工具与资源](tools-resources.md)

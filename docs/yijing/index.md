@@ -2,7 +2,7 @@
 layout: default
 title: 周易八卦概论：中华预测学的哲学基石
 seo_title: 周易六爻学习中心：八卦、断卦、应期与案例
-description: 系统学习周易八卦、六爻占卜、纳甲装卦、断卦规则、分类占断与应期判断，适合周易入门与六爻进阶。
+description: 系统学习周易八卦、六爻占卜、纳甲装卦、断卦规则、分类占断与应期判断，适合周易入门与六爻进阶，适合建立断卦框架、分类占断与实战进阶。
 keywords: [ 周易, 八卦, 易经, 卦象, 预测学, 中国哲学, 六十四卦 ]
 author: 周易研究团队
 date: 2025-11-06
@@ -236,6 +236,9 @@ date: 2025-11-06
 - [六爻出行迁移占断](travel-divination.md) - 分析旅行、搬迁、调动、异地发展中的成行与承接问题
 - [六爻考试升学占断](exam-divination.md) - 系统分析考试、证书、面试、录取与通知问题
 - [六爻应期判断](response-timing.md) - 专门解决六爻里最关键的“什么时候应”问题
+- [六爻应期案例专题](response-timing-cases.md) - 用案例拆解消息应、动作应、结果应与阶段成熟应
+- [六爻与周易常见问题](faq.md) - 集中回答入门、断卦、应期与理性使用问题
+- [AI在周易中的应用](ai-application.md) - 从智能起卦、案例检索到辅助解读理解技术如何进入六爻实践
 
 ### 建议学习顺序
 
@@ -253,8 +256,10 @@ date: 2025-11-06
 12. [六爻出行迁移占断](travel-divination.md)
 13. [六爻考试升学占断](exam-divination.md)
 14. [六爻应期判断](response-timing.md)
+14. [六爻应期案例专题](response-timing-cases.md)
 15. [卦象解读技巧](interpretation.md)
 16. [六爻实战案例](practical-cases.md)
+17. [六爻与周易常见问题](faq.md)
 
 ### 常见误区避免
 1. **迷信化**：将周易简单等同于算命工具
@@ -296,6 +301,9 @@ date: 2025-11-06
 
 - [六爻占卜入门](./liuyao.md)
 - [六爻断卦核心法则](./duan-gua-rules.md)
+- [六爻应期案例专题](./response-timing-cases.md)
+- [六爻与周易常见问题](./faq.md)
+- [AI在周易中的应用](./ai-application.md)
 - [六爻实战案例](./practical-cases.md)
 - [八字命理](../bazi/index.md)
 - [紫微斗数](../ziwei/index.md)

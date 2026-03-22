@@ -53,7 +53,17 @@ class DocumentAnalyzer {
 
         // 分析标题结构
         const lines = content.split('\n');
+        let inCodeBlock = false;
         for (const line of lines) {
+            if (line.trim().startsWith('```')) {
+                inCodeBlock = !inCodeBlock;
+                continue;
+            }
+
+            if (inCodeBlock) {
+                continue;
+            }
+
             const match = line.match(/^(#{1,6})\s+(.+)$/);
             if (match) {
                 metadata.headings.push({
@@ -107,7 +117,7 @@ class DocumentAnalyzer {
      */
     async generateReport() {
         console.log(chalk.blue('📊 天机爻Wiki文档分析报告'));
-        console.log('=' * 50);
+        console.log('='.repeat(50));
 
         // 查找所有markdown文件
         const files = glob.sync(path.join(this.docsPath, '**/*.md'));
@@ -154,7 +164,7 @@ class DocumentAnalyzer {
      */
     generateStatistics(analyses) {
         console.log(chalk.blue('\n📈 统计信息'));
-        console.log('-' * 30);
+        console.log('-'.repeat(30));
 
         // 按目录分类
         const dirStats = {};
@@ -194,7 +204,7 @@ class DocumentAnalyzer {
      */
     generateQualityReport(analyses) {
         console.log(chalk.blue('\n🎯 质量分析'));
-        console.log('-' * 30);
+        console.log('-'.repeat(30));
 
         let issues = [];
 
@@ -257,7 +267,7 @@ class DocumentAnalyzer {
      */
     generateSEOReport(analyses) {
         console.log(chalk.blue('\n🔍 SEO分析'));
-        console.log('-' * 30);
+        console.log('-'.repeat(30));
 
         const seoIssues = [];
 
@@ -321,7 +331,7 @@ class DocumentAnalyzer {
      */
     generateStructureReport(analyses) {
         console.log(chalk.blue('\n🏗️  结构分析'));
-        console.log('-' * 30);
+        console.log('-'.repeat(30));
 
         // 链接分析
         const allLinks = analyses.flatMap(doc => 

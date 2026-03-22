@@ -20,7 +20,23 @@ const sectionKeywords = {
   practice: ['命理学习', '案例分析', '实践指南']
 };
 
+const descriptionSuffixes = {
+  ai: '，适合了解技术方法、应用场景与研究边界。',
+  bazi: '，适合入门学习、专题进阶与案例延伸阅读。',
+  ziwei: '，适合建立读盘框架、专题理解与实战进阶。',
+  yijing: '，适合建立断卦框架、分类占断与实战进阶。',
+  theory: '，适合作为八字、紫微斗数与六爻学习的理论基础。',
+  practice: '，适合用于专题检索、学习规划与案例延伸。',
+  docs: '，适合系统学习、专题检索与延伸阅读。'
+};
+
 const overrides = {
+  'docs/index.md': {
+    title: '天机爻Wiki - 传统命理学知识库',
+    seo_title: '八字、紫微、周易与 AI 命理知识库',
+    description: '天机爻官方知识库，系统整理八字命理、紫微斗数、周易六爻、阴阳五行与 AI 命理内容，适合入门学习、专题检索与案例延伸。',
+    h1: '八字、紫微、周易与 AI 命理知识库'
+  },
   'docs/ai/ai-introduction.md': {
     title: 'AI 命理与传统玄学概论：技术、方法与应用',
     seo_title: 'AI 命理概论：技术、方法与应用',
@@ -93,6 +109,12 @@ const overrides = {
     description: '整理八字、紫微斗数、周易六爻三大体系的学习顺序，帮助读者建立可执行的命理进阶路线。',
     h1: '命理学习地图：八字、紫微、六爻进阶路线'
   },
+  'docs/practice/index.md': {
+    title: '命理实践指南：学习地图、命例库与专题导航',
+    seo_title: '命理实践指南：学习地图、命例库与专题导航',
+    description: '提供命理学习地图、命例库索引、专题导航、自学方法与工具资源，帮助读者把八字、紫微与六爻真正用起来。',
+    h1: '命理实践指南'
+  },
   'docs/practice/self-learning.md': {
     title: '命理自学指南：入门路线、阶段目标与学习方法',
     seo_title: '命理自学指南：入门路线与学习方法',
@@ -126,7 +148,7 @@ const overrides = {
   'docs/ziwei/stars.md': {
     title: '紫微斗数星曜详解：十四主星、辅星与判断框架',
     seo_title: '紫微斗数星曜详解：十四主星与辅星',
-    description: '系统讲解紫微斗数十四主星、辅星与煞曜的基本特征、落宫差异与判断框架。',
+    description: '系统讲解紫微斗数十四主星、辅星与煞曜的基本特征、落宫差异、判断顺序与读盘框架。',
     h1: '紫微斗数星曜详解：十四主星、辅星与判断框架'
   },
   'docs/ziwei/palaces.md': {
@@ -158,6 +180,24 @@ const overrides = {
     seo_title: '紫微斗数高级技法：流日、小限与神煞',
     description: '系统介绍紫微斗数高级技法，包括流日、小限、神煞与特殊命格的判断方法和使用边界。',
     h1: '紫微斗数高级技法：流日、小限、神煞与特殊命格'
+  },
+  'docs/ziwei/wealth-palace-analysis.md': {
+    title: '紫微斗数财帛宫专题：财富结构、赚钱模式与资源承接的专业读法',
+    seo_title: '紫微斗数财帛宫：财富结构与赚钱模式',
+    description: '系统讲解紫微斗数财帛宫的分析方法，结合主星、三方四正、对宫、四化与辅煞判断财富结构、赚钱模式与资源承接能力。',
+    h1: '紫微斗数财帛宫专题'
+  },
+  'docs/ziwei/travel-palace-analysis.md': {
+    title: '紫微斗数迁移宫专题：外部环境、异地发展与公众场域的专业读法',
+    seo_title: '紫微斗数迁移宫：外部环境与异地发展',
+    description: '系统讲解紫微斗数迁移宫的分析方法，重点分析外部机会、异地发展、公众表现与命盘内外结构的互动关系。',
+    h1: '紫微斗数迁移宫专题'
+  },
+  'docs/ziwei/sanfang-sizheng.md': {
+    title: '紫微斗数三方四正与对宫体系：结构化读盘的核心骨架',
+    seo_title: '紫微斗数三方四正：结构化读盘核心骨架',
+    description: '系统讲解紫微斗数三方四正、对宫、借星与结构承接关系，帮助读者建立专业读盘的主干框架与判断顺序。',
+    h1: '紫微斗数三方四正与对宫体系'
   }
 };
 
@@ -197,6 +237,42 @@ function inferKeywords(filePath, title) {
   return unique(candidates).slice(0, 8);
 }
 
+function ensureSentenceEnding(text) {
+  if (!text) return text;
+  return /[。！？]$/.test(text) ? text : `${text}。`;
+}
+
+function trimDescription(text, maxLength = 160) {
+  if (text.length <= maxLength) return text;
+  const trimmed = text.slice(0, maxLength - 1).replace(/[，、；：\s]+$/u, '');
+  return ensureSentenceEnding(trimmed);
+}
+
+function normalizeDescriptionLength(description, filePath, title) {
+  const section = inferSection(filePath);
+  const suffix = descriptionSuffixes[section] || descriptionSuffixes.docs;
+  const fallbackTitle = normalizeWrappedText(title) || '天机爻知识内容整理';
+  let next = normalizeWrappedText(description || '');
+
+  if (!next) {
+    next = `${fallbackTitle}${suffix}`;
+  }
+
+  if (next.length < 50) {
+    const base = next.replace(/[。！？]$/u, '');
+    const cleanSuffix = suffix.replace(/^，/u, '，');
+    next = `${base}${cleanSuffix}`;
+  }
+
+  next = ensureSentenceEnding(next);
+
+  if (next.length < 50) {
+    next = `${next.replace(/[。！？]$/u, '')}，帮助读者快速建立清晰的理解框架。`;
+  }
+
+  return trimDescription(next, 160);
+}
+
 function replaceFirstHeading(body, nextHeading) {
   if (!nextHeading) return body;
   if (/^# .+$/m.test(body)) {
@@ -224,6 +300,11 @@ function processFile(filePath) {
       if (key !== 'h1') doc.set(key, value);
     });
   }
+
+  doc.set(
+    'description',
+    normalizeDescriptionLength(doc.get('description'), relativePath, doc.get('title'))
+  );
 
   const keywords = doc.get('keywords');
   if (!keywords || (Array.isArray(keywords) && keywords.length === 0)) {
