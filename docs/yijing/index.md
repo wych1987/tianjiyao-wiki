@@ -10,6 +10,31 @@ date: 2025-11-06
 
 # 周易六爻学习中心：八卦、断卦与案例
 
+如果你主要是为了学六爻实战，建议把这条路线记住：八卦基础 → 起卦方法 → 纳甲装卦 → 类象落地 → 断卦规则 → 分类占断 → 应期训练。很多人学到中段会卡住，不是因为规则不够，而是不会把六亲、六神、世应和伏神真正落到现实事件里。
+
+这页会把六爻学习中心整理成一条更清楚的路径，帮助你从概念进入事件判断。
+
+## 📚 学习路径
+
+### 🎯 基础入门
+- **[八卦详解](bagua.md)** - 先把八卦象义与基本结构走顺
+- **[六爻占卜入门](liuyao.md)** - 建立起卦、装卦、解卦的整体流程感
+- **[占卜方法与技巧](divination-methods.md)** - 补足不同起卦方式和使用注意点
+
+### 🔬 核心方法
+- **[六爻纳甲装卦体系](najia-system.md)** - 把卦装对，建立六亲、六神、世应的共同底盘
+- **[纳甲类象框架](../theory/najia-xiangyi-framework.md)** - 解决“会装卦但不会把结构落到事件里”的关键问题
+- **[纳甲类象误判案例](../theory/najia-xiangyi-misjudgment-cases.md)** - 用反面案例训练六亲、六神、世应最容易错在哪里
+- **[六爻断卦核心法则](duan-gua-rules.md)** - 建立取用神、辨旺衰、看冲合和判断顺序
+- **[卦象解读技巧](interpretation.md)** - 补足从卦象到现实表述的解释能力
+
+### ⚡ 进阶应用
+- **[六爻分类占断总论](classified-divination.md)** - 按婚姻、求财、事业、疾病等主题建立判断框架
+- **[六爻应期判断](response-timing.md)** - 训练时间判断能力
+- **[六爻应期案例专题](response-timing-cases.md)** - 用案例拆消息应、结果应和阶段成熟应
+- **[六爻实战案例](practical-cases.md)** - 用真实案例反复校准结构判断
+- **[六爻常见问题](faq.md)** - 集中回答入门、断卦、应期和理性使用问题
+
 ## 一、历史渊源与发展脉络
 
 ### 伏羲画卦的传说与考证
@@ -218,6 +243,15 @@ date: 2025-11-06
 
 **第三阶段（1-3年）**：
 系统研究易学流派、深入理解易学哲学
+
+## 🔗 推荐联读
+
+- [纳甲类象框架](../theory/najia-xiangyi-framework.md) - 把六亲、六神、世应真正接到事件结构上
+- [纳甲类象误判案例](../theory/najia-xiangyi-misjudgment-cases.md) - 反过来训练“为什么会接错”
+- [象意思维基础](../theory/xiangyi-thinking.md) - 先把类象和取象的共通方法走顺
+- [宫位场域框架](../theory/palace-field-framework.md) - 帮助理解“世应与外部环境”也是一种场域关系
+- [八字命理学习中心](../bazi/index.md) - 补趋势与结构视角
+- [紫微斗数学习中心](../ziwei/index.md) - 补人格与宫位视角
 形成个人理解体系、尝试实际应用指导
 
 ## 七、六爻学习路线
@@ -304,6 +338,15 @@ date: 2025-11-06
 - [六爻应期案例专题](./response-timing-cases.md)
 - [六爻与周易常见问题](./faq.md)
 - [AI在周易中的应用](./ai-application.md)
+- [重大医学决策支持：八字、紫微与六爻的综合判断框架](../practice/medical-decision-support-framework.md)
+- [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](../practice/career-transition-analysis.md)
+- [Offer比较与待遇选择：八字、紫微与六爻的综合判断框架](../practice/offer-comparison-analysis.md)
+- [康复进程追踪：八字、紫微与六爻的综合分析框架](../practice/recovery-process-tracking.md)
+- [年度健康风险窗口：八字、紫微与六爻的综合分析框架](../practice/annual-health-risk-window.md)
+- [职业转轨失败案例：八字、紫微与六爻的反面案例分析](../practice/career-transition-failure-cases.md)
+- [长期恢复慢案例：八字、紫微与六爻的反面案例分析](../practice/prolonged-recovery-case-studies.md)
+- [继续跳槽还是先稳住：八字、紫微与六爻的综合判断框架](../practice/jump-again-or-stabilize.md)
+- [复工还是继续休整：八字、紫微与六爻的综合判断框架](../practice/return-to-work-or-rest.md)
 - [六爻实战案例](./practical-cases.md)
 - [八字命理](../bazi/index.md)
 - [紫微斗数](../ziwei/index.md)

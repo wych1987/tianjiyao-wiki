@@ -68,10 +68,26 @@ breadcrumbs:
 探讨人工智能技术在传统命理学中的应用与发展，帮助读者理解技术如何参与知识整理、分析辅助与现代化表达。
 
 **前沿内容：**
+- [AI模块完整索引](ai/complete-index.md) - 用一张总索引把 AI 模块中的概论页、技术方法页、知识库工作流、评估页与伦理协作页重新串起来
 - [AI与传统玄学融合](ai/ai-introduction.md) - 了解AI如何辅助命理学习和应用
 - [机器学习在八字中的应用](ai/machine-learning-bazi.md) - 深度学习模型在命理预测中的创新
 - [NLP文本分析](ai/nlp-analysis.md) - 自然语言处理技术解读命理典籍
 - [命理知识图谱](ai/knowledge-graph.md) - 构建结构化的传统命理知识网络
+- [AI命理知识库工作流](ai/ai-knowledge-base-workflow.md) - 把古籍整理、规则抽取、索引检索与问答输出接成完整落地链路
+- [AI评测集设计](ai/ai-evaluation-dataset-design.md) - 讲清命理 AI 的规则题、问答题、边界题和高风险升级题应该怎样设计
+- [AI知识源分层规范](ai/ai-source-layering-spec.md) - 讲清古籍、规则、案例和边界文档怎样在知识库中分级治理
+- [AI提示词边界设计](ai/ai-prompt-boundary-design.md) - 讲清怎样通过提示词控制角色、任务、语言与升级边界
+- [AI评测Rubric模板](ai/ai-evaluation-rubric-template.md) - 提供命理问答和高风险场景的统一评分骨架
+- [AI知识源元数据模板](ai/ai-source-metadata-template.md) - 提供文档入库前应补齐的核心字段模板
+- [AI提示词模板规范](ai/ai-prompt-template-spec.md) - 提供规则题、解释题和高风险题的提示词骨架模板
+- [AI命理效果评估](ai/ai-mingli-evaluation.md) - 讨论 AI 命理系统怎样验证，而不是只停在“准不准”的口号
+- [AI命理协作流程](ai/ai-human-collaboration.md) - 明确人工判断与模型辅助如何分工，控制高风险场景边界
+- [AI命理问答误判案例](ai/ai-qa-misjudgment-cases.md) - 用反面案例训练“语言流畅”为什么不等于“判断可靠”
+- [AI知识库召回失误案例](ai/ai-retrieval-failure-cases.md) - 用反面案例训练检索系统为什么会“命中但答偏”
+- [AI过度自信案例](ai/ai-overconfidence-cases.md) - 用反面案例训练模型在哪些场景最容易把不确定说成确定
+- [AI评测集失败案例](ai/ai-evaluation-dataset-failure-cases.md) - 用反面案例训练为什么评测分数好看仍可能严重高估系统能力
+- [AI知识源污染案例](ai/ai-source-contamination-cases.md) - 用反面案例训练知识分层失效后系统为什么会持续输出失真内容
+- [AI提示词边界失败案例](ai/ai-prompt-boundary-failure-cases.md) - 用反面案例训练边界约束为什么会被主任务提示压过去
 - [AI命理未来趋势](ai/future-trends.md) - 探索技术发展的前沿方向
 
 ### 🔮 周易八卦
@@ -98,10 +114,21 @@ breadcrumbs:
 深入探究支撑命理学的核心哲学理论，理解传统智慧的底层逻辑。
 
 **核心理论：**
+- [理论基础完整索引](theory/complete-index.md) - 用一张总索引把理论模块中的基础页、方法页、误判训练页与三大体系入口重新串起来
 - [阴阳理论基础](theory/yinyang.md) - 理解中国哲学的核心思想
 - [天干详解](theory/heavenly-stems.md) - 十天干的象征与应用
 - [地支详解](theory/earthly-branches.md) - 十二地支的深层含义
 - [六十甲子体系](theory/sixty-jiazi.md) - 干支组合的完整系统
+- [五行对应体系](theory/wuxing-correspondences.md) - 把五行与方位、四时、颜色、气候和人体象意整理成统一底层框架
+- [象意思维基础](theory/xiangyi-thinking.md) - 解释类象和取象如何把抽象符号翻译成现实问题
+- [气候与调候框架](theory/climate-tiaohou-framework.md) - 理解寒暖燥湿如何先于部分强弱判断发挥作用
+- [十神象意框架](theory/shishen-xiangyi-framework.md) - 解释比劫、食伤、财官印如何从关系语言落到人物、资源与现实问题
+- [十神象意误判案例](theory/shishen-xiangyi-misjudgment-cases.md) - 用反面案例训练十神为什么不能直接背成固定标签
+- [宫位场域框架](theory/palace-field-framework.md) - 解释位置为什么不是孤点，而是主题与关系共同形成的场域
+- [宫位场域误判案例](theory/palace-field-misjudgment-cases.md) - 用反面案例训练为什么只看单宫会把紫微结构看浅
+- [纳甲类象框架](theory/najia-xiangyi-framework.md) - 讲清六亲、六神、世应与伏神如何落到具体事件结构
+- [纳甲类象误判案例](theory/najia-xiangyi-misjudgment-cases.md) - 用反面案例训练六爻里会装卦但不会解释的常见错误
+- [干支时空框架](theory/ganzhi-time-space-framework.md) - 解释天干地支如何同时表达时间、空间、层次与结构
 
 ### 🎯 实践指南
 
@@ -117,6 +144,29 @@ breadcrumbs:
 - [命理术语总表](practice/glossary-index.md) - 为高频概念和跨体系名词建立统一查词中心
 - [八字与紫微对比](practice/bazi-ziwei-comparison.md) - 把两套主体系的分工、差异与互补关系说清楚
 - [综合关系匹配](practice/comprehensive-compatibility-analysis.md) - 用八字、紫微、六爻三层视角处理合婚与关系推进问题
+- [综合财富事业判断](practice/comprehensive-wealth-career-analysis.md) - 用八字、紫微、六爻三层视角处理职业路径、财富结构与当前机会推进问题
+- [职业转轨与跳槽判断](practice/career-transition-analysis.md) - 把跳槽、转岗、转行与平台切换拆成结构、场域与节点三层来判断
+- [副业与兼职可行性](practice/side-income-feasibility.md) - 把副业、兼职和第二收入来源拆成承载力、冲突点与启动节奏来判断
+- [收入模式分类判断](practice/income-model-classification.md) - 把工资型、项目型、提成型、经营型与复合型收入拆成结构、场域与节点三层来判断
+- [Offer比较与待遇选择](practice/offer-comparison-analysis.md) - 把多个 offer 的待遇、平台、成长空间和入职推进拆成长期适配与短期落地两层来比较
+- [职业转轨失败案例](practice/career-transition-failure-cases.md) - 用跳槽失败、转行受挫与平台切换失利的反面案例训练职业决策中的误判识别能力
+- [副业失败案例](practice/side-income-failure-cases.md) - 用副业亏损、主副业冲突与节奏失衡的反面案例训练第二收入判断中的误判识别能力
+- [创业还是上班](practice/entrepreneurship-vs-employment.md) - 把平台路径与经营路径的选择拆成长期职业结构、现实资源与短期机会三层来判断
+- [大平台还是小团队](practice/big-platform-vs-small-team.md) - 把平台背书、成长速度、角色弹性与组织成本拆成长期匹配和短期落地两层来比较
+- [继续跳槽还是先稳住](practice/jump-again-or-stabilize.md) - 把职业优化与情绪逃离拆开，结合阶段承载力、运势场域和短期机会质量来判断该动还是该稳
+- [财富事业常见问题](practice/wealth-career-faq.md) - 集中回答跳槽、创业、副业、offer 比较与收入模式中的高频问题，适合作为财富事业专题问答入口
+- [财富事业完整索引](practice/wealth-career-complete-index.md) - 把财富事业线已有的总纲页、场景页、失败案例、对照页与 FAQ 汇成一张完整导航图
+- [综合健康风险判断](practice/comprehensive-health-risk-analysis.md) - 用八字、紫微、六爻三层视角处理体质底盘、承压恢复与病势节奏问题
+- [重大医学决策支持](practice/medical-decision-support-framework.md) - 把手术、保守治疗、复诊与康复选择拆成体质、阶段与节点三层来辅助观察
+- [压力管理与身心恢复](practice/stress-management-personalized.md) - 把长期压力、内耗与恢复慢拆成透支模式、承压方式与节奏调整来理解
+- [康复进程追踪](practice/recovery-process-tracking.md) - 把康复过程中的好转、停滞、反复与恢复拐点拆成体质、恢复系统与应期三层来观察
+- [年度健康风险窗口](practice/annual-health-risk-window.md) - 把某一年的健康波动、风险阶段与短期节点拆成流年结构、阶段压力与应期窗口三层来理解
+- [长期恢复慢案例](practice/prolonged-recovery-case-studies.md) - 用恢复拖延、反复波动与过早复工的反面案例训练康复节奏与恢复预期的判断能力
+- [过劳崩盘案例](practice/burnout-breakdown-case-studies.md) - 用过劳、内耗、睡眠崩坏与高压失衡的反面案例训练压力风险的早期识别能力
+- [复工还是继续休整](practice/return-to-work-or-rest.md) - 把复工决策拆成体质承载、恢复阶段、现实负荷与短期窗口四层来判断
+- [健康恢复常见问题](practice/health-recovery-faq.md) - 集中回答压力管理、恢复慢、复工与风险窗口中的高频问题，适合作为健康恢复专题问答入口
+- [健康恢复完整索引](practice/health-recovery-complete-index.md) - 把健康恢复线已有的总纲页、场景页、失败案例、对照页与 FAQ 汇成一张完整导航图
+- [跨体系综合判断常见问题](practice/cross-system-faq.md) - 集中回答八字、紫微与六爻如何分工、如何组合与为何结论不同等高频问题
 - [命理的科学性与边界](practice/scientific-perspective.md) - 回答“命理是不是科学”及其理性使用方式
 - [自学路径指南](practice/self-learning.md) - 高效的自主学习方法
 - [经典案例分析](practice/case-studies.md) - 真实案例的深度解读

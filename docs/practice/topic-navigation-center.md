@@ -58,6 +58,18 @@ date: 2026-03-15
 1. 八字的财星、官杀、食伤与长期事业结构
 2. 紫微的官禄、财帛、迁移与大限转折
 3. 六爻的求财、求职、项目推进与应期判断
+4. [综合财富事业判断：八字、紫微与六爻的多层分析框架](comprehensive-wealth-career-analysis.md)
+5. [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](career-transition-analysis.md)
+6. [副业与兼职可行性：八字、紫微与六爻的综合判断框架](side-income-feasibility.md)
+7. [收入模式分类判断：八字、紫微与六爻的综合分析框架](income-model-classification.md)
+8. [Offer比较与待遇选择：八字、紫微与六爻的综合判断框架](offer-comparison-analysis.md)
+9. [职业转轨失败案例：八字、紫微与六爻的反面案例分析](career-transition-failure-cases.md)
+10. [副业失败案例：八字、紫微与六爻的反面案例分析](side-income-failure-cases.md)
+11. [创业还是上班：八字、紫微与六爻的综合判断框架](entrepreneurship-vs-employment.md)
+12. [大平台还是小团队：八字、紫微与六爻的综合判断框架](big-platform-vs-small-team.md)
+13. [继续跳槽还是先稳住：八字、紫微与六爻的综合判断框架](jump-again-or-stabilize.md)
+14. [财富事业常见问题：跳槽、创业、副业与收入模式 FAQ](wealth-career-faq.md)
+15. [财富事业完整索引：从职业定位到跳槽决策的全站导航](wealth-career-complete-index.md)
 
 ### [健康风险专题导航](health-risk-topic-navigation.md)
 
@@ -73,6 +85,16 @@ date: 2026-03-15
 1. 八字的寒暖燥湿、五行偏枯与运势触发
 2. 紫微的命宫、福德、疾厄与动态阶段
 3. 六爻的疾病占断与时间转折
+4. [综合健康风险判断：八字、紫微与六爻的多层分析框架](comprehensive-health-risk-analysis.md)
+5. [重大医学决策支持：八字、紫微与六爻的综合判断框架](medical-decision-support-framework.md)
+6. [压力管理与身心恢复：八字、紫微与六爻的个性化分析框架](stress-management-personalized.md)
+7. [康复进程追踪：八字、紫微与六爻的综合分析框架](recovery-process-tracking.md)
+8. [年度健康风险窗口：八字、紫微与六爻的综合分析框架](annual-health-risk-window.md)
+9. [长期恢复慢案例：八字、紫微与六爻的反面案例分析](prolonged-recovery-case-studies.md)
+10. [过劳崩盘案例：八字、紫微与六爻的反面案例分析](burnout-breakdown-case-studies.md)
+11. [复工还是继续休整：八字、紫微与六爻的综合判断框架](return-to-work-or-rest.md)
+12. [健康恢复常见问题：压力、恢复慢、复工与风险窗口 FAQ](health-recovery-faq.md)
+13. [健康恢复完整索引：从体质风险到复工决策的全站导航](health-recovery-complete-index.md)
 
 ## 三、如果你不知道先看哪一条
 
@@ -103,6 +125,7 @@ date: 2026-03-15
 1. [统一学习地图](learning-map.md)
 2. [专题导航中心](topic-navigation-center.md)
 3. [命例库索引](case-library.md)
+4. [跨体系综合判断常见问题：八字、紫微与六爻如何一起使用](cross-system-faq.md)
 
 如果你在学习过程中频繁遇到概念混淆，可以再配合：
 
@@ -145,5 +168,26 @@ date: 2026-03-15
 - [命例库索引](case-library.md)
 - [命理术语总表：八字、紫微、六爻常用概念统一索引](glossary-index.md)
 - [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
+- [综合财富事业判断：八字、紫微与六爻的多层分析框架](comprehensive-wealth-career-analysis.md)
+- [综合健康风险判断：八字、紫微与六爻的多层分析框架](comprehensive-health-risk-analysis.md)
+- [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](career-transition-analysis.md)
+- [重大医学决策支持：八字、紫微与六爻的综合判断框架](medical-decision-support-framework.md)
+- [收入模式分类判断：八字、紫微与六爻的综合分析框架](income-model-classification.md)
+- [Offer比较与待遇选择：八字、紫微与六爻的综合判断框架](offer-comparison-analysis.md)
+- [康复进程追踪：八字、紫微与六爻的综合分析框架](recovery-process-tracking.md)
+- [年度健康风险窗口：八字、紫微与六爻的综合分析框架](annual-health-risk-window.md)
+- [职业转轨失败案例：八字、紫微与六爻的反面案例分析](career-transition-failure-cases.md)
+- [副业失败案例：八字、紫微与六爻的反面案例分析](side-income-failure-cases.md)
+- [长期恢复慢案例：八字、紫微与六爻的反面案例分析](prolonged-recovery-case-studies.md)
+- [过劳崩盘案例：八字、紫微与六爻的反面案例分析](burnout-breakdown-case-studies.md)
+- [创业还是上班：八字、紫微与六爻的综合判断框架](entrepreneurship-vs-employment.md)
+- [大平台还是小团队：八字、紫微与六爻的综合判断框架](big-platform-vs-small-team.md)
+- [继续跳槽还是先稳住：八字、紫微与六爻的综合判断框架](jump-again-or-stabilize.md)
+- [复工还是继续休整：八字、紫微与六爻的综合判断框架](return-to-work-or-rest.md)
+- [财富事业常见问题：跳槽、创业、副业与收入模式 FAQ](wealth-career-faq.md)
+- [健康恢复常见问题：压力、恢复慢、复工与风险窗口 FAQ](health-recovery-faq.md)
+- [跨体系综合判断常见问题：八字、紫微与六爻如何一起使用](cross-system-faq.md)
+- [财富事业完整索引：从职业定位到跳槽决策的全站导航](wealth-career-complete-index.md)
+- [健康恢复完整索引：从体质风险到复工决策的全站导航](health-recovery-complete-index.md)
 - [返回实践指南](index.md)
 - [天机爻 Wiki 首页](../index.md)

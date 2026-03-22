@@ -34,6 +34,13 @@ breadcrumbs:
   - 日主与其他干支关系
   - 十神在命理分析中的应用
   - 实际案例分析
+- **[十神象意框架](../theory/shishen-xiangyi-framework.md)**
+  - 把比劫、食伤、财官印从固定标签改回关系语言
+  - 理解十神如何落到人物、资源、规则与现实问题
+  - 解决“会背十神但不会落地”的典型卡点
+- **[十神象意误判案例](../theory/shishen-xiangyi-misjudgment-cases.md)**
+  - 用反面案例训练“财不等于发财、官不等于事业”的常见误判
+  - 适合在十神基础页之后做边界校正
 - **[日主旺衰判断](day-master-strength.md)**
   - 月令、通根、透干的权重顺序
   - 身强身弱与从格边界
@@ -108,6 +115,8 @@ breadcrumbs:
 - [十神体系详解](./ten-gods.md)
 - [日主旺衰判断](./day-master-strength.md)
 - [用神喜忌与调候通关](./yongshen-tiaohou.md)
+- [十神象意框架](../theory/shishen-xiangyi-framework.md)
+- [十神象意误判案例](../theory/shishen-xiangyi-misjudgment-cases.md)
 - [干支合冲刑害总论](./ganzhi-relations.md)
 - [财运与事业判断](./wealth-career-analysis.md)
 - [婚姻感情判断](./marriage-analysis.md)
@@ -122,6 +131,14 @@ breadcrumbs:
 - [破格与转运命例专题](./broken-pattern-case-studies.md)
 - [八字命理常见问题](./faq.md)
 - [八字与紫微对比：结构、人格与运势视角的差异](../practice/bazi-ziwei-comparison.md)
+- [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](../practice/career-transition-analysis.md)
+- [副业与兼职可行性：八字、紫微与六爻的综合判断框架](../practice/side-income-feasibility.md)
+- [收入模式分类判断：八字、紫微与六爻的综合分析框架](../practice/income-model-classification.md)
+- [年度健康风险窗口：八字、紫微与六爻的综合分析框架](../practice/annual-health-risk-window.md)
+- [职业转轨失败案例：八字、紫微与六爻的反面案例分析](../practice/career-transition-failure-cases.md)
+- [长期恢复慢案例：八字、紫微与六爻的反面案例分析](../practice/prolonged-recovery-case-studies.md)
+- [创业还是上班：八字、紫微与六爻的综合判断框架](../practice/entrepreneurship-vs-employment.md)
+- [复工还是继续休整：八字、紫微与六爻的综合判断框架](../practice/return-to-work-or-rest.md)
 - [紫微斗数理论](../ziwei/index.md)
 - [周易八卦学习](../yijing/index.md)
 - [理论基础模块](../theory/index.md)

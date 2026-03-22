@@ -74,6 +74,7 @@ date: 2026-03-15
 
 1. [八字健康判断](../bazi/health-analysis.md)
 2. [八字健康命例专题](../bazi/health-case-studies.md)
+3. [综合健康风险判断：八字、紫微与六爻的多层分析框架](comprehensive-health-risk-analysis.md)
 
 ### 2. 想学内在承压与情绪耗损
 
@@ -81,6 +82,7 @@ date: 2026-03-15
 
 1. [紫微福德宫专题](../ziwei/fortune-palace-analysis.md)
 2. [紫微命宫与福德命例专题](../ziwei/life-fortune-case-studies.md)
+3. [综合健康风险判断：八字、紫微与六爻的多层分析框架](comprehensive-health-risk-analysis.md)
 
 ### 3. 想看当前病势与时间转折
 
@@ -89,11 +91,87 @@ date: 2026-03-15
 1. [六爻疾病健康占断](../yijing/health-divination.md)
 2. [六爻应期判断](../yijing/response-timing.md)
 
+### 4. 面对手术、保守治疗或复诊选择
+
+建议路线：
+
+1. [重大医学决策支持：八字、紫微与六爻的综合判断框架](medical-decision-support-framework.md)
+2. [六爻疾病健康占断](../yijing/health-divination.md)
+3. [综合健康风险判断：八字、紫微与六爻的多层分析框架](comprehensive-health-risk-analysis.md)
+
+### 5. 想处理长期压力、失眠与恢复慢
+
+建议路线：
+
+1. [压力管理与身心恢复：八字、紫微与六爻的个性化分析框架](stress-management-personalized.md)
+2. [紫微福德宫专题](../ziwei/fortune-palace-analysis.md)
+3. [综合健康风险判断：八字、紫微与六爻的多层分析框架](comprehensive-health-risk-analysis.md)
+
+### 6. 想追踪康复进程和反复节奏
+
+建议路线：
+
+1. [康复进程追踪：八字、紫微与六爻的综合分析框架](recovery-process-tracking.md)
+2. [重大医学决策支持：八字、紫微与六爻的综合判断框架](medical-decision-support-framework.md)
+3. [六爻疾病健康占断](../yijing/health-divination.md)
+
+### 7. 想看某一年哪些时段更要注意健康风险
+
+建议路线：
+
+1. [年度健康风险窗口：八字、紫微与六爻的综合分析框架](annual-health-risk-window.md)
+2. [八字大运流年分析](../bazi/luck-cycles.md)
+3. [六爻应期判断](../yijing/response-timing.md)
+
+### 8. 想理解为什么恢复一直拖着不见好
+
+建议路线：
+
+1. [长期恢复慢案例：八字、紫微与六爻的反面案例分析](prolonged-recovery-case-studies.md)
+2. [康复进程追踪：八字、紫微与六爻的综合分析框架](recovery-process-tracking.md)
+3. [六爻疾病健康占断](../yijing/health-divination.md)
+
+### 9. 想看过劳、内耗为什么会突然崩盘
+
+建议路线：
+
+1. [过劳崩盘案例：八字、紫微与六爻的反面案例分析](burnout-breakdown-case-studies.md)
+2. [压力管理与身心恢复：八字、紫微与六爻的个性化分析框架](stress-management-personalized.md)
+3. [年度健康风险窗口：八字、紫微与六爻的综合分析框架](annual-health-risk-window.md)
+
+### 10. 想判断现在该复工还是继续休整
+
+建议路线：
+
+1. [复工还是继续休整：八字、紫微与六爻的综合判断框架](return-to-work-or-rest.md)
+2. [康复进程追踪：八字、紫微与六爻的综合分析框架](recovery-process-tracking.md)
+3. [长期恢复慢案例：八字、紫微与六爻的反面案例分析](prolonged-recovery-case-studies.md)
+
+### 11. 想先看健康恢复主题里的高频问答
+
+建议路线：
+
+1. [健康恢复常见问题：压力、恢复慢、复工与风险窗口 FAQ](health-recovery-faq.md)
+2. [综合健康风险判断：八字、紫微与六爻的多层分析框架](comprehensive-health-risk-analysis.md)
+3. [命例库索引](case-library.md)
+
+### 12. 想一页看完整条健康恢复线
+
+建议路线：
+
+1. [健康恢复完整索引：从体质风险到复工决策的全站导航](health-recovery-complete-index.md)
+2. [健康风险专题导航：八字、紫微、六爻的跨体系学习路线](health-risk-topic-navigation.md)
+3. [健康恢复常见问题：压力、恢复慢、复工与风险窗口 FAQ](health-recovery-faq.md)
+
 ## 六、建议的跨体系练法
 
 1. 用八字看体质底盘与长期偏向
 2. 用紫微看内在承压与恢复能力
 3. 用六爻看当前阶段和具体应期
+
+如果你希望把三层视角直接整理成一套完整的健康风险判断框架，可以继续读：
+
+1. [综合健康风险判断：八字、紫微与六爻的多层分析框架](comprehensive-health-risk-analysis.md)
 
 ## 七、使用边界
 
@@ -104,4 +182,14 @@ date: 2026-03-15
 - [专题导航中心](topic-navigation-center.md)
 - [统一学习地图](learning-map.md)
 - [命例库索引](case-library.md)
+- [综合健康风险判断：八字、紫微与六爻的多层分析框架](comprehensive-health-risk-analysis.md)
+- [重大医学决策支持：八字、紫微与六爻的综合判断框架](medical-decision-support-framework.md)
+- [压力管理与身心恢复：八字、紫微与六爻的个性化分析框架](stress-management-personalized.md)
+- [康复进程追踪：八字、紫微与六爻的综合分析框架](recovery-process-tracking.md)
+- [年度健康风险窗口：八字、紫微与六爻的综合分析框架](annual-health-risk-window.md)
+- [长期恢复慢案例：八字、紫微与六爻的反面案例分析](prolonged-recovery-case-studies.md)
+- [过劳崩盘案例：八字、紫微与六爻的反面案例分析](burnout-breakdown-case-studies.md)
+- [复工还是继续休整：八字、紫微与六爻的综合判断框架](return-to-work-or-rest.md)
+- [健康恢复常见问题：压力、恢复慢、复工与风险窗口 FAQ](health-recovery-faq.md)
+- [健康恢复完整索引：从体质风险到复工决策的全站导航](health-recovery-complete-index.md)
 - [返回实践指南](index.md)

@@ -77,6 +77,7 @@ date: 2026-03-15
 
 1. [八字财运与事业判断](../bazi/wealth-career-analysis.md)
 2. [紫微夫妻宫与官禄宫专题](../ziwei/marriage-career-palaces.md)
+3. [综合财富事业判断：八字、紫微与六爻的多层分析框架](comprehensive-wealth-career-analysis.md)
 
 ### 2. 想学财富结构
 
@@ -85,6 +86,7 @@ date: 2026-03-15
 1. [八字财运命例专题](../bazi/wealth-case-studies.md)
 2. [紫微财帛宫专题](../ziwei/wealth-palace-analysis.md)
 3. [紫微财富命例专题](../ziwei/wealth-case-studies.md)
+4. [综合财富事业判断：八字、紫微与六爻的多层分析框架](comprehensive-wealth-career-analysis.md)
 
 ### 3. 想学当下求职与求财判断
 
@@ -94,15 +96,119 @@ date: 2026-03-15
 2. [六爻事业与求职占断](../yijing/career-divination.md)
 3. [六爻应期判断](../yijing/response-timing.md)
 
+### 4. 想判断要不要跳槽或转行
+
+建议路线：
+
+1. [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](career-transition-analysis.md)
+2. [六爻事业与求职占断](../yijing/career-divination.md)
+3. [大限流年总论](../ziwei/dynamic-fortune.md)
+
+### 5. 想判断副业和第二收入来源
+
+建议路线：
+
+1. [副业与兼职可行性：八字、紫微与六爻的综合判断框架](side-income-feasibility.md)
+2. [八字财运与事业判断](../bazi/wealth-career-analysis.md)
+3. [六爻求财与投资占断](../yijing/wealth-divination.md)
+
+### 6. 想判断自己更适合哪种收入模式
+
+建议路线：
+
+1. [收入模式分类判断：八字、紫微与六爻的综合分析框架](income-model-classification.md)
+2. [紫微财帛宫专题](../ziwei/wealth-palace-analysis.md)
+3. [综合财富事业判断：八字、紫微与六爻的多层分析框架](comprehensive-wealth-career-analysis.md)
+
+### 7. 手里有多个 offer，想比较待遇与发展空间
+
+建议路线：
+
+1. [Offer比较与待遇选择：八字、紫微与六爻的综合判断框架](offer-comparison-analysis.md)
+2. [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](career-transition-analysis.md)
+3. [六爻事业与求职占断](../yijing/career-divination.md)
+
+### 8. 想看跳槽、转行为什么会失败
+
+建议路线：
+
+1. [职业转轨失败案例：八字、紫微与六爻的反面案例分析](career-transition-failure-cases.md)
+2. [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](career-transition-analysis.md)
+3. [Offer比较与待遇选择：八字、紫微与六爻的综合判断框架](offer-comparison-analysis.md)
+
+### 9. 想看副业为什么越做越乱
+
+建议路线：
+
+1. [副业失败案例：八字、紫微与六爻的反面案例分析](side-income-failure-cases.md)
+2. [副业与兼职可行性：八字、紫微与六爻的综合判断框架](side-income-feasibility.md)
+3. [收入模式分类判断：八字、紫微与六爻的综合分析框架](income-model-classification.md)
+
+### 10. 想判断创业还是上班更适合自己
+
+建议路线：
+
+1. [创业还是上班：八字、紫微与六爻的综合判断框架](entrepreneurship-vs-employment.md)
+2. [收入模式分类判断：八字、紫微与六爻的综合分析框架](income-model-classification.md)
+3. [副业与兼职可行性：八字、紫微与六爻的综合判断框架](side-income-feasibility.md)
+
+### 11. 想比较大平台和小团队哪个更适合
+
+建议路线：
+
+1. [大平台还是小团队：八字、紫微与六爻的综合判断框架](big-platform-vs-small-team.md)
+2. [Offer比较与待遇选择：八字、紫微与六爻的综合判断框架](offer-comparison-analysis.md)
+3. [职业转轨失败案例：八字、紫微与六爻的反面案例分析](career-transition-failure-cases.md)
+
+### 12. 想判断现在还该不该继续跳槽
+
+建议路线：
+
+1. [继续跳槽还是先稳住：八字、紫微与六爻的综合判断框架](jump-again-or-stabilize.md)
+2. [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](career-transition-analysis.md)
+3. [职业转轨失败案例：八字、紫微与六爻的反面案例分析](career-transition-failure-cases.md)
+
+### 13. 想先看财富事业主题里的高频问答
+
+建议路线：
+
+1. [财富事业常见问题：跳槽、创业、副业与收入模式 FAQ](wealth-career-faq.md)
+2. [综合财富事业判断：八字、紫微与六爻的多层分析框架](comprehensive-wealth-career-analysis.md)
+3. [命例库索引](case-library.md)
+
+### 14. 想一页看完整条财富事业线
+
+建议路线：
+
+1. [财富事业完整索引：从职业定位到跳槽决策的全站导航](wealth-career-complete-index.md)
+2. [财富事业专题导航：八字、紫微、六爻的跨体系学习路线](wealth-career-topic-navigation.md)
+3. [财富事业常见问题：跳槽、创业、副业与收入模式 FAQ](wealth-career-faq.md)
+
 ## 六、建议的跨体系练法
 
 1. 用八字看长期财富事业底盘
 2. 用紫微看职业路径、平台场域与阶段重心
 3. 用六爻看具体机会、流程推进与时间落点
 
+如果你希望把三层视角直接整理成一套完整的财富事业判断框架，可以继续读：
+
+1. [综合财富事业判断：八字、紫微与六爻的多层分析框架](comprehensive-wealth-career-analysis.md)
+
 ## 七、相关阅读
 
 - [专题导航中心](topic-navigation-center.md)
 - [统一学习地图](learning-map.md)
 - [命例库索引](case-library.md)
+- [综合财富事业判断：八字、紫微与六爻的多层分析框架](comprehensive-wealth-career-analysis.md)
+- [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](career-transition-analysis.md)
+- [副业与兼职可行性：八字、紫微与六爻的综合判断框架](side-income-feasibility.md)
+- [收入模式分类判断：八字、紫微与六爻的综合分析框架](income-model-classification.md)
+- [Offer比较与待遇选择：八字、紫微与六爻的综合判断框架](offer-comparison-analysis.md)
+- [职业转轨失败案例：八字、紫微与六爻的反面案例分析](career-transition-failure-cases.md)
+- [副业失败案例：八字、紫微与六爻的反面案例分析](side-income-failure-cases.md)
+- [创业还是上班：八字、紫微与六爻的综合判断框架](entrepreneurship-vs-employment.md)
+- [大平台还是小团队：八字、紫微与六爻的综合判断框架](big-platform-vs-small-team.md)
+- [继续跳槽还是先稳住：八字、紫微与六爻的综合判断框架](jump-again-or-stabilize.md)
+- [财富事业常见问题：跳槽、创业、副业与收入模式 FAQ](wealth-career-faq.md)
+- [财富事业完整索引：从职业定位到跳槽决策的全站导航](wealth-career-complete-index.md)
 - [返回实践指南](index.md)

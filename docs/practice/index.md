@@ -44,6 +44,75 @@ keywords:
 ### [综合关系匹配](comprehensive-compatibility-analysis.md)
 用八字、紫微与六爻三层视角处理合婚、合盘、婚后协同与阶段推进问题。
 
+### [综合财富事业判断](comprehensive-wealth-career-analysis.md)
+用八字、紫微与六爻三层视角处理财运结构、职业路径、平台场域与当前机会推进问题。
+
+### [职业转轨与跳槽判断](career-transition-analysis.md)
+把跳槽、转岗、转行与平台切换问题拆成长期结构、现实场域与眼前节点三层处理。
+
+### [副业与兼职可行性](side-income-feasibility.md)
+把副业、兼职、第二收入来源与主副业冲突问题拆成结构、节奏与现实承接三层判断。
+
+### [收入模式分类判断](income-model-classification.md)
+把工资型、提成型、项目型、经营型与复合型收入拆成长期结构、现实场域与眼前机会三层判断。
+
+### [Offer比较与待遇选择](offer-comparison-analysis.md)
+把多个 offer 的薪资、平台、节奏、成长性与入职推进拆成长期适配和短期落地两层来比较。
+
+### [职业转轨失败案例](career-transition-failure-cases.md)
+通过跳槽失败、转行受挫与平台切换失利等反面案例，训练职业决策中的结构误判识别能力。
+
+### [副业失败案例](side-income-failure-cases.md)
+通过副业亏损、主副业冲突与节奏失衡等反面案例，训练第二收入路径中的误判识别能力。
+
+### [创业还是上班](entrepreneurship-vs-employment.md)
+把平台路径与经营路径的选择拆成长期职业结构、现实资源与短期机会三层来判断。
+
+### [大平台还是小团队](big-platform-vs-small-team.md)
+把平台背书、成长速度、角色弹性与组织成本拆成长期匹配和短期落地两层来比较。
+
+### [继续跳槽还是先稳住](jump-again-or-stabilize.md)
+把职业优化与情绪逃离拆开，结合阶段承载力、运势场域和短期机会质量来判断该动还是该稳。
+
+### [综合健康风险判断](comprehensive-health-risk-analysis.md)
+用八字、紫微与六爻三层视角处理体质底盘、精神承压、恢复能力与眼前病势节奏问题。
+
+### [重大医学决策支持](medical-decision-support-framework.md)
+把手术、保守治疗、复诊与康复方案问题拆成体质承受、阶段压力与节点节奏三层处理。
+
+### [压力管理与身心恢复](stress-management-personalized.md)
+把长期压力、内耗、失眠与恢复慢问题拆成透支模式、承压系统与节奏调整三层处理。
+
+### [康复进程追踪](recovery-process-tracking.md)
+把康复过程中的好转、停滞、反复与恢复拐点拆成体质底盘、恢复系统与短期应期三层观察。
+
+### [年度健康风险窗口](annual-health-risk-window.md)
+把某一年的健康波动、阶段风险与短期节点拆成流年结构、阶段压力与应期窗口三层理解。
+
+### [长期恢复慢案例](prolonged-recovery-case-studies.md)
+通过恢复拖延、反复波动与过早复工等反面案例，训练康复节奏与恢复预期的判断能力。
+
+### [过劳崩盘案例](burnout-breakdown-case-studies.md)
+通过过劳、内耗、睡眠崩坏与高压失衡等反面案例，训练压力风险的早期识别能力。
+
+### [复工还是继续休整](return-to-work-or-rest.md)
+把复工决策拆成体质承载、恢复阶段、现实负荷与短期窗口四层来判断。
+
+### [财富事业常见问题](wealth-career-faq.md)
+集中回答跳槽、创业、副业、offer 比较与收入模式中的高频问题，适合作为财富事业专题的问答入口。
+
+### [财富事业完整索引](wealth-career-complete-index.md)
+把财富事业线已有的总纲页、场景页、失败案例、对照页与 FAQ 汇成一张完整导航图。
+
+### [健康恢复常见问题](health-recovery-faq.md)
+集中回答压力管理、恢复慢、复工与风险窗口中的高频问题，适合作为健康恢复专题的问答入口。
+
+### [健康恢复完整索引](health-recovery-complete-index.md)
+把健康恢复线已有的总纲页、场景页、失败案例、对照页与 FAQ 汇成一张完整导航图。
+
+### [跨体系综合判断常见问题](cross-system-faq.md)
+集中回答八字、紫微与六爻如何分工、如何组合、为什么结论不同等高频跨体系问题。
+
 ### [命理的科学性与边界](scientific-perspective.md)
 从文化、符号系统与经验模型角度，讨论命理的价值、边界与理性学习方式。
 
