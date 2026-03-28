@@ -115,6 +115,21 @@ keywords:
 3. [AI命理协作流程](ai-human-collaboration.md)
 4. [命理的科学性与边界](../practice/scientific-perspective.md)
 
+## 🔮 落地入口
+
+AI 模块更适合回答“产品为什么这样设计”“哪些场景该谨慎”“为什么不能只看模型说得像不像”。如果你已经理解了边界，现在回主站看真实使用会更直观。
+
+### 站内优先阅读
+
+- [AI命理知识库工作流](ai-knowledge-base-workflow.md) - 先理解系统是怎样从资料走到输出的
+- [AI命理效果评估](ai-mingli-evaluation.md) - 先确认你该怎么看效果，而不是只看“准不准”
+- [AI命理伦理与边界](ai-mingli-ethics.md) - 先明确哪些问题适合用，哪些问题要降级处理
+
+### 外部体验入口
+
+- [天机爻主站](https://www.tianjiyao.com/zh) - 看真实产品、场景入口与当前功能分布
+- [AI六爻排盘占卜](https://www.tianjiyao.com/zh/ai-divination) - 直接体验 AI 在真实问题里的问答与占断链路
+
 ## 🎯 学习路径
 
 1. **基础认知** → 了解AI在命理学中的应用场景

@@ -11,6 +11,13 @@ keywords:
   - 六爻出空应
 author: 周易研究团队
 date: 2026-03-22
+cta_topic: yijing-timing
+cta_heading: 应期案例看完后，最自然的下一步就是拿真实问题去做一轮时间验证
+cta_description: 这页已经把消息应、动作应、结果应和阶段成熟应拆开了。真正拉开差距的，是回主站用一件具体事情做实战起卦。
+cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_primary_label: 去主站做应期实战
+cta_secondary_url: https://www.tianjiyao.com/zh
+cta_secondary_label: 先从主站按场景进入
 ---
 
 # 六爻应期案例专题

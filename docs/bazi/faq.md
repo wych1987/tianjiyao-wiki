@@ -11,6 +11,13 @@ keywords:
   - 八字合婚怎么看
 author: 八字命理研究组
 date: 2026-03-22
+cta_topic: bazi-faq
+cta_heading: 八字 FAQ 读到这里，通常已经能带着自己的结构问题去主站验证
+cta_description: 如果你想把入门概念转成自己的长期结构、用神和阶段判断，主站的八字入口会比继续泛读更直接；关系类问题则单独去合盘更合适。
+cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_label: 去主站看八字分析
+cta_secondary_url: https://www.tianjiyao.com/zh/hepan
+cta_secondary_label: 关系问题直接去合盘
 ---
 
 # 八字命理常见问题

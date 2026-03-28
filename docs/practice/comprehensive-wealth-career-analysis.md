@@ -11,6 +11,13 @@ keywords:
   - 求财求职综合分析
 author: 命理学习指导团队
 date: 2026-03-22
+cta_topic: career-wealth
+cta_heading: 财富事业类问题，最适合先选你现在要验证的那一层
+cta_description: 如果你更关心长期赚钱结构和职业主轴，先去主站看八字；如果你更关心眼前项目、面试、合作或到账节奏，直接去主站占断会更贴题。
+cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_label: 去主站看财富事业结构
+cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_label: 带着当前项目去占断
 ---
 
 # 综合财富事业判断：八字、紫微与六爻的多层分析框架

@@ -11,6 +11,14 @@ keywords:
   - 病势节奏综合判断
 author: 命理学习指导团队
 date: 2026-03-22
+cta_mode: light
+cta_topic: health
+cta_heading: 如果你已经分清底盘、承压和当前阶段，再回主站做辅助观察
+cta_description: 这类页面只适合做边界清楚的阶段观察，不适合替代医学判断。理解这一点后，再带着明确问题回主站会更稳。
+cta_primary_url: https://www.tianjiyao.com/zh
+cta_primary_label: 去主站按场景查看
+cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_label: 有明确问题再去占断
 ---
 
 # 综合健康风险判断：八字、紫微与六爻的多层分析框架

@@ -11,6 +11,13 @@ keywords:
   - 主副业平衡
 author: 命理学习指导团队
 date: 2026-03-22
+cta_topic: career-wealth
+cta_heading: 副业题最怕只凭感觉上，先去主站验证你有没有第二收入承接力
+cta_description: 如果你更想看长期副业结构、主副业冲突和承载力，先去主站看八字；如果你已经有具体项目、客户或合作机会，再带着问题去占断会更直接。
+cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_label: 去主站看副业承接结构
+cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_label: 带着当前副业机会去占断
 ---
 
 # 副业与兼职可行性：八字、紫微与六爻的综合判断框架

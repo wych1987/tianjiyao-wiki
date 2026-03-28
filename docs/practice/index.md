@@ -128,6 +128,22 @@ keywords:
 ### [工具资源](tools-resources.md)
 推荐实用的学习工具和参考资料，让学习事半功倍。
 
+## 🔮 实践入口
+
+实践区的作用不是替代主站，而是先帮你把问题缩小到“关系 / 长期结构 / 当前决策”这几个可执行入口。先在站内把问题分清，再去主站，会比一上来直接跳工具页更顺。
+
+### 站内优先阅读
+
+- [婚姻关系专题导航](marriage-topic-navigation.md) - 先确认你问的是匹配度、推进节奏还是婚后协同
+- [财富事业专题导航](wealth-career-topic-navigation.md) - 先确认你问的是长期结构还是眼前机会
+- [健康风险专题导航](health-risk-topic-navigation.md) - 先确认你问的是体质底盘、恢复节奏还是当前节点
+
+### 外部实践入口
+
+- [命理合盘分析](https://www.tianjiyao.com/zh/hepan) - 适合关系、合婚、双人协同与推进节奏问题
+- [生辰八字精准分析](https://www.tianjiyao.com/zh/bazi) - 适合长期结构、性格底盘与运势主轴问题
+- [AI六爻排盘占卜](https://www.tianjiyao.com/zh/ai-divination) - 适合具体事件、当前决策与时间窗口问题
+
 ## 🎯 实践导向
 
 - 📝 **学以致用**：将理论知识应用于实际分析

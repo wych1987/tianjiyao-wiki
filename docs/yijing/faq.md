@@ -11,6 +11,13 @@ keywords:
   - 六爻准不准
 author: 周易研究团队
 date: 2026-03-22
+cta_topic: yijing-faq
+cta_heading: FAQ 读到这里，通常已经可以带着具体问题去起卦了
+cta_description: 如果你已经把入门顺序、用神、世应和应期误区读清楚，现在最自然的下一步就是带着一个明确问题去主站做真实起卦验证。
+cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_primary_label: 去主站起卦验证
+cta_secondary_url: https://www.tianjiyao.com/zh
+cta_secondary_label: 先从主站按场景进入
 ---
 
 # 六爻与周易常见问题

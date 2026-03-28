@@ -19,6 +19,24 @@ breadcrumbs:
 
 欢迎来到**天机爻 Wiki**。本站面向中文用户系统整理八字命理、紫微斗数、周易六爻、阴阳五行与 AI 命理相关内容，适合入门学习、专题检索与案例延伸。
 
+## 🧭 你现在更适合从哪条路进入
+
+### 我想系统学习
+- [八字命理学习中心](bazi/index.md) - 从四柱、十神、旺衰与命例开始建立主体系
+- [紫微斗数学习中心](ziwei/index.md) - 从星曜、宫位、四化与命例建立结构化读盘能力
+- [理论基础完整索引](theory/complete-index.md) - 先把阴阳五行、类象和时空框架走顺
+
+### 我是带着现实问题来的
+- [专题导航中心](practice/topic-navigation-center.md) - 按婚姻、财富事业、健康风险三条线进入
+- [婚姻关系专题导航](practice/marriage-topic-navigation.md) - 把合婚、合盘、婚后协同相关内容先串起来
+- [财富事业专题导航](practice/wealth-career-topic-navigation.md) - 把职业路径、求财、跳槽与平台选择集中整理
+
+### 我已经知道要去主站实操
+- [去主站按场景进入](https://www.tianjiyao.com/zh) - 先看你当前更适合八字、紫微、六爻还是合盘
+- [AI六爻排盘占卜](https://www.tianjiyao.com/zh/ai-divination) - 适合带着当前问题、时机或决策直接进入
+- [生辰八字精准分析](https://www.tianjiyao.com/zh/bazi) - 适合先看长期结构、性格与运势底盘
+- [命理合盘分析](https://www.tianjiyao.com/zh/hepan) - 适合关系匹配、推进节奏与双人主题
+
 ## 主要内容
 
 ### 📖 八字命理（四柱）

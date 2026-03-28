@@ -11,6 +11,13 @@ keywords:
   - 双人关系框架
 author: 命理学习指导团队
 date: 2026-03-22
+cta_topic: relationship
+cta_heading: 你已经在看合婚合盘框架了，下一步就该去做真实双人验证
+cta_description: 这页解决的是怎样分层看关系；如果你已经想把双方结构、协同和推进节奏放进同一套判断里，可以直接回主站做合盘分析。
+cta_primary_url: https://www.tianjiyao.com/zh/hepan
+cta_primary_label: 去主站做合盘分析
+cta_secondary_url: https://www.tianjiyao.com/zh/ziwei
+cta_secondary_label: 先看双盘结构与关系场
 ---
 
 # 综合关系匹配：八字、紫微与六爻的多层判断框架

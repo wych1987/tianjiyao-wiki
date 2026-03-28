@@ -33,6 +33,119 @@
     {% if page.breadcrumbs == nil and page.path and page.path != 'index.md' %}
         {% assign has_auto_breadcrumbs = true %}
     {% endif %}
+    {% assign cta_page_kind = 'content' %}
+    {% if page.path == 'index.md' %}
+        {% assign cta_page_kind = 'home' %}
+    {% elsif page.path contains '/index.md' %}
+        {% assign cta_page_kind = 'module-hub' %}
+    {% endif %}
+    {% assign cta_heading = page.cta_heading %}
+    {% assign cta_description = page.cta_description %}
+    {% assign cta_primary_url = page.cta_primary_url %}
+    {% assign cta_primary_label = page.cta_primary_label %}
+    {% assign cta_secondary_url = page.cta_secondary_url %}
+    {% assign cta_secondary_label = page.cta_secondary_label %}
+    {% assign cta_topic = page.cta_topic %}
+    {% if page.cta_mode %}
+        {% assign cta_mode = page.cta_mode %}
+    {% elsif page.path contains 'theory/' or page.path contains 'ai/' %}
+        {% assign cta_mode = 'light' %}
+    {% else %}
+        {% assign cta_mode = 'standard' %}
+    {% endif %}
+    {% if cta_topic == blank %}
+        {% if page.path contains 'compatibility' or page.path contains 'marriage' or page.path contains 'relationship' %}
+            {% assign cta_topic = 'relationship' %}
+        {% elsif page.path contains 'practice/career' or page.path contains 'practice/wealth' or page.path contains 'practice/income' or page.path contains 'practice/offer' or page.path contains 'practice/entrepreneurship' or page.path contains 'practice/big-platform' or page.path contains 'practice/jump-again' or page.path contains 'practice/side-income' %}
+            {% assign cta_topic = 'career-wealth' %}
+        {% elsif page.path contains 'practice/health' or page.path contains 'practice/recovery' or page.path contains 'practice/stress' or page.path contains 'practice/medical' or page.path contains 'practice/burnout' or page.path contains 'practice/return-to-work' or page.path contains 'practice/annual-health' %}
+            {% assign cta_topic = 'health' %}
+        {% elsif section_name != '' %}
+            {% assign cta_topic = section_name | slugify %}
+        {% else %}
+            {% assign cta_topic = current_page_name | slugify %}
+        {% endif %}
+    {% endif %}
+    {% if cta_primary_url == blank %}
+        {% if page.path == 'index.md' %}
+            {% assign cta_heading = '带着明确问题来？直接去主站开始实操' %}
+            {% assign cta_description = '如果你已经知道自己想做八字、紫微、六爻或合盘，不必先把 Wiki 全部看完；先到主站动手，再回来补方法会更高效。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh' %}
+            {% assign cta_primary_label = '去主站按场景进入' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh/ai-divination' %}
+            {% assign cta_secondary_label = '先做一次六爻占断' %}
+        {% elsif page.path contains 'compatibility' or page.path contains 'marriage-topic-navigation' or page.path contains 'comprehensive-compatibility' or page.path contains 'marital-collaboration' %}
+            {% assign cta_heading = '关系类内容更适合去主站做双人验证' %}
+            {% assign cta_description = 'Wiki 负责讲结构与边界，主站负责把双方信息带入真实合盘与关系分析。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh/hepan' %}
+            {% assign cta_primary_label = '去主站做合盘分析' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh/ziwei' %}
+            {% assign cta_secondary_label = '先看双盘结构' %}
+        {% elsif page.path contains 'practice/career' or page.path contains 'practice/wealth' or page.path contains 'practice/income' or page.path contains 'practice/offer' or page.path contains 'practice/entrepreneurship' or page.path contains 'practice/big-platform' or page.path contains 'practice/jump-again' or page.path contains 'practice/side-income' %}
+            {% assign cta_heading = '职业与财富类问题，先分清长期结构和眼前时机' %}
+            {% assign cta_description = '更偏长期格局与承载力的问题，适合先看八字；更偏当下决策与短期推进的问题，适合带着具体问题去主站占断。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh/bazi' %}
+            {% assign cta_primary_label = '先去主站看长期结构' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh/ai-divination' %}
+            {% assign cta_secondary_label = '带着当下问题去占断' %}
+        {% elsif page.path contains 'practice/health' or page.path contains 'practice/recovery' or page.path contains 'practice/stress' or page.path contains 'practice/medical' or page.path contains 'practice/burnout' or page.path contains 'practice/return-to-work' or page.path contains 'practice/annual-health' %}
+            {% assign cta_heading = '健康与恢复类内容，适合把结构判断和当前节点分开处理' %}
+            {% assign cta_description = '如果你是在看体质底盘和长期承压结构，可以先看八字；如果你面对的是具体时间点或现实决策，可去主站带着问题做占断。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh/ai-divination' %}
+            {% assign cta_primary_label = '带着当前问题去主站占断' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh/bazi' %}
+            {% assign cta_secondary_label = '先看体质与长期结构' %}
+        {% elsif page.path contains 'bazi/' %}
+            {% assign cta_heading = '学完八字框架后，去主站用真实命盘验证' %}
+            {% assign cta_description = '先在站内把旺衰、取用和命例顺序走清，再到主站看真实排盘会更稳。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh/bazi' %}
+            {% assign cta_primary_label = '去主站做八字排盘' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh/hepan' %}
+            {% assign cta_secondary_label = '关系主题去做合盘' %}
+        {% elsif page.path contains 'ziwei/' %}
+            {% assign cta_heading = '学完紫微结构后，去主站用真实星盘验证' %}
+            {% assign cta_description = '站内先理解宫位、星曜和三方四正，再到主站看真实命盘更容易建立稳定判断。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh/ziwei' %}
+            {% assign cta_primary_label = '去主站做紫微排盘' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh/hepan' %}
+            {% assign cta_secondary_label = '关系主题去做合盘' %}
+        {% elsif page.path contains 'yijing/' %}
+            {% assign cta_heading = '学完六爻框架后，去主站起卦验证会更直接' %}
+            {% assign cta_description = '六爻最适合带着具体问题进入真实判断，先在站内走清装卦和断卦顺序，再去主站实操。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh/ai-divination' %}
+            {% assign cta_primary_label = '去主站起卦实操' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh' %}
+            {% assign cta_secondary_label = '查看全部主站工具' %}
+        {% elsif page.path contains 'practice/' %}
+            {% assign cta_heading = '已经带着现实问题来了？直接去主站做对应分析' %}
+            {% assign cta_description = '实践区适合缩小问题范围；如果你已经知道自己要验证什么，现在就可以去主站动手。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh/ai-divination' %}
+            {% assign cta_primary_label = '带着问题去主站占断' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh/hepan' %}
+            {% assign cta_secondary_label = '关系主题去做合盘' %}
+        {% elsif page.path contains 'theory/' %}
+            {% assign cta_heading = '理论层更适合先选方法，再去主站验证' %}
+            {% assign cta_description = '如果你已经知道自己更偏八字、紫微还是六爻，就直接去对应工具验证；还没分清，就先继续看站内模块首页。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh/bazi' %}
+            {% assign cta_primary_label = '先用八字验证底层框架' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh/ziwei' %}
+            {% assign cta_secondary_label = '或去看紫微结构' %}
+        {% elsif page.path contains 'ai/' %}
+            {% assign cta_heading = 'AI 模块更适合回到真实产品看落地效果' %}
+            {% assign cta_description = '这里讲的是方法、评估与边界；如果你想看 AI 在真实场景里的表现，可以直接回主站体验。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh' %}
+            {% assign cta_primary_label = '去主站看真实应用' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh/ai-divination' %}
+            {% assign cta_secondary_label = '直接体验 AI 占断' %}
+        {% else %}
+            {% assign cta_heading = '读完这一页后，可以去主站做真实验证' %}
+            {% assign cta_description = 'Wiki 负责学习路径与方法拆解，主站负责排盘、占断与实际体验。' %}
+            {% assign cta_primary_url = 'https://www.tianjiyao.com/zh' %}
+            {% assign cta_primary_label = '去主站继续' %}
+            {% assign cta_secondary_url = 'https://www.tianjiyao.com/zh/ai-divination' %}
+            {% assign cta_secondary_label = '先做一次占断' %}
+        {% endif %}
+    {% endif %}
     
     <!-- SEO Meta Tags -->
     <title>{% if meta_title %}{{ meta_title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -302,6 +415,22 @@
             box-shadow: 0 8px 24px rgba(21, 87, 153, 0.08);
         }
 
+        .site-cta-card--light {
+            background: #f8fbfd;
+            border-color: #dbe7f0;
+            box-shadow: none;
+        }
+
+        .site-cta-eyebrow {
+            display: inline-block;
+            margin-bottom: 0.5rem;
+            color: #156c5b;
+            font-size: 0.85rem;
+            font-weight: 700;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+        }
+
         .site-cta-card h3 {
             margin-top: 0;
             margin-bottom: 0.75rem;
@@ -318,6 +447,17 @@
             flex-wrap: wrap;
             gap: 0.75rem;
             margin-bottom: 0.75rem;
+        }
+
+        .site-cta-links a[data-cta-role="primary"] {
+            background: #155799;
+            border-color: #155799;
+            color: #fff;
+        }
+
+        .site-cta-links a[data-cta-role="primary"]:hover {
+            background: #114a82;
+            border-color: #114a82;
         }
 
         .site-cta-links a {
@@ -401,7 +541,7 @@
                 <li><a href="{{ '/ziwei/' | relative_url }}">紫微斗数</a></li>
                 <li><a href="{{ '/yijing/' | relative_url }}">周易八卦</a></li>
                 <li><a href="{{ '/ai/' | relative_url }}">AI玄学</a></li>
-                <li><a href="https://www.tianjiyao.com/zh" target="_blank" rel="noopener">AI占卜体验 ↗</a></li>
+                <li><a href="https://www.tianjiyao.com/zh" target="_blank" rel="noopener" data-cta-slot="nav-main-site">去主站实操 ↗</a></li>
             </ul>
         </div>
     </nav>
@@ -444,16 +584,17 @@
 
     {% unless page.hide_site_cta %}
     <section class="site-cta">
-        <div class="site-cta-card">
-            <h3>继续到天机爻主站做真实排盘与分析</h3>
-            <p>Wiki 负责系统学习，主站负责真实使用。读完理论后，可以直接到主站体验排盘、占断与合盘分析。</p>
+        <div class="site-cta-card{% if cta_mode == 'light' %} site-cta-card--light{% endif %}">
+            <div class="site-cta-eyebrow">下一步动作</div>
+            <h3>{{ cta_heading }}</h3>
+            <p>{{ cta_description }}</p>
             <div class="site-cta-links">
-                <a href="https://www.tianjiyao.com/zh" target="_blank" rel="noopener">进入主站</a>
-                <a href="https://www.tianjiyao.com/zh/bazi" target="_blank" rel="noopener">生辰八字分析</a>
-                <a href="https://www.tianjiyao.com/zh/ziwei" target="_blank" rel="noopener">紫微斗数排盘</a>
-                <a href="https://www.tianjiyao.com/zh/ai-divination" target="_blank" rel="noopener">AI六爻占卜</a>
-                <a href="https://www.tianjiyao.com/zh/hepan" target="_blank" rel="noopener">命理合盘分析</a>
+                <a href="{{ cta_primary_url }}" target="_blank" rel="noopener" data-cta-role="primary" data-cta-slot="global-cta-primary">{{ cta_primary_label }}</a>
+                {% if cta_secondary_url != blank and cta_secondary_label != blank %}
+                <a href="{{ cta_secondary_url }}" target="_blank" rel="noopener" data-cta-role="secondary" data-cta-slot="global-cta-secondary">{{ cta_secondary_label }}</a>
+                {% endif %}
             </div>
+            <div class="site-cta-note">站内先学方法，主站再做真实排盘、占断或双人验证。</div>
         </div>
     </section>
     {% endunless %}
@@ -461,23 +602,98 @@
     <!-- Footer -->
     <footer class="site-footer">
         <div class="footer-links">
-            <a href="https://www.tianjiyao.com/zh">天机爻主站</a>
-            <a href="https://www.tianjiyao.com/zh" target="_blank" rel="noopener">产品首页</a>
+            <a href="https://www.tianjiyao.com/zh" target="_blank" rel="noopener" data-cta-slot="footer-main-site">去主站实操</a>
             <a href="{{ '/feed.xml' | relative_url }}">RSS订阅</a>
         </div>
         <p>&copy; {{ 'now' | date: "%Y" }} 天机爻. 致力于传播中国传统文化智慧.</p>
         <p><small>本站内容仅供学习参考，请理性对待传统命理学</small></p>
     </footer>
-    
-    <!-- Analytics (Google Analytics 4) -->
-    {% if site.google_analytics %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+
     <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
+        (function () {
+            var pageMeta = {
+                path: {{ page.url | default: '/' | jsonify }},
+                type: {{ cta_page_kind | jsonify }},
+                section: {{ section_name | default: '首页' | jsonify }},
+                topic: {{ cta_topic | jsonify }}
+            };
+            var trackedHosts = {
+                'www.tianjiyao.com': true,
+                'tianjiyao.com': true
+            };
+
+            function isMainSiteLink(link) {
+                try {
+                    var url = new URL(link.href, window.location.origin);
+                    return !!trackedHosts[url.hostname];
+                } catch (error) {
+                    return false;
+                }
+            }
+
+            function inferSlot(link) {
+                if (link.dataset.ctaSlot) {
+                    return link.dataset.ctaSlot;
+                }
+                if (link.closest('.main-nav')) {
+                    return 'nav';
+                }
+                if (link.closest('.site-cta')) {
+                    return 'global-cta';
+                }
+                if (link.closest('.site-footer')) {
+                    return 'footer';
+                }
+                return 'content';
+            }
+
+            function decorateLink(link) {
+                var url = new URL(link.href, window.location.origin);
+                var slot = inferSlot(link);
+
+                if (!url.searchParams.get('utm_source')) {
+                    url.searchParams.set('utm_source', 'wiki');
+                    url.searchParams.set('utm_medium', 'internal-referral');
+                    url.searchParams.set('utm_campaign', pageMeta.type);
+                    url.searchParams.set('utm_content', slot);
+                    url.searchParams.set('utm_term', pageMeta.topic);
+                    url.searchParams.set('wiki_page', pageMeta.path);
+                }
+
+                link.href = url.toString();
+            }
+
+            function trackLinkClick(link) {
+                if (typeof window.gtag !== 'function') {
+                    return;
+                }
+
+                var url = new URL(link.href, window.location.origin);
+                window.gtag('event', 'wiki_main_site_click', {
+                    event_category: 'wiki_to_main_site',
+                    event_label: (link.textContent || '').trim(),
+                    link_url: url.toString(),
+                    cta_slot: inferSlot(link),
+                    cta_target: url.pathname,
+                    page_path: pageMeta.path,
+                    page_type: pageMeta.type,
+                    page_section: pageMeta.section,
+                    cta_topic: pageMeta.topic
+                });
+            }
+
+            document.querySelectorAll('a[href]').forEach(function (link) {
+                if (!isMainSiteLink(link)) {
+                    return;
+                }
+
+                decorateLink(link);
+                link.addEventListener('click', function () {
+                    trackLinkClick(link);
+                });
+            });
+        })();
     </script>
-    {% endif %}
+    
 </body>
 </html>

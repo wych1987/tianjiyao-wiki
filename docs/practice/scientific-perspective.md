@@ -11,6 +11,14 @@ keywords:
   - 命理怎么看待
 author: 命理学习指导团队
 date: 2026-03-22
+cta_mode: light
+cta_topic: rational-use
+cta_heading: 如果你已经接受“理性使用”的前提，再回主站按场景进入即可
+cta_description: 这页的重点不是催促你去做判断，而是先建立边界感。只有在问题明确、预期合理时，再去主站体验才是更稳的使用方式。
+cta_primary_url: https://www.tianjiyao.com/zh
+cta_primary_label: 去主站按场景查看
+cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_label: 有明确问题再去占断
 ---
 
 # 命理的科学性、边界与理性学习方法

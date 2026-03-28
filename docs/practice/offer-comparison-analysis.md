@@ -5,6 +5,13 @@ description: 围绕 offer 比较、薪资待遇、岗位平台、发展空间与
 keywords: [ offer比较, 待遇选择, 跳槽判断, 八字事业, 紫微官禄, 六爻求职 ]
 author: 命理研究团队
 date: 2026-03-22
+cta_topic: career-wealth
+cta_heading: Offer 比较这类题目，最适合直接拿现实选项去主站验证
+cta_description: 如果你是在比眼前两个 offer 的推进质量、隐性阻力和入职节奏，直接去主站占断会更贴题；如果你还没分清长期职业方向，再回主站看八字结构。
+cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_primary_label: 去主站比较当前 offer
+cta_secondary_url: https://www.tianjiyao.com/zh/bazi
+cta_secondary_label: 长期职业路径先看八字
 ---
 
 # Offer比较与待遇选择
