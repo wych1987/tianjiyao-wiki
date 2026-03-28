@@ -25,6 +25,8 @@ cta_secondary_label: 先从主站按场景进入
 3. 看动静
 4. 看归期与方向
 
+这类题最怕边找边乱问。比如“东西还在不在”“是不是被人拿走了”“大概在哪个方向”“什么时候能找回”其实是不同层次的问题；如果现实里还没有新线索，只是因为一时焦虑反复起卦，本质上仍然可能是同题。起卦前先把当前最关键的一问锁定，会比连续追问更有效。可先读：[六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+
 ## 一、不同问题的主用神
 
 ### 1. 丢失钱财、货物、贵重物品
@@ -221,4 +223,5 @@ cta_secondary_label: 先从主站按场景进入
 - [六爻分类占断总论](classified-divination.md)
 - [六爻断卦核心法则](duan-gua-rules.md)
 - [六爻纳甲装卦体系](najia-system.md)
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
 - [六爻实战案例](practical-cases.md)

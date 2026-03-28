@@ -24,6 +24,8 @@ cta_secondary_label: 先回主站选场景入口
 2. 动了有没有阻力
 3. 动后落点稳不稳
 
+这类页面最适合处理“当前这次安排”。如果把“能不能成行”“途中顺不顺”“到了以后能不能稳定”“长期要不要去外地发展”一次全压进同一卦，结果很容易把成行动点和后续落地混在一起。起卦前先确认你问的是当前计划、当前手续，还是长期迁移决策，会更稳。可先读：[六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+
 ## 一、主用神怎么抓
 
 ### 1. 世爻
@@ -183,4 +185,5 @@ cta_secondary_label: 先回主站选场景入口
 - [六爻分类占断总论](classified-divination.md)
 - [六爻断卦核心法则](duan-gua-rules.md)
 - [六爻纳甲装卦体系](najia-system.md)
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
 - [占卜方法与技巧](divination-methods.md)

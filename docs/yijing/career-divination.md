@@ -20,6 +20,8 @@ cta_secondary_label: 长期职业结构先看八字
 
 因此，职业类卦如果只抓一个用神，往往会断得过窄。专业判断更像搭一个结构：职位在不在、制度通不通、自己承不承得住、对方愿不愿意接。
 
+这类题目在实战里最常见的错误，是把“有没有结果”“值不值得接”“入职后稳不稳”“该不该跳”压成同一卦。职业题一旦问题过大，官鬼、父母和世应都容易被读混。起卦前先把当前决策点收敛清楚，会比重复追问更稳。可先读：[六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+
 ## 一、事业卦的主轴是什么
 
 职业类问题最常见的主轴是：
@@ -192,4 +194,5 @@ cta_secondary_label: 长期职业结构先看八字
 - [六爻分类占断总论](classified-divination.md)
 - [六爻断卦核心法则](duan-gua-rules.md)
 - [六爻纳甲装卦体系](najia-system.md)
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
 - [占卜方法与技巧](divination-methods.md)

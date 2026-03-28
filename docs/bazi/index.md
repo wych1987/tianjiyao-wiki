@@ -66,6 +66,7 @@ breadcrumbs:
 - **[特殊格命例专题](special-pattern-case-studies.md)** - 用案例拆解从格、化气格与假从误判边界
 - **[破格与转运命例专题](broken-pattern-case-studies.md)** - 用案例理解结构失衡、运势放大与阶段性修复
 - **[八字命理常见问题](faq.md)** - 集中回答入门顺序、旺衰取用、合婚与理性使用等高频问题
+- **[八字完整索引](complete-index.md)** - 用一张总索引把基础、方法、专题、命例与 FAQ 串起来
 
 ## 🎓 学习建议
 
@@ -130,6 +131,7 @@ breadcrumbs:
 - [特殊格命例专题](./special-pattern-case-studies.md)
 - [破格与转运命例专题](./broken-pattern-case-studies.md)
 - [八字命理常见问题](./faq.md)
+- [八字完整索引](./complete-index.md)
 - [八字与紫微对比：结构、人格与运势视角的差异](../practice/bazi-ziwei-comparison.md)
 - [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](../practice/career-transition-analysis.md)
 - [副业与兼职可行性：八字、紫微与六爻的综合判断框架](../practice/side-income-feasibility.md)

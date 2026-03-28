@@ -34,6 +34,8 @@ date: 2025-11-06
 - **[六爻应期案例专题](response-timing-cases.md)** - 用案例拆消息应、结果应和阶段成熟应
 - **[六爻实战案例](practical-cases.md)** - 用真实案例反复校准结构判断
 - **[六爻常见问题](faq.md)** - 集中回答入门、断卦、应期和理性使用问题
+- **[六爻重复问卦与提问规范](repeated-divination-guidelines.md)** - 准备实战前先把什么算同题、何时能再问、怎么把问题问清
+- **[六爻完整索引](complete-index.md)** - 用一张总索引把起卦、装卦、分类占断、应期与 FAQ 串起来
 
 ## 🔮 实践入口
 
@@ -45,6 +47,8 @@ date: 2025-11-06
 - [六爻分类占断总论](classified-divination.md) - 先确认你问的是关系、求财、事业还是疾病类问题
 - [六爻应期判断](response-timing.md) - 先把“什么时候应”这件事读明白
 - [六爻常见问题](faq.md) - 先排掉入门误区和不适合直接起卦的情况
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md) - 如果准备真实起卦，先把一事一卦和提问边界收紧
+- [六爻完整索引](complete-index.md) - 先用一张图看清基础、方法、分类页和应期页的位置
 
 ### 外部实践入口
 
@@ -353,6 +357,7 @@ date: 2025-11-06
 - [六爻断卦核心法则](./duan-gua-rules.md)
 - [六爻应期案例专题](./response-timing-cases.md)
 - [六爻与周易常见问题](./faq.md)
+- [六爻完整索引](./complete-index.md)
 - [AI在周易中的应用](./ai-application.md)
 - [重大医学决策支持：八字、紫微与六爻的综合判断框架](../practice/medical-decision-support-framework.md)
 - [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](../practice/career-transition-analysis.md)

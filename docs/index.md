@@ -28,6 +28,7 @@ breadcrumbs:
 
 ### 我是带着现实问题来的
 - [专题导航中心](practice/topic-navigation-center.md) - 按婚姻、财富事业、健康风险三条线进入
+- [体系选择指南](practice/system-selection-guide.md) - 先判断你在问长期结构、关系场还是眼前事件，再选体系
 - [婚姻关系专题导航](practice/marriage-topic-navigation.md) - 把合婚、合盘、婚后协同相关内容先串起来
 - [财富事业专题导航](practice/wealth-career-topic-navigation.md) - 把职业路径、求财、跳槽与平台选择集中整理
 
@@ -56,6 +57,7 @@ breadcrumbs:
 - [健康判断](bazi/health-analysis.md) - 补足体质偏向、调候失衡与风险阶段的专业框架
 - [健康命例专题](bazi/health-case-studies.md) - 用案例说明长期透支、寒热失衡与大运触发逻辑
 - [八字常见问题](bazi/faq.md) - 统一解答入门顺序、旺衰取用、合婚与准确性等高频问题
+- [八字完整索引](bazi/complete-index.md) - 用一张总索引把基础、方法、专题、命例与 FAQ 串起来
 
 ### ⭐ 紫微斗数
 
@@ -80,6 +82,7 @@ breadcrumbs:
 - [双人合盘方法](ziwei/compatibility-analysis.md) - 把紫微从单盘分析推进到双人关系匹配与落地时机判断
 - [婚后协同专题](ziwei/marital-collaboration-analysis.md) - 补足婚后分工、财务、空间与长期相处这条应用线
 - [紫微斗数常见问题](ziwei/faq.md) - 回答宫位、星曜、四化、合盘与学习顺序等高频疑问
+- [紫微完整索引](ziwei/complete-index.md) - 用一张总索引把星曜、宫位、命例、双盘应用与 FAQ 串起来
 
 ### 🤖 AI 与传统玄学
 
@@ -126,6 +129,7 @@ breadcrumbs:
 - [占卜方法与技巧](yijing/divination-methods.md) - 提升预测准确度的实战经验
 - [六爻实战案例](yijing/practical-cases.md) - 真实案例深度分析
 - [六爻常见问题](yijing/faq.md) - 集中回答入门、断卦、应期与准确性等高频问题
+- [六爻完整索引](yijing/complete-index.md) - 用一张总索引把起卦、装卦、分类占断、应期与 FAQ 串起来
 
 ### 📐 理论基础
 
@@ -157,8 +161,11 @@ breadcrumbs:
 - [命例库索引](practice/case-library.md) - 按体系与主题整理全站命例、案例与实战专题入口
 - [专题导航中心](practice/topic-navigation-center.md) - 把婚姻、财富事业、健康风险三条专题线汇总成统一总入口
 - [婚姻关系专题导航](practice/marriage-topic-navigation.md) - 把八字、紫微、六爻中的婚恋与合盘内容横向串起来
+- [婚姻关系常见问题](practice/relationship-faq.md) - 集中回答合婚、复合、推进与婚后协同的高频问题
+- [婚姻关系完整索引](practice/relationship-complete-index.md) - 把关系线已有的专题导航、方法页、FAQ 与实战入口汇成完整导航图
 - [财富事业专题导航](practice/wealth-career-topic-navigation.md) - 把财运、事业、职业路径和求财求职内容整理成跨体系入口
 - [健康风险专题导航](practice/health-risk-topic-navigation.md) - 把体质、承压、病势与风险阶段内容整理成跨体系入口
+- [体系选择指南](practice/system-selection-guide.md) - 先把问题分成长期结构、关系场和眼前事件，再决定该走哪条线
 - [命理术语总表](practice/glossary-index.md) - 为高频概念和跨体系名词建立统一查词中心
 - [八字与紫微对比](practice/bazi-ziwei-comparison.md) - 把两套主体系的分工、差异与互补关系说清楚
 - [综合关系匹配](practice/comprehensive-compatibility-analysis.md) - 用八字、紫微、六爻三层视角处理合婚与关系推进问题

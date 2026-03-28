@@ -26,6 +26,8 @@ cta_secondary_label: 先从主站按场景进入
 
 这页不重复讲应期理论，而是用几种高频案例模型，把“消息应、动作应、结果应、出空应、冲开应、阶段成熟应”拆开来看。
 
+如果你一看案例就想直接问“那我这件事到底哪天应”，更应该先把问题层次收紧。应期案例的价值，不是替你跳过前置判断，而是帮你知道同一件事里哪些该先问、哪些要等下一阶段再问。若还不确定同题和分层边界，可先读：[六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+
 ## 一、先记住一个总原则
 
 很多人问应期，一上来就在问日期；但更稳的顺序其实是：
@@ -204,5 +206,6 @@ cta_secondary_label: 先从主站按场景进入
 - [六爻应期判断](response-timing.md)
 - [六爻断卦核心法则](duan-gua-rules.md)
 - [六爻实战案例](practical-cases.md)
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
 - [六爻婚姻感情占断](marriage-divination.md)
 - [六爻事业与求职占断](career-divination.md)

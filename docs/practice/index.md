@@ -29,6 +29,12 @@ keywords:
 ### [婚姻关系专题导航](marriage-topic-navigation.md)
 把婚姻、合婚、合盘、婚后协同相关内容按跨体系方式整理成一条横向学习线。
 
+### [婚姻关系常见问题](relationship-faq.md)
+集中回答合婚、复合、推进、离婚边界与婚后协同问题，适合作为关系专题的问答入口。
+
+### [婚姻关系完整索引](relationship-complete-index.md)
+把关系线已有的专题导航、方法页、FAQ 与实战入口汇成一张完整导航图。
+
 ### [财富事业专题导航](wealth-career-topic-navigation.md)
 把财运、事业、职业发展、求财求职等内容按跨体系方式组织成专题入口。
 
@@ -112,6 +118,9 @@ keywords:
 
 ### [跨体系综合判断常见问题](cross-system-faq.md)
 集中回答八字、紫微与六爻如何分工、如何组合、为什么结论不同等高频跨体系问题。
+
+### [体系选择指南](system-selection-guide.md)
+先判断你在问长期结构、关系场还是眼前事件，避免一开始就选错体系入口。
 
 ### [命理的科学性与边界](scientific-perspective.md)
 从文化、符号系统与经验模型角度，讨论命理的价值、边界与理性学习方式。

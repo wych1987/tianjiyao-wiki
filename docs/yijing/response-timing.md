@@ -20,6 +20,8 @@ cta_secondary_label: 先从主站按问题进入
 
 所以，应期不是附属技巧，而是断卦闭环的重要组成部分。
 
+应期页最容易吸引“只想问什么时候”的用户，但真正最容易错的也在这里。很多时间判断之所以漂，不是因为不会看合冲空破，而是还没先分清自己问的是消息、动作、结果，还是下一阶段决策。若你还拿不准同一件事里哪些层次该拆开问，可先读：[六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+
 ## 一、应期判断到底在看什么
 
 六爻推应期，至少要回答以下几个问题：
@@ -195,4 +197,5 @@ cta_secondary_label: 先从主站按问题进入
 - [六爻断卦核心法则](duan-gua-rules.md)
 - [六爻分类占断总论](classified-divination.md)
 - [占卜方法与技巧](divination-methods.md)
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
 - [六爻实战案例](practical-cases.md)

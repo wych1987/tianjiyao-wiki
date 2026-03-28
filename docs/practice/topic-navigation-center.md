@@ -43,6 +43,9 @@ date: 2026-03-15
 1. 八字婚姻结构与合婚
 2. 紫微夫妻宫、福德宫、双人合盘与婚后协同
 3. 六爻感情占断与应期判断
+4. [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
+5. [婚姻关系常见问题：合婚、复合、推进与婚后协同 FAQ](relationship-faq.md)
+6. [婚姻关系完整索引：从匹配度到推进节奏的全站导航](relationship-complete-index.md)
 
 ### [财富事业专题导航](wealth-career-topic-navigation.md)
 
@@ -101,6 +104,10 @@ date: 2026-03-15
 可以用下面这组判断快速定位。
 
 ### 1. 你关心的是长期结构
+
+如果你连该先用哪套体系都不确定，先看：
+
+1. [体系选择指南：什么问题该用八字、紫微还是六爻](system-selection-guide.md)
 
 优先读：
 
@@ -167,7 +174,10 @@ date: 2026-03-15
 - [统一学习地图](learning-map.md)
 - [命例库索引](case-library.md)
 - [命理术语总表：八字、紫微、六爻常用概念统一索引](glossary-index.md)
+- [体系选择指南：什么问题该用八字、紫微还是六爻](system-selection-guide.md)
 - [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
+- [婚姻关系常见问题：合婚、复合、推进与婚后协同 FAQ](relationship-faq.md)
+- [婚姻关系完整索引：从匹配度到推进节奏的全站导航](relationship-complete-index.md)
 - [综合财富事业判断：八字、紫微与六爻的多层分析框架](comprehensive-wealth-career-analysis.md)
 - [综合健康风险判断：八字、紫微与六爻的多层分析框架](comprehensive-health-risk-analysis.md)
 - [职业转轨与跳槽判断：八字、紫微与六爻的综合分析框架](career-transition-analysis.md)

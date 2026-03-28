@@ -20,6 +20,8 @@ cta_secondary_label: 先从主站按场景进入
 
 真正专业的考试类占断，应当把父母、官鬼、世爻、应爻与应期逻辑串起来看。
 
+这类题目在起卦前最容易犯的错，是把“这次发挥怎么样”“能不能录取”“通知什么时候来”“最终能不能落实”混成一个问题。考试卦更适合先锁定当前层次，再往下推进。若你还拿不准什么算同题、什么时候该等结果、什么时候才适合再问，可先读：[六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+
 ## 一、考试类问题到底在看什么
 
 考试、升学、证件和录取类问题，通常包含以下几层：
@@ -184,4 +186,5 @@ cta_secondary_label: 先从主站按场景进入
 - [六爻分类占断总论](classified-divination.md)
 - [六爻应期判断](response-timing.md)
 - [六爻事业与求职占断](career-divination.md)
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
 - [六爻实战案例](practical-cases.md)

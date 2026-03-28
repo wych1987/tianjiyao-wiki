@@ -25,6 +25,8 @@ cta_secondary_label: 先回主站选场景入口
 3. 世应
 4. 朱雀与白虎等辅助信息
 
+诉讼纠纷题还有一个常见误区，是把“对方会不会继续追”“我这边证据够不够”“该不该和解”“什么时候来通知”一次问完。对抗结构一旦混层，世应、父母和官鬼就会被读散。更稳的做法是先确认当前节点，再起卦看这一阶段。若还不清楚什么算同题、什么时候能进入下一问，可先读：[六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+
 ## 一、主用神怎么取
 
 ### 1. 官鬼
@@ -199,4 +201,5 @@ cta_secondary_label: 先回主站选场景入口
 - [六爻分类占断总论](classified-divination.md)
 - [六爻断卦核心法则](duan-gua-rules.md)
 - [六爻纳甲装卦体系](najia-system.md)
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
 - [占卜方法与技巧](divination-methods.md)

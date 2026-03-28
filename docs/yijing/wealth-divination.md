@@ -20,6 +20,8 @@ cta_secondary_label: 长期财富结构先看八字
 
 真正专业的财卦，不是只看“有没有钱”，而是看“财从哪里来，能不能拿到，拿到后能不能守住”。
 
+财务题还有一个高频误区，是把“这个项目能不能做”“多久能回款”“能不能赚钱”“赚到的钱能不能落袋”一次全问完。这样看起来具体，实际仍然是多层问题叠在一起。起卦前先把你当前最想判断的那一层收紧，六爻才更容易抓到主线。可先读：[六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+
 ## 一、财卦的核心结构
 
 财务问题通常至少要看四个点：
@@ -191,4 +193,5 @@ cta_secondary_label: 长期财富结构先看八字
 - [六爻分类占断总论](classified-divination.md)
 - [六爻断卦核心法则](duan-gua-rules.md)
 - [六爻纳甲装卦体系](najia-system.md)
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
 - [占卜方法与技巧](divination-methods.md)

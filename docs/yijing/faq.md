@@ -207,6 +207,20 @@ cta_secondary_label: 先从主站按场景进入
 
 也不一定。问题太散、太碎、太情绪化，反而容易把卦意拉偏。好的提问，应该清楚、具体、有明确对象和时间范围。
 
+### Q22：同一个问题能不能反复问？
+
+原则上不建议。六爻强调一事一卦。如果事情还在同一阶段，没有出现新变量，只是因为结果不满意、心里不安或换一种措辞再问，本质上通常还是同题。
+
+更稳的做法是先区分：
+
+1. 是不是同一个对象、同一件事、同一时间窗口
+2. 现实里有没有出现新的动作、通知、回复或阶段变化
+3. 我现在要问的是原问题，还是下一阶段的新决策
+
+延伸阅读：
+
+1. [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+
 ## 七、如果你准备继续往下学
 
 建议顺序：
@@ -215,12 +229,14 @@ cta_secondary_label: 先从主站按场景进入
 2. [六爻分类占断总论](classified-divination.md)
 3. [六爻应期判断](response-timing.md)
 4. [六爻应期案例专题](response-timing-cases.md)
-5. [六爻实战案例](practical-cases.md)
+5. [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+6. [六爻实战案例](practical-cases.md)
 
 ## 相关阅读
 
 - [周易六爻学习中心](index.md)
 - [六爻应期判断](response-timing.md)
 - [六爻应期案例专题](response-timing-cases.md)
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
 - [命理术语总表：八字、紫微、六爻常用概念统一索引](../practice/glossary-index.md)
 - [命理的科学性、边界与理性学习方法](../practice/scientific-perspective.md)

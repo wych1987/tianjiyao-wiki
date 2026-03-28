@@ -133,6 +133,8 @@ cta_secondary_label: 带着当前关系问题去占断
 如果你希望把三层视角直接整理成一套完整关系判断框架，可以继续读：
 
 1. [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
+2. [婚姻关系常见问题：合婚、复合、推进与婚后协同 FAQ](relationship-faq.md)
+3. [婚姻关系完整索引：从匹配度到推进节奏的全站导航](relationship-complete-index.md)
 
 这样的训练方式，比只学单一体系更容易形成完整判断。
 
@@ -142,4 +144,6 @@ cta_secondary_label: 带着当前关系问题去占断
 - [统一学习地图](learning-map.md)
 - [命例库索引](case-library.md)
 - [综合关系匹配：八字、紫微与六爻的多层判断框架](comprehensive-compatibility-analysis.md)
+- [婚姻关系常见问题：合婚、复合、推进与婚后协同 FAQ](relationship-faq.md)
+- [婚姻关系完整索引：从匹配度到推进节奏的全站导航](relationship-complete-index.md)
 - [返回实践指南](index.md)

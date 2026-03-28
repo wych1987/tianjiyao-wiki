@@ -26,6 +26,8 @@ cta_secondary_label: 有明确问题再做辅助判断
 3. 有没有解法
 4. 变化会往好还是往坏走
 
+健康题起卦前尤其要先把边界收紧。比如“是不是得了某种病”“要不要立刻手术”“治疗会不会有效”“多久恢复”其实不是同一层问题；其中病名、用药、手术和急症处理，优先应由医院检查和医生判断。若只是想辅助观察风险轻重、检查节点或恢复转折，也应先把当前要问的那一层单独拿出来。可先读：[六爻重复问卦与提问规范](repeated-divination-guidelines.md)
+
 ## 一、疾病卦的三条主线
 
 疾病类问题最核心的三条线是：
@@ -195,4 +197,5 @@ cta_secondary_label: 有明确问题再做辅助判断
 - [六爻分类占断总论](classified-divination.md)
 - [六爻断卦核心法则](duan-gua-rules.md)
 - [六爻纳甲装卦体系](najia-system.md)
+- [六爻重复问卦与提问规范](repeated-divination-guidelines.md)
 - [占卜方法与技巧](divination-methods.md)
