@@ -92,8 +92,8 @@ breadcrumbs:
 
 ### 外部实践入口
 
-- [天机爻八字排盘](https://www.tianjiyao.com/zh/bazi) - 用真实排盘验证理论理解
-- [命理合盘分析](https://www.tianjiyao.com/zh/hepan) - 在关系主题中练习双人匹配视角
+- [天机爻八字排盘](https://tianjiyao.com/zh/bazi) - 用真实排盘验证理论理解
+- [命理合盘分析](https://tianjiyao.com/zh/hepan) - 在关系主题中练习双人匹配视角
 
 ## ⚠️ 重要提醒
 

@@ -52,8 +52,8 @@ date: 2025-11-06
 
 ### 外部实践入口
 
-- [AI六爻排盘占卜](https://www.tianjiyao.com/zh/ai-divination) - 带着当前问题去做真实起卦与解读
-- [天机爻主站](https://www.tianjiyao.com/zh) - 如果还没确定用哪种方式，先从主站按场景进入
+- [AI六爻排盘占卜](https://tianjiyao.com/zh/ai-divination) - 带着当前问题去做真实起卦与解读
+- [天机爻主站](https://tianjiyao.com/zh) - 如果还没确定用哪种方式，先从主站按场景进入
 
 ## 一、历史渊源与发展脉络
 
