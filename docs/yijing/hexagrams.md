@@ -1,17 +1,25 @@
 ---
 layout: default
-title: 易经64卦详解：卦名、卦象、卦辞爻辞速查
-description: 收录易经六十四卦的卦名、卦象、卦辞、爻辞、八宫归属和应用提示，适合快速查询某一卦含义，也适合继续学习六爻解卦。
+title: 易经64卦查询：六十四卦卦名、卦象与卦辞爻辞速查
+description: 收录易经六十四卦的卦名、卦象、卦辞、爻辞、八宫归属和应用提示，适合先查某一卦含义，再继续学习六爻解卦或在线起卦。
 keywords: [ 六十四卦, 卦辞, 爻辞, 卦象, 卦义, 周易本义 ]
 author: 周易研究团队
 date: 2025-11-06
+seo_title: 易经64卦查询：六十四卦卦名、卦象与卦辞爻辞速查
+cta_heading: 想直接查某一卦？先去主站 64 卦查询页
+cta_description: 这页适合系统查六十四卦的卦象和卦辞；如果你想先按卦名快速查白话解读，主站 64 卦查询页会更直接。
+cta_primary_url: https://www.tianjiyao.com/zh/64-gua
+cta_primary_label: 去查 64 卦
+cta_secondary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_secondary_label: 有问题就直接起卦
+cta_topic: hexagram-index
 ---
 
-# 易经64卦详解：卦名、卦象、卦辞爻辞速查
+# 易经64卦查询：六十四卦卦名、卦象与卦辞爻辞速查
 
 这页适合先查“某一卦是什么意思”。你可以按卦序快速找到卦名、卦象、卦辞、爻辞和八宫归属；如果你是带着具体问题来问事，建议先查卦义，再继续学习六爻的起卦和断卦规则。
 
-如果你想直接按卦名查看主站解读，可以用 [易经64卦查询大全](https://tianjiyao.com/zh/64-gua)；如果已经有具体问题，可以进入 [周易占卜与六爻起卦说明](https://tianjiyao.com/zh/zhouyi-divination) 选择更合适的起卦方式。
+如果你想先按卦名快速查看白话解读，可以直接用 [主站易经64卦查询大全](https://tianjiyao.com/zh/64-gua)；如果你已经有具体问题，不只是查卦义，而是想判断事情怎么走，下一步更适合进入 [六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
 
 ## 一、六十四卦的形成原理
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 八字命理入门：天干地支、四柱与十神基础
-description: 系统介绍八字命理入门知识，包括天干地支、四柱结构、五行生克与十神基础，适合初学者建立框架，适合入门学习、专题进阶与案例延伸阅读。
+title: 八字入门先看什么：天干地支、四柱与十神基础
+description: 系统介绍八字入门知识，包括天干地支、四柱结构、五行生克与十神基础，适合零基础先建立框架；如果想先看自己的命盘，也可以直接去主站排盘。
 keywords:
   - 八字命理入门
   - 天干地支教程
@@ -20,10 +20,19 @@ breadcrumbs:
     url: /bazi/
   - name: 八字命理入门
     url: /bazi/introduction.html
-seo_title: 八字命理入门：四柱与十神基础
+seo_title: 八字入门先看什么：天干地支、四柱与十神基础
+cta_heading: 想先看自己的八字命盘？直接去主站八字页
+cta_description: 这页负责系统讲八字入门理论；如果你想先知道排盘后会看到什么，主站八字页更适合先看四柱、五行和十神，再回来补基础术语。
+cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_label: 去看在线八字排盘
+cta_secondary_url: https://www.tianjiyao.com/zh/bazi/four-pillars-calculator
+cta_secondary_label: 先算四柱
+cta_topic: bazi-introduction
 ---
 
-# 八字命理入门：天干地支、四柱与十神基础
+# 八字入门先看什么：天干地支、四柱与十神基础
+
+如果你想先弄清“八字是什么、排盘后先看什么”，可以先去 [在线八字排盘](https://tianjiyao.com/zh/bazi) 看四柱、五行和十神示例，再回来系统补天干地支和基础术语；如果你只是想先把年柱月柱日柱时柱算出来，也可以直接用 [四柱计算器](https://tianjiyao.com/zh/bazi/four-pillars-calculator)。
 
 ## 导论：八字命理的学术定位与历史沿革
 

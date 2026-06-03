@@ -1,17 +1,25 @@
 ---
 layout: default
-title: 六爻占卜入门：起卦、装卦、取用神与解卦流程
-description: 面向初学者讲清六爻占卜怎么起卦、怎么装卦、如何看世应六亲六神、怎样取用神并进入解卦，适合带着具体问题开始学习。
+title: 六爻占卜怎么起卦：起卦、装卦、取用神与解卦流程
+description: 面向初学者讲清六爻怎么起卦、六爻占卜怎么解卦、如何看世应六亲六神，适合先读规则，再进入在线起卦。
 keywords: [ 六爻, 占卜, 起卦, 装卦, 解卦, 世应, 六亲, 六神 ]
 author: 周易研究团队
 date: 2025-11-06
+seo_title: 六爻占卜怎么起卦：六爻入门与在线起卦入口
+cta_heading: 想直接起一卦？先去主站做在线六爻起卦
+cta_description: 这页负责讲起卦、装卦、用神和解卦规则；如果你已经有明确问题，可以先去主站起卦，再回来对照六爻术语和判断顺序。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去在线起卦
+cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_label: 先看主站六爻指南
+cta_topic: liuyao-casting
 ---
 
-# 六爻占卜入门：起卦、装卦、取用神与解卦流程
+# 六爻占卜怎么起卦：起卦、装卦、取用神与解卦流程
 
 六爻适合处理具体问题，例如合作能不能成、这次面试有没有机会、某段关系接下来怎么走。入门时不要先背大量术语，建议按“明确问题 → 起卦 → 装卦 → 取用神 → 看旺衰冲合 → 结合现实背景解释”的顺序学习。
 
-如果你已经有明确问题，可以先到 [周易占卜与六爻起卦说明](https://tianjiyao.com/zh/zhouyi-divination) 选择入口；如果还在学习阶段，可以先读 [六爻起卦方法与入门指南](https://tianjiyao.com/zh/liuyao-guide)，再回到本页补完整规则。
+如果你已经有明确问题，可以先到 [六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 直接开始，再回到本页对照装卦、用神和解卦流程；如果你还在学习阶段，可以先读 [主站六爻起卦方法与入门指南](https://tianjiyao.com/zh/liuyao-guide)，再回来补完整规则。
 
 ## 第一章 六爻占卜的理论基础
 

@@ -1,18 +1,25 @@
 ---
 layout: default
-title: 八字格局怎么判断：正格、变格、用神与忌神顺序
-description: 讲清八字格局判断顺序，包括月令取格、正格与变格、用神忌神、格局成败和案例拆解，适合排盘后继续理解命局高低与结构。
+title: 八字格局怎么看：常见格局、阅读顺序与结构判断
+description: 讲清八字格局怎么看，包括月令取格、正格与变格、用神忌神、格局成败和阅读顺序，适合排盘后继续判断命局结构。
 keywords: [ 格局, 用神, 忌神, 正格, 变格, 命局分析, 格局高低 ]
 author: 命理学研究团队
 date: 2025-11-06
-seo_title: 八字格局怎么判断：正格、变格与用神
+seo_title: 八字格局怎么看：常见格局、阅读顺序与结构判断
+cta_heading: 想先把格局顺序看清？直接去主站看格局页
+cta_description: 这页负责讲格局理论和判断框架；如果你想先用更短路径看“格局怎么看”，主站格局页更适合先入门，再回来补完整规则。
+cta_primary_url: https://www.tianjiyao.com/zh/bazi/geju
+cta_primary_label: 去看格局详解页
+cta_secondary_url: https://www.tianjiyao.com/zh/bazi/shishen
+cta_secondary_label: 先看十神分布
+cta_topic: bazi-structure
 ---
 
-# 八字格局怎么判断：正格、变格、用神与忌神顺序
+# 八字格局怎么看：常见格局、阅读顺序与结构判断
 
 八字格局判断可以先按一个顺序来：看月令，定日主强弱，辨正格或变格，再找用神、喜神和忌神，最后结合大运流年验证。不要一开始就套单一格局名称，先看命局有没有形成稳定结构。
 
-如果你还没有命盘，可以先用 [天机爻八字排盘](https://tianjiyao.com/zh/bazi) 看四柱、五行和十神；如果你的问题与关系有关，可以继续用 [八字合盘在线分析](https://tianjiyao.com/zh/hepan/bazi) 对照双方结构。
+如果你想先快速看懂“八字格局怎么看”，可以先去 [主站格局详解页](https://tianjiyao.com/zh/bazi/geju) 按阅读顺序走一遍，再回来补正格、变格和理论背景；如果你还没看十神，建议先读 [主站十神详解页](https://tianjiyao.com/zh/bazi/shishen)，再回来判断格局会更稳。
 
 ## 一、格局理论的历史渊源与重要性
 

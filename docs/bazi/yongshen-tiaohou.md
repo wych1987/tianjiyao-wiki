@@ -1,15 +1,25 @@
 ---
 layout: default
-title: 八字用神喜忌与调候通关：从扶抑到病药的完整思路
-description: 系统说明八字命理中的用神、喜神、忌神、仇神、病药、调候与通关概念，建立更专业的命局平衡判断框架，适合入门学习、专题进阶与案例延伸阅读。
+title: 八字用神怎么看：喜用神、喜忌判断与调候通关
+description: 系统说明八字用神怎么看，包括用神、喜神、忌神、病药、调候与通关思路，适合排盘后继续判断命局需要什么力量。
 keywords: [ 用神, 喜神, 忌神, 调候, 通关, 病药, 八字 ]
 author: 命理学研究团队
 date: 2026-03-15
+seo_title: 八字用神怎么看：喜用神、喜忌判断与调候通关
+cta_heading: 想先看自己的喜用神阅读顺序？直接去主站用神页
+cta_description: 这页负责讲用神、喜忌、调候和病药的完整理论；如果你想先快速看懂“用神怎么看”，主站用神页更适合先入门，再回来补完整框架。
+cta_primary_url: https://www.tianjiyao.com/zh/bazi/yongshen
+cta_primary_label: 去看用神详解页
+cta_secondary_url: https://www.tianjiyao.com/zh/bazi/geju
+cta_secondary_label: 先看格局阅读顺序
+cta_topic: useful-elements
 ---
 
-# 八字用神喜忌与调候通关
+# 八字用神怎么看：喜用神、喜忌判断与调候通关
 
 八字分析最常见的误区，是把用神理解成“最喜欢的五行”。严格说，用神不是偏好，而是命局真正需要的力量。这个“需要”，可能来自扶身，也可能来自泄秀、制杀、调候、通关，甚至是病药式修复。
+
+如果你想先快速看懂“八字用神怎么看”，可以先去 [主站用神详解页](https://tianjiyao.com/zh/bazi/yongshen) 看阅读顺序，再回来补喜忌、病药、调候和通关；如果你还没把结构理顺，建议先读 [主站格局详解页](https://tianjiyao.com/zh/bazi/geju)，再看用神会更稳。
 
 ## 一、什么是用神
 

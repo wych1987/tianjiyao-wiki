@@ -1,13 +1,23 @@
 ---
 layout: default
-title: 占卜方法与技巧：提升预测准确度的实战经验
-description: 总结六爻占卜的高级技法、判断思路及实战经验，适合建立断卦框架、分类占断与实战进阶，帮助读者快速建立清晰的理解框架。
+title: 六爻断卦方法先看什么：用神、旺衰与判断顺序
+description: 总结六爻断卦方法与技巧，涵盖用神取用、旺衰判断、动爻分析与应期推算，适合先建立判断顺序，再继续看实战细节。
 keywords: [ 占卜技巧, 断卦方法, 用神取用, 动爻分析, 进退神, 飞神伏神 ]
 author: 周易研究团队
 date: 2025-11-06
+seo_title: 六爻断卦方法先看什么：用神、旺衰与判断顺序
+cta_heading: 想先把六爻方法顺序看清？直接去主站六爻指南
+cta_description: 这页负责讲完整的断卦技巧和方法细节；如果你想先快速理解六爻怎么起卦、怎么装卦、怎么看动爻与用神，主站六爻指南更适合先入门。
+cta_primary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_primary_label: 去看六爻指南
+cta_secondary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_secondary_label: 直接在线起卦
+cta_topic: liuyao-methods
 ---
 
-# 周易占卜方法与技巧详解
+# 六爻断卦方法先看什么：用神、旺衰与判断顺序
+
+如果你想先快速弄清“六爻怎么判断、先看什么后看什么”，可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 看起卦、装卦、动爻和用神的入门顺序，再回来补用神取用、旺衰和应期这些完整方法；如果你已经有明确问题，也可以直接进入 [六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
 
 ## 一、用神取用技巧
 
