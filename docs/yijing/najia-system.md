@@ -1,15 +1,25 @@
 ---
 layout: default
-title: 六爻纳甲装卦体系：六亲六神世应的专业基础
-description: 系统讲解六爻纳甲装卦的核心规则，包括八宫纳甲、六亲安配、六神起例、世应定位以及伏神飞神等专业基础，适合建立断卦框架、分类占断与实战进阶。
+title: 六爻纳甲怎么装卦：六亲六神世应的阅读基础
+description: 系统讲解六爻纳甲怎么装卦，包括八宫纳甲、六亲安配、六神起例、世应定位以及伏神飞神等专业基础，适合先把装卦底盘理清，再继续断卦。
 keywords: [ 六爻, 纳甲, 装卦, 六亲, 六神, 世应, 伏神, 飞神 ]
 author: 周易研究团队
 date: 2026-03-15
+seo_title: 六爻纳甲怎么装卦：六亲六神世应的阅读基础
+cta_heading: 想先把六爻装卦顺序看清？直接去主站六爻指南
+cta_description: 这页负责讲完整的纳甲装卦体系；如果你想先快速理解六爻怎么装卦、怎么看六亲六神和世应，主站六爻指南更适合先入门。
+cta_primary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_primary_label: 去看六爻指南
+cta_secondary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_secondary_label: 直接在线起卦
+cta_topic: najia-system
 ---
 
-# 六爻纳甲装卦体系
+# 六爻纳甲怎么装卦：六亲六神世应的阅读基础
 
 六爻预测真正进入专业层面，关键不在会不会起卦，而在能否把卦装对。纳甲、六亲、六神、世应、伏神，是六爻断事的共同底盘。装卦一旦偏差，后续旺衰、取用、应期几乎都会连带失真。
+
+如果你想先快速弄清“六爻装卦先看什么、世应和六亲怎么放”，可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 看起卦、装卦和动爻入门，再回来补完整的纳甲体系；如果你已经有明确问题，也可以直接进入 [六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
 
 ## 一、什么是纳甲装卦
 

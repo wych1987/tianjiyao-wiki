@@ -1,22 +1,25 @@
 ---
 layout: default
-title: 六爻分类占断总论：婚姻、求财、事业、疾病的专业取用框架
-description: 从专业六爻体系出发，系统整理婚姻、求财、事业、疾病等常见占题的取用神规则、判断顺序与应期思路，适合建立断卦框架、分类占断与实战进阶。
+title: 六爻分类占断怎么看：婚姻、求财、事业、疾病的取用框架
+description: 系统整理六爻分类占断怎么看，涵盖婚姻、求财、事业、疾病等常见占题的取用神规则、判断顺序与应期思路，适合先建立分类判断框架。
 keywords: [ 六爻分类占断, 婚姻占断, 求财占断, 事业占断, 疾病占断, 用神 ]
 author: 周易研究团队
 date: 2026-03-15
+seo_title: 六爻分类占断怎么看：婚姻、求财、事业、疾病的取用框架
 cta_topic: yijing-classified
-cta_heading: 分类占断总论读到这里，通常已经可以拿具体题目去主站起卦
-cta_description: 婚姻、求财、事业、疾病这些题目，真正有价值的是把一个明确问题带入真实卦象里验证，而不是只停在规则列表。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站按具体题目起卦
-cta_secondary_url: https://www.tianjiyao.com/zh
-cta_secondary_label: 先从主站按场景进入
+cta_heading: 想先判断这题该怎么起卦？直接去主站六爻入口
+cta_description: 婚姻、求财、事业、疾病这些题目，真正有价值的是先把问题收敛成一件事，再带入真实卦象验证。主站周易入口更适合先判断当前问题该怎么进入。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看六爻起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_label: 先看六爻指南
 ---
 
-# 六爻分类占断总论
+# 六爻分类占断怎么看：婚姻、求财、事业、疾病的取用框架
 
 六爻之学，难在“同一套装卦结构，要对应不同问题”。起卦装卦只是共同底盘，真正体现断卦水平的，是面对不同占题时能否迅速抓住正确用神、主次关系与判断顺序。
+
+如果你想先快速判断“这类题目该怎么问、该直接起卦还是先看方法”，可以先去 [主站六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补分类占断框架；如果你还没把起卦、装卦和用神顺序理清，也可以先读 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
 
 《增删卜易》重在用神，《卜筮正宗》长于分类占断，《易隐》则重视神机与变通。若把这三类思路综合起来，分类占断可以归结为一句话：先辨题目，再立主神，后看成败，最后推应期。
 

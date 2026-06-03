@@ -1,22 +1,25 @@
 ---
 layout: default
-title: 六爻事业与求职占断：官鬼、父母与岗位变动的专业判断方法
-description: 系统讲解六爻在求职、升职、跳槽、创业、岗位调整等问题中的专业断法，重点分析官鬼、父母、世应与阶段变化。
+title: 六爻工作问题怎么看：官鬼、父母与岗位变动判断
+description: 系统讲解六爻工作问题怎么看，涵盖求职、升职、跳槽、创业、岗位调整等题目的官鬼、父母、世应与阶段变化判断。
 keywords: [ 六爻事业, 六爻求职, 六爻升职, 六爻跳槽, 官鬼爻, 父母爻 ]
 author: 周易研究团队
 date: 2026-03-15
 cta_topic: career-wealth
-cta_heading: 求职和岗位变化这类题目，最适合直接带着当前机会去主站占断
-cta_description: 如果你已经把官鬼、父母、世应和流程接口读清楚，现在可以直接用一个具体岗位、面试或转岗问题去做真实验证。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站占断求职机会
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi
-cta_secondary_label: 长期职业结构先看八字
+seo_title: 六爻工作问题怎么看：官鬼、父母与岗位变动判断
+cta_heading: 想先把岗位题问清再起卦？直接去主站周易入口
+cta_description: 如果你已经把官鬼、父母、世应和流程接口读清楚，下一步更适合带着具体岗位、面试或转岗问题去主站判断该怎么起卦；如果你想先看案例，也可以先去案例库对照。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看周易起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_label: 先看案例库
 ---
 
-# 六爻事业与求职占断
+# 六爻工作问题怎么看：官鬼、父母与岗位变动判断
 
 事业卦的复杂性，在于它通常不是单一问题。求职看职位，升职看层级，跳槽看变化，创业看风险与资源，回到六爻结构里，往往同时牵涉官鬼、父母、世爻、应爻，甚至财爻与子孙爻。
+
+如果你想先快速判断“这份工作题该怎么问、该先问有没有结果还是先问要不要接”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补职业类卦的结构；如果你想先看别人怎么拆职业案例，也可以先去 [主站案例库](https://tianjiyao.com/zh/cases)。
 
 因此，职业类卦如果只抓一个用神，往往会断得过窄。专业判断更像搭一个结构：职位在不在、制度通不通、自己承不承得住、对方愿不愿意接。
 

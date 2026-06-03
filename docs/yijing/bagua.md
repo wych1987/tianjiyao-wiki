@@ -1,13 +1,22 @@
 ---
 layout: default
-title: 八卦详解：从乾坤到离坎的象征体系
-description: 深入解析八卦的形成原理、象征意义、相互关系及在占卜中的具体应用，适合建立断卦框架、分类占断与实战进阶。
+title: 八卦怎么看：乾坤震巽坎离艮兑的象征体系
+description: 深入解析八卦怎么看，包括形成原理、象征意义、相互关系及在占卜中的具体应用，适合先理解八卦基础，再继续看 64 卦与六爻。
 keywords: [ 八卦, 乾坤, 震巽, 坎离, 艮兑, 八卦类象, 先天八卦, 后天八卦 ]
 author: 周易研究团队
 date: 2025-11-06
+seo_title: 八卦怎么看：乾坤震巽坎离艮兑的象征体系
+cta_heading: 想先把八卦和 64 卦接起来？直接去主站 64 卦页
+cta_description: 这页负责系统讲八卦原理；如果你想先从卦名、卦象和白话解释入手，再回头补八卦基础，主站 64 卦页更适合先看。
+cta_primary_url: https://www.tianjiyao.com/zh/64-gua
+cta_primary_label: 去看 64 卦总览
+cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_label: 先看六爻指南
 ---
 
-# 八卦详解：从起源到应用的全方位指南
+# 八卦怎么看：从起源到应用的全方位指南
+
+如果你想先弄清“八卦和 64 卦是什么关系、应该先看哪一层”，可以先去 [主站 64 卦总览](https://tianjiyao.com/zh/64-gua) 看卦名、卦象和白话解读，再回来补八卦的底层结构；如果你更想直接走六爻学习路线，也可以先读 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
 
 ## 一、八卦的起源与形成
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 六爻应期案例专题：消息、启动、定局与时间转折的实战拆解
-seo_title: 六爻应期案例：消息应、结果应与时间转折判断
-description: 通过典型六爻案例拆解消息应、动作应、结果应、出空应、冲开应与阶段成熟应等关键应期模式，适合建立断卦框架、分类占断与实战进阶。
+title: 六爻时间判断案例：消息、启动、定局与时间转折拆解
+seo_title: 六爻时间判断案例：消息应、结果应与时间转折判断
+description: 通过典型六爻案例拆解消息应、动作应、结果应、出空应、冲开应与阶段成熟应等关键时间判断模式，适合先看别人怎么拆应期，再继续回到自己的问题。
 keywords:
   - 六爻应期案例
   - 六爻时间判断案例
@@ -12,17 +12,19 @@ keywords:
 author: 周易研究团队
 date: 2026-03-22
 cta_topic: yijing-timing
-cta_heading: 应期案例看完后，最自然的下一步就是拿真实问题去做一轮时间验证
-cta_description: 这页已经把消息应、动作应、结果应和阶段成熟应拆开了。真正拉开差距的，是回主站用一件具体事情做实战起卦。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站做应期实战
-cta_secondary_url: https://www.tianjiyao.com/zh
-cta_secondary_label: 先从主站按场景进入
+cta_heading: 想先看时间判断案例入口？直接去主站案例库
+cta_description: 这页已经把消息应、动作应、结果应和阶段成熟应拆开了。如果你想先看不同场景的案例入口，再决定读哪类时间判断案例，主站案例库更适合先进入。
+cta_primary_url: https://www.tianjiyao.com/zh/cases
+cta_primary_label: 去看主站案例库
+cta_secondary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_secondary_label: 直接进入周易起卦入口
 ---
 
-# 六爻应期案例专题
+# 六爻时间判断案例：消息、启动、定局与时间转折拆解
 
 六爻应期最难的地方，不是记口诀，而是知道同一件事里，什么算“先应”，什么算“后应”，什么只是过程中的信号，什么才是真正定局。
+
+如果你想先弄清“时间判断案例应该先看哪类、怎么对照自己的问题”，可以先去 [主站案例库](https://tianjiyao.com/zh/cases) 看案例入口，再回来细读这页的应期模型；如果你已经有明确问题，也可以直接进入 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
 
 这页不重复讲应期理论，而是用几种高频案例模型，把“消息应、动作应、结果应、出空应、冲开应、阶段成熟应”拆开来看。
 

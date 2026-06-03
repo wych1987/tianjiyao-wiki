@@ -1,13 +1,22 @@
 ---
 layout: default
-title: 六爻实战案例：真实占断的分析与验证
-description: 通过真实案例展示六爻占卜的完整流程和准确性验证，适合建立断卦框架、分类占断与实战进阶，帮助读者快速建立清晰的理解框架。
+title: 六爻案例怎么看：真实占断的分析与验证
+description: 通过真实案例展示六爻案例怎么看，包括起卦、装卦、取用、判断过程与反馈验证，适合先看别人怎么拆案例，再继续回到自己的问题。
 keywords: [ 六爻案例, 实战占断, 案例分析, 验证反馈, 占卜经验 ]
 author: 周易研究团队
 date: 2025-11-06
+seo_title: 六爻案例怎么看：真实占断的分析与验证
+cta_heading: 想先看案例入口怎么选？直接去主站案例库
+cta_description: 这页负责讲完整的六爻实战案例；如果你想先看不同场景的案例入口，再决定读哪类案例或直接开始自己的问题，主站案例库更适合先进入。
+cta_primary_url: https://www.tianjiyao.com/zh/cases
+cta_primary_label: 去看主站案例库
+cta_secondary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_secondary_label: 直接进入周易起卦入口
 ---
 
-# 六爻占卜实战案例详解
+# 六爻案例怎么看：真实占断的分析与验证
+
+如果你想先弄清“六爻案例应该怎么读、先看哪类案例更接近自己”，可以先去 [主站案例库](https://tianjiyao.com/zh/cases) 看不同场景的案例入口，再回来细读完整实战案例；如果你已经有明确问题，也可以直接进入 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
 
 ## 第一章 婚姻感情类案例
 

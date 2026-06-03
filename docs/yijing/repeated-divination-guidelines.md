@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 六爻重复问卦与提问规范：什么时候该问，什么时候不该再问
-seo_title: 六爻重复问卦与提问规范：一事一卦与重新起卦边界
-description: 说明六爻起卦前如何把问题收敛成一事一问，什么算重复问卦、什么时候适合重新起卦，以及结果不满意时应如何处理。
+title: 六爻怎么提问：一事一卦、重复问卦与重新起卦边界
+seo_title: 六爻怎么提问：一事一卦与重新起卦边界
+description: 说明六爻怎么提问，包括起卦前如何把问题收敛成一事一问，什么算重复问卦、什么时候适合重新起卦，以及结果不满意时应如何处理。
 keywords:
   - 六爻重复问卦
   - 六爻提问规范
@@ -13,17 +13,19 @@ author: 周易研究团队
 date: 2026-03-28
 cta_topic: yijing-question-guidelines
 cta_mode: light
-cta_heading: 先把问题问清，再去主站起卦
-cta_description: 六爻对具体事件很敏感，但前提是问题单一、对象明确、时间范围清楚。把问题收敛好，再去起卦，会比反复重问更有效。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站按规范起卦
-cta_secondary_url: https://www.tianjiyao.com/zh
-cta_secondary_label: 先回主站按场景进入
+cta_heading: 想先把题目问对？直接去主站周易入口
+cta_description: 六爻对具体事件很敏感，但前提是问题单一、对象明确、时间范围清楚。先在主站入口把问题收敛好，再去起卦，会比反复重问更有效。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看周易起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_label: 先看六爻指南
 ---
 
-# 六爻重复问卦与提问规范
+# 六爻怎么提问：一事一卦、重复问卦与重新起卦边界
 
 很多人不是不会起卦，而是在真正发问之前，没有把问题收敛好。
+
+如果你想先快速判断“这题该怎么问、现在该不该起卦”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛题目，再回来补一事一卦和重复问卦边界；如果你还没把六爻起卦与判断顺序理清，也可以先读 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
 
 最常见的情况有三种：
 

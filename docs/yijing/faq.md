@@ -2,7 +2,7 @@
 layout: default
 title: 六爻与周易常见问题：入门、断卦、应期与实战误区
 seo_title: 六爻常见问题：入门、断卦、应期与准确性
-description: 集中回答周易六爻学习中的高频问题，包括入门顺序、取用神、世应、应期、准确性与常见实战误区，适合建立断卦框架、分类占断与实战进阶。
+description: 集中回答周易六爻学习中的高频问题，包括入门顺序、取用神、世应、应期、准确性与常见实战误区，适合先理清六爻先看什么、再去起卦验证。
 keywords:
   - 六爻常见问题
   - 六爻FAQ
@@ -12,17 +12,19 @@ keywords:
 author: 周易研究团队
 date: 2026-03-22
 cta_topic: yijing-faq
-cta_heading: FAQ 读到这里，通常已经可以带着具体问题去起卦了
-cta_description: 如果你已经把入门顺序、用神、世应和应期误区读清楚，现在最自然的下一步就是带着一个明确问题去主站做真实起卦验证。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站起卦验证
-cta_secondary_url: https://www.tianjiyao.com/zh
-cta_secondary_label: 先从主站按场景进入
+cta_heading: 想先把常见问题对应到真实起卦？直接去主站周易入口
+cta_description: 如果你已经把入门顺序、用神、世应和应期误区读清楚，下一步更自然的是带着一个明确问题去主站判断该怎么进入，而不是继续空读 FAQ。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看周易起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_label: 先看六爻指南
 ---
 
 # 六爻与周易常见问题
 
 六爻最吸引人的地方，是它能直接回应现实问题；最容易让人卡住的地方，也是它面对的问题太现实，导致很多人一上来就只想问“能不能成”“什么时候成”，却没先建立断卦顺序。
+
+如果你想先快速判断“我现在该先看方法、先收敛问题，还是直接起卦”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 选入口，再回来按 FAQ 补具体知识；如果你还没把六爻主线理顺，也可以先读 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
 
 这页集中回答六爻学习里最高频的一批问题，帮助你把判断框架先立起来。
 

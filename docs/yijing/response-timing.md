@@ -1,22 +1,25 @@
 ---
 layout: default
-title: 六爻应期判断：从动爻、合冲到月日引发的专业推期框架
-description: 系统讲解六爻断卦中的应期判断方法，涵盖动静、生克、合冲、旬空、月破、伏神与月日时引发逻辑，适合建立断卦框架、分类占断与实战进阶。
+title: 六爻应期怎么看：从动爻、合冲到月日引发的推期框架
+description: 系统讲解六爻应期怎么看，涵盖动静、生克、合冲、旬空、月破、伏神与月日时引发逻辑，适合先建立时间判断框架，再继续看实战细节。
 keywords: [ 六爻应期, 六爻推期, 动爻, 合冲, 旬空, 月破, 应期判断 ]
 author: 周易研究团队
 date: 2026-03-15
+seo_title: 六爻应期怎么看：从动爻、合冲到月日引发的推期框架
 cta_topic: yijing-timing
-cta_heading: 应期理论读到这里，最该做的是拿一个明确问题去主站验证时间节奏
-cta_description: 六爻应期最怕空推日期。现在你已经把动爻、合冲、旬空和月日引发的框架走清，下一步就该带着一个具体问题去起卦验证。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站验证应期
-cta_secondary_url: https://www.tianjiyao.com/zh
-cta_secondary_label: 先从主站按问题进入
+cta_heading: 想先看这题该不该追时间？直接去主站六爻入口
+cta_description: 六爻应期最怕空推日期。先分清你问的是消息、动作还是结果，再带着一个具体问题去起卦验证，才比空背口诀更有效。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看六爻起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_label: 先看六爻指南
 ---
 
-# 六爻应期判断
+# 六爻应期怎么看：从动爻、合冲到月日引发的推期框架
 
 六爻断卦里，最能拉开水平差距的地方之一，就是应期。很多人会看吉凶，却不会回答“什么时候应”；或者一味追求精确到某一天，却忽略了事件本身的层级、结构与成熟条件。真正专业的应期判断，不是机械套口诀，而是先判断事情能不能成，再判断它以什么节奏成熟，最后才去看月、日、时如何引发。
+
+如果你想先快速判断“这题到底该问结果、消息还是时间”，可以先去 [主站六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补应期规则；如果你还没把动爻、用神和判断顺序理清，也可以先读 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
 
 所以，应期不是附属技巧，而是断卦闭环的重要组成部分。
 

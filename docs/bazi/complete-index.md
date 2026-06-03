@@ -1,22 +1,25 @@
 ---
 layout: default
-title: 八字完整索引：从四柱排盘到命例分析的全模块导航
-description: 汇总天机爻 Wiki 八字模块中的基础页、方法页、专题页、命例页与 FAQ，建立一张可直接使用的八字完整索引。
+title: 八字学习顺序与完整索引：从四柱到命例的全模块导航
+description: 汇总天机爻 Wiki 八字模块中的基础页、方法页、专题页、命例页与 FAQ，适合先理清八字学习顺序，再按目录继续深读。
 keywords: [ 八字索引, 四柱导航, 十神导航, 八字命例, 八字FAQ, 八字学习路线 ]
 author: 八字命理研究组
 date: 2026-03-28
 cta_topic: bazi-index
-cta_heading: 八字模块已经够完整了，下一步最适合拿真实命盘按索引验证
-cta_description: 如果你已经知道自己要补的是排盘、旺衰、取用还是某个专题，直接按这张索引回主站做真实命盘验证，会比继续零散翻页更有效。
+seo_title: 八字学习顺序与完整索引：从四柱到命例的全模块导航
+cta_heading: 想先把八字学习顺序走一遍？直接去主站八字页
+cta_description: 这页负责整理八字模块目录；如果你想先看真实命盘里四柱、五行、十神和下一步阅读方向，主站八字页更适合先入门，再回来按索引深读。
 cta_primary_url: https://www.tianjiyao.com/zh/bazi
-cta_primary_label: 去主站做八字排盘
-cta_secondary_url: https://www.tianjiyao.com/zh/hepan
-cta_secondary_label: 关系主题去做合盘
+cta_primary_label: 去看八字总页
+cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_label: 先看主站知识库
 ---
 
-# 八字完整索引
+# 八字学习顺序与完整索引
 
 如果你进入八字模块后，已经感觉内容不少，但又不确定该先看排盘、先看旺衰，还是先看命例和专题，那么最省时间的方式不是逐页扫，而是先用这张完整索引把路线理顺。
+
+如果你想先弄清“八字入门先看什么、下一步该看十神还是格局”，可以先去 [主站八字总页](https://tianjiyao.com/zh/bazi) 看真实命盘里的四柱、五行和十神入口，再回来按这张索引补完整知识；如果你更想先看总学习路径，也可以先去 [主站知识库](https://tianjiyao.com/zh/learn) 选八字与五行路线。
 
 这页把八字模块现有内容按“基础概念 → 核心方法 → 专题应用 → 命例训练 → FAQ 与跨模块延伸”的方式重新组织，目标是让你知道每一页在整个模块里承担什么角色。
 

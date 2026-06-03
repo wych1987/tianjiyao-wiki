@@ -1,22 +1,25 @@
 ---
 layout: default
-title: 六爻婚姻感情占断：世应、官财与关系成败的判断方法
-description: 系统讲解六爻在婚姻、恋爱、复合、订婚、离婚等问题中的专业断法，涵盖取用神、世应关系、竞争干扰与应期判断。
+title: 六爻感情问题怎么看：世应、官财与关系成败判断
+description: 系统讲解六爻感情问题怎么看，涵盖婚姻、恋爱、复合、订婚、离婚等题目的取用神、世应关系、竞争干扰与应期判断。
 keywords: [ 六爻婚姻, 六爻感情, 六爻复合, 六爻离婚, 世应, 妻财, 官鬼 ]
 author: 周易研究团队
 date: 2026-03-15
 cta_topic: relationship
-cta_heading: 感情卦看到这里，已经可以带着具体关系问题去验证
-cta_description: 如果你已经把用神、世应、干扰爻和应期顺序读清，现在最自然的下一步就是带着当前关系问题去主站起卦。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站起感情卦
-cta_secondary_url: https://www.tianjiyao.com/zh/hepan
-cta_secondary_label: 双人结构问题去做合盘
+seo_title: 六爻感情问题怎么看：世应、官财与关系成败判断
+cta_heading: 想先把关系题问清再起卦？直接去主站周易入口
+cta_description: 如果你已经把用神、世应、干扰爻和应期顺序读清，下一步更适合带着当前关系问题去主站判断该怎么起卦；如果你想先看案例，再去案例库对照也更直观。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看周易起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_label: 先看案例库
 ---
 
-# 六爻婚姻感情占断
+# 六爻感情问题怎么看：世应、官财与关系成败判断
 
 婚姻感情类问题，是六爻实战中最常见、也最容易误判的一类。原因不在于规则不够，而在于关系问题天然复杂，既有主观情绪，也有现实条件，还常常夹杂第三方因素、时间差和反复试探。
+
+如果你想先快速判断“这段关系该怎么问、该先问接口还是先问结果”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补关系题的判断框架；如果你想先看别人怎么拆关系案例，也可以先去 [主站案例库](https://tianjiyao.com/zh/cases)。
 
 《增删卜易》重用神，《卜筮正宗》善分类，《易隐》强调神机流动。落实到婚姻卦中，可以归纳成一句话：先看有没有对象与关系基础，再看双方能否对接，最后判断成败、变数和时间。
 
