@@ -1,22 +1,25 @@
 ---
 layout: default
-title: 六爻求财与投资占断：财爻、子孙与世爻承财能力的判断框架
-description: 系统讲解六爻在求财、交易、投资、回款、项目收益等问题中的专业断法，重点分析财爻、子孙、兄弟与应期关系。
+title: 六爻求财问题怎么看：财爻、子孙与回款投资判断
+description: 系统讲解六爻求财问题怎么看，涵盖求财、交易、投资、回款、项目收益等题目的财爻、子孙、兄弟与应期判断。
 keywords: [ 六爻求财, 六爻投资, 六爻财运, 妻财爻, 子孙爻, 兄弟夺财 ]
 author: 周易研究团队
 date: 2026-03-15
 cta_topic: career-wealth
-cta_heading: 财务和项目题读到这里，最适合带着一件具体事情去主站占断
-cta_description: 六爻求财最怕泛问。现在你已经把财爻、世爻、子孙和兄弟的结构读清楚了，下一步就该拿一个具体项目、回款或交易问题去验证。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站占断财务问题
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi
-cta_secondary_label: 长期财富结构先看八字
+seo_title: 六爻求财问题怎么看：财爻、子孙与回款投资判断
+cta_heading: 想先把求财题问清再起卦？直接去主站周易入口
+cta_description: 如果你已经把财爻、世爻、子孙和兄弟的结构读清，下一步更适合带着具体项目、回款或交易问题去主站判断该怎么起卦；如果你想先看别人怎么拆案例，也可以先去案例库对照。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看周易起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_label: 先看案例库
 ---
 
-# 六爻求财与投资占断
+# 六爻求财问题怎么看：财爻、子孙与回款投资判断
 
 财务类问题，是六爻中最容易“看见希望，也最容易看错重心”的一类。很多人只要看到财爻出现就判有财，或者财爻旺就判发财，忽略了世爻能不能承财、兄弟会不会分财、子孙能不能生财、应爻是不是代表真实交易条件。
+
+如果你想先快速判断“这个项目该先问能不能做，还是先问多久回款”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补财务题的判断框架；如果你想先看别人怎么拆项目和时机案例，也可以先去 [主站案例库](https://tianjiyao.com/zh/cases)。
 
 真正专业的财卦，不是只看“有没有钱”，而是看“财从哪里来，能不能拿到，拿到后能不能守住”。
 

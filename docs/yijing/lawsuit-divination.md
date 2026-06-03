@@ -1,22 +1,25 @@
 ---
 layout: default
-title: 六爻官司诉讼占断：官鬼、父母与世应对抗结构的判断方法
-description: 系统讲解六爻在官司、仲裁、纠纷、投诉、合同争议等问题中的专业断法，重点分析官鬼、父母、世应、朱雀与白虎信息。
+title: 六爻官司纠纷怎么看：诉讼、仲裁与证据对抗判断
+description: 系统讲解六爻官司纠纷怎么看，涵盖官司、仲裁、纠纷、投诉、合同争议等题目的官鬼、父母、世应与对抗结构判断。
 keywords: [ 六爻官司, 六爻诉讼, 六爻仲裁, 六爻纠纷, 官鬼, 父母爻, 朱雀 ]
 author: 周易研究团队
 date: 2026-03-15
 cta_topic: yijing-litigation
-cta_heading: 官司纠纷这类卦，最好带着一件具体争议去主站验证对抗结构
-cta_description: 诉讼、仲裁、合同争议这类问题，抽象学习帮助有限；真正需要的是把证据、对方状态和当前节点一起放到一件具体事情里看。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站带着纠纷问题起卦
-cta_secondary_url: https://www.tianjiyao.com/zh
-cta_secondary_label: 先回主站选场景入口
+seo_title: 六爻官司纠纷怎么看：诉讼、仲裁与证据对抗判断
+cta_heading: 官司纠纷题先把节点问清，再去主站周易入口
+cta_description: 诉讼、仲裁、合同争议这类问题，抽象学习帮助有限；更适合带着证据状态、对方动作和当前节点去主站判断这次该问什么。如果你想先看案例，也可以先去案例库对照。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看周易起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_label: 先看案例库
 ---
 
-# 六爻官司诉讼占断
+# 六爻官司纠纷怎么看：诉讼、仲裁与证据对抗判断
 
 官司诉讼类问题，在六爻里本质上属于“对抗结构卦”。它不只是看谁对谁错，更看谁占势、谁有证据、谁能承压、谁最终更容易拿到结果。现代场景下，这类卦还常常包括仲裁、投诉、合同争议、平台申诉、劳动纠纷、税务争议等。
+
+如果你想先快速判断“这件事该先问证据、先问对方动作，还是先问要不要和解”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补对抗结构；如果你想先看别人怎么拆纠纷案例，也可以先去 [主站案例库](https://tianjiyao.com/zh/cases)。
 
 这类卦判断时最重要的，不是情绪化站队，而是抓四条主线：
 

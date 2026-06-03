@@ -1,23 +1,26 @@
 ---
 layout: default
-title: 六爻疾病健康占断：官鬼、子孙与世爻承受度的判断方法
-description: 系统讲解六爻在疾病、体质、检查、治疗、手术与恢复问题中的专业断法，重点分析官鬼、子孙、世爻与风险边界。
+title: 六爻健康问题怎么看：疾病、检查与恢复节奏的辅助观察
+description: 系统讲解六爻健康问题怎么看，涵盖疾病、检查、治疗、手术与恢复问题中的边界、官鬼、子孙、世爻与风险观察。
 keywords: [ 六爻疾病, 六爻健康, 六爻手术, 六爻官鬼, 六爻子孙, 六爻世爻 ]
 author: 周易研究团队
 date: 2026-03-15
 cta_mode: light
 cta_topic: health-boundary
-cta_heading: 健康卦只能做辅助观察，进入主站前先确认问题边界
-cta_description: 如果你想观察恢复节奏、风险轻重或治疗后的变化，可以在不替代检查诊疗的前提下谨慎使用；涉及病名、用药、手术和急症时，优先听从医生建议。
-cta_primary_url: https://www.tianjiyao.com/zh
-cta_primary_label: 去主站按场景谨慎进入
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_secondary_label: 有明确问题再做辅助判断
+seo_title: 六爻健康问题怎么看：疾病、检查与恢复节奏的辅助观察
+cta_heading: 健康题先判断边界，再决定是否进入周易辅助观察
+cta_description: 如果你只是想辅助观察恢复节奏、检查节点或风险轻重，可以先去主站周易入口收敛问题；涉及病名、用药、手术和急症时，仍应优先听从医生建议，不把占断当诊疗。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看周易起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_label: 先看六爻指南
 ---
 
-# 六爻疾病健康占断
+# 六爻健康问题怎么看：疾病、检查与恢复节奏的辅助观察
 
 疾病卦是六爻中最需要克制和边界感的一类。它可以用于判断趋势、风险、轻重缓急与恢复节奏，但不能替代现代医学检查与诊疗。《卜筮正宗》《增删卜易》虽均有病症占例，但真正用在现代知识库写作中，必须把“提示”和“诊断”明确区分。
+
+如果你想先判断“这题能不能用六爻做辅助观察、该问恢复节奏还是先问检查节点”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补病卦边界；如果你还不确定六爻适不适合，先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 也更稳。
 
 专业疾病卦的核心，不是神秘化病名，而是判断四件事：
 
