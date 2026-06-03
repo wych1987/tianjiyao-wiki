@@ -7,18 +7,18 @@ author: 命理学研究团队
 date: 2026-03-15
 cta_topic: relationship
 cta_heading: 婚姻命例看完后，最该做的是把真实关系放进结构里验证
-cta_description: 这页展示的是八字婚姻命例怎么拆。下一步如果你想看双方关系结构和推进节奏，直接回主站做合盘会更自然；如果你更想先看个人婚姻底盘，也可以先看八字。
+cta_description: 这页展示的是八字婚姻命例怎么拆。下一步如果你想看双方关系结构和推进节奏，直接回主站做合盘会更自然；如果你想继续看主站已经整理好的命例入口，也可以先回案例库。
 cta_primary_url: https://www.tianjiyao.com/zh/hepan
 cta_primary_label: 去主站做合盘验证
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi
-cta_secondary_label: 先看个人婚姻底盘
+cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_label: 先回案例库
 ---
 
 # 八字婚姻命例专题
 
 婚姻命例是八字学习中最容易“看热闹”、最难“看门道”的部分。因为婚姻问题本身就复杂，既涉及关系对象，也涉及本人承载力、日支稳定度、现实条件和运势节奏。如果只是看到某个命局“财多”或“官杂”，就直接下结论，往往会把命例分析做成标签堆砌。
 
-本专题采用标准命例写法，不追求传奇故事，而是强调结构判断。所有命例均为教学型整理案例，重点在展示分析过程，而不是制造神秘感。
+本专题采用标准命例写法，不追求传奇故事，而是强调结构判断。所有命例均为教学型整理案例，重点在展示分析过程，而不是制造神秘感。如果你想先继续看主站已经整理好的命例入口，也可以先去 [主站案例库](https://tianjiyao.com/zh/cases)。
 
 ## 一、婚姻命例的标准切入点
 
