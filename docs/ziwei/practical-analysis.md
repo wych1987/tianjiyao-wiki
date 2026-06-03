@@ -7,6 +7,13 @@ author: 紫微斗数研究团队
 date: 2025-11-06
 categories: [ 紫微斗数, 实战应用 ]
 seo_title: 紫微斗数实战分析：排盘与断盘
+cta_heading: 想先按实战顺序看紫微？直接去主站看入门页
+cta_description: 这页负责讲排盘、断盘和案例切入；如果你想先按更短路径建立实战顺序，主站入门页更适合先看，再回来补完整方法。
+cta_primary_url: https://www.tianjiyao.com/zh/ziwei/guide
+cta_primary_label: 去看紫微入门页
+cta_secondary_url: https://www.tianjiyao.com/zh/ziwei
+cta_secondary_label: 先生成紫微命盘
+cta_topic: ziwei-practical-analysis
 ---
 
 # 紫微斗数实战分析：排盘、断盘与案例切入

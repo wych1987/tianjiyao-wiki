@@ -16,6 +16,13 @@ breadcrumbs:
   - name: 首页
     url: /
   - name: 紫微斗数
+cta_heading: 想先按顺序入门紫微？直接去主站看入门页
+cta_description: 这页负责整理紫微学习路线；如果你想先按更短路径进入排盘、主星、四化和宫位顺序，主站入门页更适合先看，再回来按专题深读。
+cta_primary_url: https://www.tianjiyao.com/zh/ziwei/guide
+cta_primary_label: 去看紫微入门页
+cta_secondary_url: https://www.tianjiyao.com/zh/ziwei
+cta_secondary_label: 先生成紫微命盘
+cta_topic: ziwei-learning-center
 ---
 
 # 紫微斗数学习中心：星曜、宫位与命例分析
