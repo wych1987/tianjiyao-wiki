@@ -8,18 +8,18 @@ date: 2026-03-15
 cta_topic: career-wealth
 seo_title: 六爻求财问题怎么看：财爻、子孙与回款投资判断
 cta_heading: 想先把求财题问清再起卦？直接去主站周易入口
-cta_description: 如果你已经把财爻、世爻、子孙和兄弟的结构读清，下一步更适合带着具体项目、回款或交易问题去主站判断该怎么起卦；如果你想先看别人怎么拆案例，也可以先去案例库对照。
+cta_description: 如果你已经把财爻、世爻、子孙和兄弟的结构读清，下一步更适合带着具体项目、回款或交易问题去主站判断该怎么起卦；如果你还想先把题型和问法理顺，更适合先回知识库继续筛选。
 cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
-cta_secondary_label: 先看案例库
+cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_label: 先回知识库
 ---
 
 # 六爻求财问题怎么看：财爻、子孙与回款投资判断
 
 财务类问题，是六爻中最容易“看见希望，也最容易看错重心”的一类。很多人只要看到财爻出现就判有财，或者财爻旺就判发财，忽略了世爻能不能承财、兄弟会不会分财、子孙能不能生财、应爻是不是代表真实交易条件。
 
-如果你想先快速判断“这个项目该先问能不能做，还是先问多久回款”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补财务题的判断框架；如果你想先看别人怎么拆项目和时机案例，也可以先去 [主站案例库](https://tianjiyao.com/zh/cases)。
+如果你想先快速判断“这个项目该先问能不能做，还是先问多久回款”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补财务题的判断框架；如果你还想先把题型和问法理顺，也可以先去 [主站知识库](https://tianjiyao.com/zh/learn)。
 
 真正专业的财卦，不是只看“有没有钱”，而是看“财从哪里来，能不能拿到，拿到后能不能守住”。
 

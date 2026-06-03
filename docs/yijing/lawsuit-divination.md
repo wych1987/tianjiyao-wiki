@@ -8,18 +8,18 @@ date: 2026-03-15
 cta_topic: yijing-litigation
 seo_title: 六爻官司纠纷怎么看：诉讼、仲裁与证据对抗判断
 cta_heading: 官司纠纷题先把节点问清，再去主站周易入口
-cta_description: 诉讼、仲裁、合同争议这类问题，抽象学习帮助有限；更适合带着证据状态、对方动作和当前节点去主站判断这次该问什么。如果你想先看案例，也可以先去案例库对照。
+cta_description: 诉讼、仲裁、合同争议这类问题，抽象学习帮助有限；更适合带着证据状态、对方动作和当前节点去主站判断这次该问什么。如果你还想先把题型和问法理顺，更适合先回知识库继续筛选。
 cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
-cta_secondary_label: 先看案例库
+cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_label: 先回知识库
 ---
 
 # 六爻官司纠纷怎么看：诉讼、仲裁与证据对抗判断
 
 官司诉讼类问题，在六爻里本质上属于“对抗结构卦”。它不只是看谁对谁错，更看谁占势、谁有证据、谁能承压、谁最终更容易拿到结果。现代场景下，这类卦还常常包括仲裁、投诉、合同争议、平台申诉、劳动纠纷、税务争议等。
 
-如果你想先快速判断“这件事该先问证据、先问对方动作，还是先问要不要和解”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补对抗结构；如果你想先看别人怎么拆纠纷案例，也可以先去 [主站案例库](https://tianjiyao.com/zh/cases)。
+如果你想先快速判断“这件事该先问证据、先问对方动作，还是先问要不要和解”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补对抗结构；如果你还想先把题型和问法理顺，也可以先去 [主站知识库](https://tianjiyao.com/zh/learn)。
 
 这类卦判断时最重要的，不是情绪化站队，而是抓四条主线：
 

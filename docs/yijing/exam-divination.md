@@ -8,18 +8,18 @@ date: 2026-03-15
 cta_topic: yijing-exam
 seo_title: 六爻考试结果怎么看：考试、录取与通知应期判断
 cta_heading: 考试录取题先把层次问清，再去主站周易入口
-cta_description: 这类问题的价值不在抽象地问我行不行，而在结合当次考试、申请材料、名额和出结果时间去看推进节奏。如果你想先看案例，也可以先去案例库对照。
+cta_description: 这类问题的价值不在抽象地问我行不行，而在结合当次考试、申请材料、名额和出结果时间去看推进节奏。如果你还想先把题型和问法理顺，更适合先回知识库继续筛选。
 cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
-cta_secondary_label: 先看案例库
+cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_label: 先回知识库
 ---
 
 # 六爻考试结果怎么看：考试、录取与通知应期判断
 
 六爻占考试、升学、证书、面试与录取，常常比一般人想象得更复杂。因为这类问题往往不只问“能不能过”，还同时包含准备状态、发挥情况、流程文书、排名名额、通知时间和最终录取几个层次。若只盯一个父母爻或官鬼爻，很容易断得片面。
 
-如果你想先快速判断“这次该先问发挥、先问录取，还是先问通知什么时候来”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补考试类占断结构；如果你想先看别人怎么拆结果和应期，也可以先去 [主站案例库](https://tianjiyao.com/zh/cases)。
+如果你想先快速判断“这次该先问发挥、先问录取，还是先问通知什么时候来”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补考试类占断结构；如果你还想先把题型和问法理顺，也可以先去 [主站知识库](https://tianjiyao.com/zh/learn)。
 
 真正专业的考试类占断，应当把父母、官鬼、世爻、应爻与应期逻辑串起来看。
 

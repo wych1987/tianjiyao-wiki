@@ -1,22 +1,25 @@
 ---
 layout: default
-title: 六爻出行迁移占断：世应、父母与冲动成行的判断方法
-description: 系统讲解六爻在出差、旅行、搬迁、调动、远行、异地发展等问题中的专业断法，重点分析世应、父母、官鬼与动静远近。
+title: 六爻出行结果怎么看：旅行、搬家与调动能不能成行
+description: 系统讲解六爻出行结果怎么看，涵盖出差、旅行、搬迁、调动、远行、异地发展等题目的世应、父母、官鬼与动静远近判断。
 keywords: [ 六爻出行, 六爻迁移, 六爻旅行, 六爻搬家, 六爻调动, 世应, 父母爻 ]
 author: 周易研究团队
 date: 2026-03-15
 cta_topic: yijing-travel
-cta_heading: 出行迁移题最看当前节点，直接带着具体安排去主站验证更有效
-cta_description: 无论是出差、旅行、搬家还是异地发展，这类问题都更依赖眼前安排和接口条件，拿具体计划去起卦会比只看理论更有价值。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站带着出行问题起卦
-cta_secondary_url: https://www.tianjiyao.com/zh
-cta_secondary_label: 先回主站选场景入口
+seo_title: 六爻出行结果怎么看：旅行、搬家与调动能不能成行
+cta_heading: 出行迁移题先把当前计划问清，再去主站周易入口
+cta_description: 无论是出差、旅行、搬家还是异地发展，这类问题都更依赖眼前安排和接口条件。先带着具体计划去主站判断该怎么问；如果你还想先补起卦规则，也可以回六爻指南继续读。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看周易起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_label: 先看六爻指南
 ---
 
-# 六爻出行迁移占断
+# 六爻出行结果怎么看：旅行、搬家与调动能不能成行
 
 出行迁移类问题，在六爻中最容易被误判成“动就凶，静就吉”。其实正相反，这类问题的核心往往在于“动得成不成、动得顺不顺、动了之后有没有承接”。对旅行、出差、搬家、岗位调动、异地发展来说，冲与动很多时候恰恰是必要条件。
+
+如果你想先快速判断“这次该先问能不能成行、先问手续，还是先问到了以后稳不稳”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补出行卦结构；如果你还想先把起卦和断卦顺序读明白，也可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
 
 因此，出行卦判断时，不是先问吉凶，而是先问三个问题：
 

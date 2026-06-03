@@ -1,22 +1,25 @@
 ---
 layout: default
-title: 六爻失物寻人与寻宠占断：财爻、父母爻与方位动静的判断方法
-description: 系统讲解六爻在失物、寻人、寻宠、查去向等问题中的专业断法，重点分析财爻、父母爻、子孙爻、世应与方位信息。
+title: 六爻失物怎么找：失物、寻人和寻宠的方向与归期判断
+description: 系统讲解六爻失物怎么找，涵盖失物、寻人、寻宠、查去向等题目的财爻、父母爻、子孙爻、世应与方位归期判断。
 keywords: [ 六爻失物, 六爻寻人, 六爻寻宠, 六爻去向, 财爻, 父母爻, 方位 ]
 author: 周易研究团队
 date: 2026-03-15
 cta_topic: yijing-lost-item
-cta_heading: 失物寻人这类题目，最适合带着一件具体事情去主站起卦
-cta_description: 这类问题高度依赖当下对象、时间和线索，读完规则后最自然的下一步就是把具体失物、寻人或寻宠问题带去验证。
-cta_primary_url: https://www.tianjiyao.com/zh/ai-divination
-cta_primary_label: 去主站带着具体问题起卦
-cta_secondary_url: https://www.tianjiyao.com/zh
-cta_secondary_label: 先从主站按场景进入
+seo_title: 六爻失物怎么找：失物、寻人和寻宠的方向与归期判断
+cta_heading: 失物寻人题先锁定当前线索，再去主站周易入口
+cta_description: 这类问题高度依赖当下对象、时间和线索。读完规则后，更适合带着当前失物、寻人或寻宠问题去主站判断该怎么问；如果你还想先补起卦规则，也可以回六爻指南继续读。
+cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_label: 去看周易起卦入口
+cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_label: 先看六爻指南
 ---
 
-# 六爻失物寻人与寻宠占断
+# 六爻失物怎么找：失物、寻人和寻宠的方向与归期判断
 
 失物、寻人、寻宠这类卦，和婚姻、求财、事业类问题不同，它的重点不只是“成不成”，更在于“东西还在不在”“人有没有动”“距离远近如何”“方向落在哪里”“最终能否回归”。
+
+如果你想先快速判断“这次该先问东西还在不在、先问方向，还是先问什么时候能找回”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补失物卦结构；如果你还想先把起卦和断卦顺序读明白，也可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
 
 传统六爻在这类问题上，优势很明显，因为卦爻本身带有内外、远近、动静、显隐的信息。《卜筮正宗》《增删卜易》对于失物、行人、逃亡、家宅失脱都有可参照的规则，落实到现代知识库写法里，核心仍是四件事：
 
