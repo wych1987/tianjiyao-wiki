@@ -13,7 +13,7 @@
 - **理论基础**：阴阳五行、天干地支、六十甲子等核心理论
 - **实践指南**：自学方法、案例分析、常见误区、工具资源
 
-目前 `docs/` 目录下已有 **98 篇 Markdown 文档**，并且已经形成首页、模块首页、学习地图、专题导航中心、命例库索引这几层导航结构。
+目前 `docs/` 目录下已有 **162 篇 Markdown 知识页**，并且已经形成首页、模块首页、学习地图、专题导航中心、命例库索引这几层导航结构。
 
 ## 配置 GitHub Pages
 
@@ -31,9 +31,10 @@
 
 如果暂时无法切到 GitHub Actions，也可以继续使用 branch-based Pages，但需要注意：
 
-1. Pages 依然选择发布分支的根目录
-2. 仓库根 `_config.yml` 会把 Jekyll 的 `source` 指向 `docs/`
-3. 这样可以避免站点被错误发布为仓库根 README，或让正文路径多出 `/docs/` 前缀
+1. GitHub Pages 会继续从仓库根目录构建，并忽略 `_config.yml` 中的 `source: docs`
+2. 当前仓库已提供 root fallback：根路径 `index.html` 重定向到 `/docs/`，根路径 `sitemap.xml` 指向 `docs/sitemap.xml`
+3. 仓库根 `_layouts/default.html` 会给 branch-based 构建下的 `docs/` 页面补上通用 header 和主站入口
+4. 如果你需要根路径直接发布为正式知识库，而不是 `/docs/` 前缀，仍然应该切换到 GitHub Actions
 
 ## 目录结构
 
@@ -98,6 +99,7 @@
 ## Sitemap 维护
 
 - `docs/sitemap.xml` 由根目录脚本 `generate-sitemap.js` 生成
+- 仓库根 `sitemap.xml` 会同步生成一个 sitemap index，供 branch-based Pages 在根路径直接暴露 sitemap 入口
 - 新增或批量更新页面后，建议重新执行一次站点地图生成
 - 部署时 `jekyll-sitemap` 插件也会参与生成，但仓库内保留静态 sitemap 便于检查与提交搜索引擎
 

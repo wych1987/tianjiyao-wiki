@@ -2,10 +2,16 @@
 
 天机爻 Wiki 是一个系统化的中国传统命理学知识库，旨在整理与传播 **八字命理（四柱）**、**紫微斗数** 与 **周易八卦（易经）** 等传统玄学体系的专业知识。这些体系承载着中国哲学与宇宙观的重要思想，但目前网络上缺乏系统、客观、可查证的中文资料。
 
+## 在线入口
+
+- [Wiki 首页](https://wiki.tianjiyao.com/) - 进入知识库首页与导航体系
+- [天机爻主站](https://www.tianjiyao.com/zh) - 按场景进入八字、紫微、六爻与合盘工具
+
 ## 📊 知识库概况
 
-- 📚 **98 篇 Markdown 文档**，已形成接近百页的系统知识库
+- 📚 **162 篇 Markdown 知识页**，覆盖入门、专题、FAQ、命例与方法论
 - 🎯 **6 大知识模块**：八字、紫微、周易、AI应用、理论基础、实践指南
+- 🗂️ **模块分布**：八字 24 篇、紫微 32 篇、周易 24 篇、AI 24 篇、理论 16 篇、实践 41 篇
 - 🔮 **完整的传统命理三大支柱**：八字命理、紫微斗数、周易八卦
 - 🤖 **AI与传统结合**：探索人工智能在命理学中的创新应用
 - 📖 **系统化学习路径**：从入门到进阶的完整知识体系
@@ -67,14 +73,14 @@
 
 ## 站点维护
 
-- 站点地图通过根目录的 `generate-sitemap.js` 生成，输出到 `docs/sitemap.xml`
+- 站点地图通过根目录的 `generate-sitemap.js` 生成，同时输出到 `docs/sitemap.xml` 和仓库根 `sitemap.xml`
 - 新增知识页后，除了补模块索引和首页，也应重新生成一次 sitemap
 - 当前实践区已经形成“学习地图 → 专题导航中心 → 命例库索引”的三层入口结构
 
 ## 构建与部署
 
 - 站点内容源位于 `docs/`，Jekyll 主题配置在 `docs/_config.yml`
-- 仓库根目录新增了 `_config.yml`，用于 GitHub Pages 仍按仓库根目录发布时，把内容源强制指回 `docs/`，避免线上路径落到 `/docs/...`
+- 仓库根目录保留一套 branch-based Pages 的 fallback 配置，用来给 `/docs/` 页面补通用 header、首页跳转与根路径 sitemap
 - 本地或通用 CI 请使用 `npm run build`，它会先生成 sitemap，再执行 Jekyll 构建
 - 构建环境要求 Ruby 3.3+，仓库根 `.ruby-version` 已声明版本
 
@@ -87,7 +93,7 @@
 3. 在 **Build and deployment** 的 **Source** 中选择 **GitHub Actions**
 4. 保持 `.github/workflows/jekyll.yml` 启用，推送到 `main` 后自动发布
 
-如果暂时仍使用 branch-based Pages，仓库根 `_config.yml` 会把构建源定位到 `docs/`，避免首页变成仓库 README、正文路径变成 `/docs/...`。
+GitHub Pages 的 branch-based 发布实际上会忽略 `_config.yml` 里的 `source: docs`。当前仓库因此补了 root fallback：根路径首页重定向到 `/docs/`，根路径 `sitemap.xml` 指向 `docs/sitemap.xml`，并在 branch-based 构建下为 `docs/` 页面补一层通用导航。若要使用正式的根路径站点结构，仍应切换到 GitHub Actions 发布。
 
 详细配置说明请查看 [docs/README.md](docs/README.md)
 

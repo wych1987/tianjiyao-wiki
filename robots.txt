@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wiki.tianjiyao.com/sitemap.xml
+
+Disallow: /_site/
+Disallow: /.git/
+Disallow: /node_modules/

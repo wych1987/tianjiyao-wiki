@@ -1,7 +1,5 @@
-source: docs
-
-title: 天机爻 Wiki - 中国传统玄学知识库
-description: 天机爻官方知识库，专业提供八字命理、紫微斗数、AI玄学等中国传统命理学系统性学习资源
+title: 天机爻 Wiki
+description: 天机爻官方知识库，系统整理八字命理、紫微斗数、周易六爻、阴阳五行与 AI 命理内容
 markdown: kramdown
 
 baseurl: ""
@@ -38,7 +36,7 @@ relative_links:
 seo:
   type: Organization
   name: 天机爻
-  logo: /assets/images/logo.png
+  logo: /apple-touch-icon.png
 
 feed:
   excerpt_only: true
@@ -46,9 +44,10 @@ feed:
 google_analytics: G-YY5JFZSDNE
 
 include:
-  - README.md
-  - index.md
-  - _redirects
+  - docs
+  - index.html
+  - robots.txt
+  - sitemap.xml
 
 exclude:
   - Gemfile
@@ -57,9 +56,13 @@ exclude:
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
+  - node_modules/
+  - ai-doc/
+  - tools/
+  - .venv/
 
 defaults:
   - scope:
-      path: ""
+      path: "docs"
     values:
       layout: "default"
