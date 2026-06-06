@@ -19,6 +19,8 @@
     "seo:normalize": "node tools/normalize-seo-frontmatter.js",
     "seo:anchors": "node tools/optimize-anchor-texts.js",
     "sitemap": "node generate-sitemap.js",
+    "build:site": "cd docs && bundle install && bundle exec jekyll build",
+    "build": "npm run sitemap && npm run build:site",
     "help": "node enhance-docs.js --help"
   },
   "keywords": [

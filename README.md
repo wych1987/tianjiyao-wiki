@@ -71,19 +71,23 @@
 - 新增知识页后，除了补模块索引和首页，也应重新生成一次 sitemap
 - 当前实践区已经形成“学习地图 → 专题导航中心 → 命例库索引”的三层入口结构
 
+## 构建与部署
+
+- 站点内容源位于 `docs/`，Jekyll 主题配置在 `docs/_config.yml`
+- 仓库根目录新增了 `_config.yml`，用于 GitHub Pages 仍按仓库根目录发布时，把内容源强制指回 `docs/`，避免线上路径落到 `/docs/...`
+- 本地或通用 CI 请使用 `npm run build`，它会先生成 sitemap，再执行 Jekyll 构建
+- 构建环境要求 Ruby 3.3+，仓库根 `.ruby-version` 已声明版本
+
 ## GitHub Pages
 
-本项目已配置 GitHub Pages，可以通过网页浏览文档。
-
-### 启用 GitHub Pages
+推荐使用仓库内的 GitHub Actions 工作流进行发布：
 
 1. 进入仓库的 **Settings** 页面
 2. 点击左侧菜单的 **Pages** 选项
-3. 在 **Source** 部分：
-   - 选择分支（如 `main`）
-   - 选择 `/docs` 作为发布目录
-4. 点击 **Save** 保存
-5. 稍等片刻，网站将自动发布
+3. 在 **Build and deployment** 的 **Source** 中选择 **GitHub Actions**
+4. 保持 `.github/workflows/jekyll.yml` 启用，推送到 `main` 后自动发布
+
+如果暂时仍使用 branch-based Pages，仓库根 `_config.yml` 会把构建源定位到 `docs/`，避免首页变成仓库 README、正文路径变成 `/docs/...`。
 
 详细配置说明请查看 [docs/README.md](docs/README.md)
 

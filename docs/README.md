@@ -17,16 +17,23 @@
 
 ## 配置 GitHub Pages
 
-## 启用步骤
+## 推荐方式：GitHub Actions
 
 1. 进入 GitHub 仓库的设置页面（Settings）
 2. 在左侧菜单中找到 "Pages" 选项
-3. 在 "Source" 部分，选择：
-   - **Branch**: 选择你要发布的分支（通常是 `main` 或 `master`）
-   - **Folder**: 选择 `/docs` 作为发布目录
-4. 点击 "Save" 保存设置
-5. GitHub Pages 会自动构建并发布你的网站
-6. 网站地址通常为：`https://<用户名>.github.io/<仓库名>/`
+3. 在 "Build and deployment" 的 "Source" 中选择 **GitHub Actions**
+4. 保持仓库内 `.github/workflows/jekyll.yml` 启用
+5. 推送到 `main` 或手动触发 workflow，GitHub Pages 会自动构建并发布
+
+这种方式会在 `docs/` 目录内运行 Jekyll，和仓库当前工作流保持一致。
+
+## 兼容方式：Branch-based Pages
+
+如果暂时无法切到 GitHub Actions，也可以继续使用 branch-based Pages，但需要注意：
+
+1. Pages 依然选择发布分支的根目录
+2. 仓库根 `_config.yml` 会把 Jekyll 的 `source` 指向 `docs/`
+3. 这样可以避免站点被错误发布为仓库根 README，或让正文路径多出 `/docs/` 前缀
 
 ## 目录结构
 
@@ -99,14 +106,20 @@
 如果要在本地预览网站，可以安装 Jekyll：
 
 ```bash
-# 安装 Jekyll
-gem install jekyll bundler
+# 使用 Ruby 3.3+
+cat .ruby-version
 
-# 进入 docs 目录
+# 安装依赖
 cd docs
+bundle install
 
-# 启动本地服务器
-jekyll serve
+# 回到仓库根目录执行完整构建
+cd ..
+npm run build
+
+# 或仅启动 Jekyll 本地预览
+cd docs
+bundle exec jekyll serve
 
 # 访问 http://localhost:4000 查看网站
 ```
