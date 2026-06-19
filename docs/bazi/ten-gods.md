@@ -1,6 +1,6 @@
 ---
-title: 八字十神怎么看：十神含义、十神格局与阅读顺序
-description: 讲清八字十神怎么看、十神含义是什么，以及十神如何和格局、用神一起阅读，适合排盘后先看十神分布，再继续理解命局结构。
+title: 八字十神怎么看：十神详解、格局与用神阅读顺序
+description: 讲清八字十神怎么看，适合先认出比肩、劫财、食伤、财星、官杀和印星分布，再继续理解格局、用神和现实问题。
 keywords:
   - 十神
   - 八字命理
@@ -12,19 +12,19 @@ keywords:
   - 三命通会
 author: 命理学研究组
 date: 2024-01-20
-seo_title: 八字十神怎么看：十神含义、十神格局与阅读顺序
+seo_title: 八字十神怎么看：十神详解、格局与用神阅读顺序
 cta_heading: 想先看自己的十神分布？直接去主站读十神页面
-cta_description: 这页负责讲十神关系和理论背景；如果你已经排好盘，主站十神页更适合先看自己的十神分布，再回到这里补完整说明。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi/shishen
+cta_description: 这页负责讲十神关系和理论背景；如果你已经排好盘，主站十神页更适合先看自己的十神分布，再回到这里补格局和用神说明。
+cta_primary_url: https://tianjiyao.com/zh/bazi/shishen
 cta_primary_label: 去看十神详解页
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi
+cta_secondary_url: https://tianjiyao.com/zh/bazi
 cta_secondary_label: 先生成八字排盘
 cta_topic: ten-gods
 ---
 
-# 八字十神怎么看：十神含义、十神格局与阅读顺序
+# 八字十神怎么看：十神详解、格局与用神阅读顺序
 
-十神不是固定标签，而是“日主”和其他天干之间的关系语言。先找日主，再看谁生我、我生谁、谁克我、我克谁、谁与我同类，就能把正印、偏印、食神、伤官、正财、偏财、正官、七杀、比肩、劫财放回命盘结构里理解。
+十神不是固定标签，而是“日主”和其他天干之间的关系语言。先找日主，再看谁生我、我生谁、谁克我、我克谁、谁与我同类，就能把正印、偏印、食神、伤官、正财、偏财、正官、七杀、比肩、劫财放回格局、用神和命盘结构里理解。
 
 如果你还没有排盘，可以先用 [在线八字排盘](https://tianjiyao.com/zh/bazi) 生成四柱；如果你已经想先看自己的十神分布，可以直接去 [主站十神详解页](https://tianjiyao.com/zh/bazi/shishen) 对照结构，再回到本页补充每一类关系的含义、历史脉络和使用边界。
 
@@ -317,4 +317,3 @@ A：十神理论作为中国传统文化的重要组成部分，在心理学、�
 - [八字命理学习中心](./index.md)
 - [八字入门基础](./introduction.md)
 - [十神体系完整版](./ten-gods-enhanced.md)
-
