@@ -8,9 +8,9 @@ date: 2026-03-22
 cta_topic: career-wealth
 cta_heading: 财富事业 FAQ 读到这里，通常已经能判断你该先测结构还是先看眼前机会
 cta_description: 跳槽、创业、副业和 offer 比较这类问题，长期结构与当前节点不能混在一起；先去主站选对应入口，会比继续在站内来回翻更快。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看财富事业结构
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 带着当前决策去占断
 ---
 

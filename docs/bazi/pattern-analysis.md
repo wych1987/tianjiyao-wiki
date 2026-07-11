@@ -8,9 +8,9 @@ date: 2025-11-06
 seo_title: 八字格局怎么看：常见格局、阅读顺序与结构判断
 cta_heading: 想先把格局顺序看清？直接去主站看格局页
 cta_description: 这页负责讲格局理论和判断框架；如果你想先用更短路径看“格局怎么看”，主站格局页更适合先入门，再回来补完整规则。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi/geju
+cta_primary_url: https://tianjiyao.com/zh/bazi/geju
 cta_primary_label: 去看格局详解页
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi/shishen
+cta_secondary_url: https://tianjiyao.com/zh/bazi/shishen
 cta_secondary_label: 先看十神分布
 cta_topic: bazi-structure
 ---

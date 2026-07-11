@@ -9,9 +9,9 @@ cta_mode: light
 cta_topic: health
 cta_heading: 健康主题先守住边界，再决定是否去主站做阶段观察
 cta_description: 这里讨论的是体质、承压、恢复力和节奏，不替代医学判断。如果你已经有明确问题且理解了边界，可以再回主站按场景进入。
-cta_primary_url: https://www.tianjiyao.com/zh
+cta_primary_url: https://tianjiyao.com/zh
 cta_primary_label: 去主站按场景查看
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 有明确问题再去占断
 ---
 

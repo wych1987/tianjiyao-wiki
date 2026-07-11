@@ -149,9 +149,9 @@ keywords:
 
 ### 外部实践入口
 
-- [命理合盘分析](https://www.tianjiyao.com/zh/hepan) - 适合关系、合婚、双人协同与推进节奏问题
-- [生辰八字精准分析](https://www.tianjiyao.com/zh/bazi) - 适合长期结构、性格底盘与运势主轴问题
-- [AI六爻排盘占卜](https://www.tianjiyao.com/zh/ai-divination) - 适合具体事件、当前决策与时间窗口问题
+- [命理合盘分析](https://tianjiyao.com/zh/hepan) - 适合关系、合婚、双人协同与推进节奏问题
+- [生辰八字精准分析](https://tianjiyao.com/zh/bazi) - 适合长期结构、性格底盘与运势主轴问题
+- [AI六爻排盘占卜](https://tianjiyao.com/zh/ai-divination) - 适合具体事件、当前决策与时间窗口问题
 
 ## 🎯 实践导向
 

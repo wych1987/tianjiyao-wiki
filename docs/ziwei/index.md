@@ -18,9 +18,9 @@ breadcrumbs:
   - name: 紫微斗数
 cta_heading: 想先按顺序入门紫微？直接去主站看入门页
 cta_description: 这页负责整理紫微学习路线；如果你想先按更短路径进入排盘、主星、四化和宫位顺序，主站入门页更适合先看，再回来按专题深读。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei/guide
+cta_primary_url: https://tianjiyao.com/zh/ziwei/guide
 cta_primary_label: 去看紫微入门页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei
+cta_secondary_url: https://tianjiyao.com/zh/ziwei
 cta_secondary_label: 先生成紫微命盘
 cta_topic: ziwei-learning-center
 ---
@@ -125,8 +125,8 @@ cta_topic: ziwei-learning-center
 
 ### 外部实践入口
 
-- [天机爻紫微斗数排盘](https://www.tianjiyao.com/zh/ziwei) - 用真实星盘验证宫位和星曜判断
-- [命理合盘分析](https://www.tianjiyao.com/zh/hepan) - 练习关系匹配与双盘比较
+- [天机爻紫微斗数排盘](https://tianjiyao.com/zh/ziwei) - 用真实星盘验证宫位和星曜判断
+- [命理合盘分析](https://tianjiyao.com/zh/hepan) - 练习关系匹配与双盘比较
 
 ### 学术验证方法
 - **对比分析法** - 传统理论与现代分析结果对比

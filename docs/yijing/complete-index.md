@@ -9,9 +9,9 @@ cta_topic: yijing-index
 seo_title: 六爻学习顺序与完整索引：从起卦装卦到分类占断的全模块导航
 cta_heading: 想先把六爻学习顺序走一遍？直接去主站六爻指南
 cta_description: 这页负责整理六爻模块目录；如果你想先看起卦、装卦、断卦和分类占断的主线顺序，主站六爻指南更适合先入门，再回来按索引深读。
-cta_primary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_primary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_primary_label: 去看六爻指南
-cta_secondary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_secondary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_secondary_label: 直接在线起卦
 ---
 

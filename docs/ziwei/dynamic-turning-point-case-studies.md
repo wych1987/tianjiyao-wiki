@@ -7,9 +7,9 @@ author: 紫微斗数研究团队
 date: 2026-03-15
 cta_heading: 大限转折命例读到这里，下一步该回主站验证自己的阶段主轴
 cta_description: 这页已经把本命、大限和流年的转折逻辑拆开了。要真正建立判断手感，最直接的动作就是回主站对照自己的命盘验证阶段变化。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei
+cta_primary_url: https://tianjiyao.com/zh/ziwei
 cta_primary_label: 去主站做紫微排盘验证
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/sihua
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/sihua
 cta_secondary_label: 先看四化飞星
 cta_topic: ziwei-dynamic-case-studies
 ---

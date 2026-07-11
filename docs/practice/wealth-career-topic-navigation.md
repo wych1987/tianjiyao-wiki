@@ -8,9 +8,9 @@ date: 2026-03-15
 cta_topic: career-wealth
 cta_heading: 财富事业专题已经走到应用层了，下一步就是去主站验证你当前那一层问题
 cta_description: 如果你在看长期职业与财富结构，先去主站看八字；如果你在看求职、项目、合作或到账节奏，直接带着问题去占断会更贴合。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看财富事业结构
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 带着当前机会去占断
 ---
 

@@ -9,9 +9,9 @@ seo_title: 八字健康怎么看｜五行偏枯、寒暖燥湿与风险节奏判
 cta_topic: health-bazi
 cta_heading: 想把健康节奏放回自己的命盘看？先回主站八字页
 cta_description: 这页负责讲五行偏枯、寒暖燥湿和阶段性风险的判断顺序；如果你想先把自己的四柱、五行和长期结构对起来，主站八字页更适合先入门。如果你还想继续补阅读顺序，也可以先回知识库。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看八字排盘
-cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_url: https://tianjiyao.com/zh/learn
 cta_secondary_label: 先回知识库
 ---
 

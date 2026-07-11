@@ -9,9 +9,9 @@ seo_title: 八字财运事业怎么看｜财星、官杀、食伤与兑现顺序
 cta_topic: career-wealth
 cta_heading: 想把财运事业放回自己的命盘看？先回主站八字页
 cta_description: 这页负责讲财星、官杀、食伤和大运兑现顺序；如果你想先把自己的四柱、五行和职业财富结构对起来，主站八字页更适合先入门。如果你想先继续看命例，也可以回案例库筛选财运专题。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看八字排盘
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_url: https://tianjiyao.com/zh/cases
 cta_secondary_label: 先回案例库
 ---
 

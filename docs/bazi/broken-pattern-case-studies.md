@@ -9,9 +9,9 @@ seo_title: 八字破格转运命例怎么看｜结构失衡、运势放大与修
 cta_topic: broken-pattern-cases
 cta_heading: 破格转运命例看到这里，下一步就该回主站看自己的阶段节奏
 cta_description: 这页负责讲结构失衡、大运放大与阶段修复怎样在命例里展开；如果你想先把自己的四柱、主轴和阶段变化放回命盘看，主站八字页更适合先入门。如果你还想继续按主题筛选阅读，也可以先回知识库。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看八字排盘
-cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_url: https://tianjiyao.com/zh/learn
 cta_secondary_label: 先回知识库
 ---
 

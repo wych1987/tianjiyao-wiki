@@ -8,9 +8,9 @@ date: 2026-03-22
 cta_topic: career-wealth
 cta_heading: 副业失败案例看完后，最该回主站先验证你的副业承接结构
 cta_description: 如果你想知道自己到底适不适合做第二收入、哪种副业模式更稳，先去主站看长期结构；如果你已经有具体项目和合作，再带着当前机会去验证。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看副业承接结构
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 带着当前副业机会去占断
 ---
 

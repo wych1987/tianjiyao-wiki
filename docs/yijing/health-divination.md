@@ -10,9 +10,9 @@ cta_topic: health-boundary
 seo_title: 六爻健康问题怎么看：疾病、检查与恢复节奏的辅助观察
 cta_heading: 健康题先判断边界，再决定是否进入周易辅助观察
 cta_description: 如果你只是想辅助观察恢复节奏、检查节点或风险轻重，可以先去主站周易入口收敛问题；涉及病名、用药、手术和急症时，仍应优先听从医生建议，不把占断当诊疗。
-cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
 ---
 

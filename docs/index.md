@@ -40,10 +40,10 @@ breadcrumbs:
 - [财富事业专题导航](practice/wealth-career-topic-navigation.md) - 把职业路径、求财、跳槽与平台选择集中整理
 
 ### 我已经知道要去主站实操
-- [去主站按场景进入](https://www.tianjiyao.com/zh) - 先看你当前更适合八字、紫微、六爻还是合盘
-- [AI六爻排盘占卜](https://www.tianjiyao.com/zh/ai-divination) - 适合带着当前问题、时机或决策直接进入
-- [生辰八字精准分析](https://www.tianjiyao.com/zh/bazi) - 适合先看长期结构、性格与运势底盘
-- [命理合盘分析](https://www.tianjiyao.com/zh/hepan) - 适合关系匹配、推进节奏与双人主题
+- [去主站按场景进入](https://tianjiyao.com/zh) - 先看你当前更适合八字、紫微、六爻还是合盘
+- [AI六爻排盘占卜](https://tianjiyao.com/zh/ai-divination) - 适合带着当前问题、时机或决策直接进入
+- [生辰八字精准分析](https://tianjiyao.com/zh/bazi) - 适合先看长期结构、性格与运势底盘
+- [命理合盘分析](https://tianjiyao.com/zh/hepan) - 适合关系匹配、推进节奏与双人主题
 
 ## 主要内容
 
@@ -211,19 +211,19 @@ breadcrumbs:
 
 ## 🌟 关于天机爻
 
-**[天机爻](https://www.tianjiyao.com/zh)** 是专业的 AI 占卜平台。主站负责排盘、分析与实际体验，Wiki 负责提供背后的理论、方法和学习路径，两者分工明确。
+**[天机爻](https://tianjiyao.com/zh)** 是专业的 AI 占卜平台。主站负责排盘、分析与实际体验，Wiki 负责提供背后的理论、方法和学习路径，两者分工明确。
 
 ### 🔮 主站核心服务
-- **[AI六爻排盘占卜](https://www.tianjiyao.com/zh/ai-divination)** - 具体问题吉凶判断
-- **[生辰八字精准分析](https://www.tianjiyao.com/zh/bazi)** - 一生命格运势解读  
-- **[紫微斗数排盘](https://www.tianjiyao.com/zh/ziwei)** - 性格特质和命运轨迹洞察
-- **[塔罗牌占卜](https://www.tianjiyao.com/zh/tarot)** - 内心指引与选择探索
-- **[命理合盘分析](https://www.tianjiyao.com/zh/hepan)** - 双人关系匹配度分析
+- **[AI六爻排盘占卜](https://tianjiyao.com/zh/ai-divination)** - 具体问题吉凶判断
+- **[生辰八字精准分析](https://tianjiyao.com/zh/bazi)** - 一生命格运势解读  
+- **[紫微斗数排盘](https://tianjiyao.com/zh/ziwei)** - 性格特质和命运轨迹洞察
+- **[塔罗牌占卜](https://tianjiyao.com/zh/tarot)** - 内心指引与选择探索
+- **[命理合盘分析](https://tianjiyao.com/zh/hepan)** - 双人关系匹配度分析
 
 ### 📖 Wiki知识库价值
 本 Wiki 作为**天机爻官方知识库**，专注于系统教程、传统典籍脉络、分析方法拆解，以及对主站能力的理论支撑。
 
-💡 **完整体验**：[立即体验AI占卜服务](https://www.tianjiyao.com/zh) | [深入学习传统理论](/)
+💡 **完整体验**：[立即体验AI占卜服务](https://tianjiyao.com/zh) | [深入学习传统理论](/)
 
 ## 📋 学习态度
 

@@ -7,9 +7,9 @@ author: 紫微斗数研究团队
 date: 2026-03-15
 cta_heading: 想先看主星和配星怎么排顺序？直接去主站看主星页
 cta_description: 这页负责讲辅曜、煞曜和配星层次；如果你已经排好盘，主站主星页更适合先看主星落点，再回来补完整的辅曜煞曜体系。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei/xingyao
+cta_primary_url: https://tianjiyao.com/zh/ziwei/xingyao
 cta_primary_label: 去看十四主星页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/guide
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/guide
 cta_secondary_label: 先看紫微入门页
 cta_topic: ziwei-assistant-stars
 ---

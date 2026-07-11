@@ -16,9 +16,9 @@ breadcrumbs:
 cta_topic: bazi-index-hub
 cta_heading: 想先从自己的命盘开始，而不是继续零散翻页？先回主站八字页
 cta_description: 这页负责整理八字学习顺序和专题路径；如果你想先把自己的四柱、五行和十神结果对起来，主站八字页更适合先入门。如果你想继续按知识结构筛选阅读，也可以先回知识库。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看八字排盘
-cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_url: https://tianjiyao.com/zh/learn
 cta_secondary_label: 先回知识库
 ---
 

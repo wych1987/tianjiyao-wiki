@@ -7,9 +7,9 @@ author: 紫微斗数研究团队
 date: 2026-03-15
 cta_heading: 财帛宫专题看到这里，下一步最好回主站验证自己的财富结构
 cta_description: 这页负责讲财帛宫、赚钱模式和资源承接；如果你已经排好盘，主站紫微入口更适合先对照整张盘的财富场域，再回来判断财帛宫细节。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei
+cta_primary_url: https://tianjiyao.com/zh/ziwei
 cta_primary_label: 去主站看财富场域结构
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/sihua
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/sihua
 cta_secondary_label: 先看四化飞星
 cta_topic: career-wealth
 seo_title: 紫微财帛宫怎么看：赚钱模式与财富承接

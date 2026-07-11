@@ -9,9 +9,9 @@ cta_topic: bazi-index
 seo_title: 八字学习顺序与完整索引：从四柱到命例的全模块导航
 cta_heading: 想先把八字学习顺序走一遍？直接去主站八字页
 cta_description: 这页负责整理八字模块目录；如果你想先看真实命盘里四柱、五行、十神和下一步阅读方向，主站八字页更适合先入门，再回来按索引深读。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去看八字总页
-cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_url: https://tianjiyao.com/zh/learn
 cta_secondary_label: 先看主站知识库
 ---
 

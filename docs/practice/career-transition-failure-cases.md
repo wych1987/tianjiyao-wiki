@@ -8,9 +8,9 @@ date: 2026-03-22
 cta_topic: career-wealth
 cta_heading: 转轨失败案例看完后，最该先确认你换的是方向，还是只是换了焦虑
 cta_description: 如果你想判断自己适不适合长期转轨，先去主站看职业结构；如果你已经手上有一个岗位、offer 或跳槽机会，再带着当前节点去验证。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看职业结构
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 带着当前转轨机会去占断
 ---
 

@@ -8,9 +8,9 @@ date: 2026-03-15
 cta_topic: relationship
 cta_heading: 婚姻命例看完后，最自然的下一步就是回主站做双盘验证
 cta_description: 这页讲的是夫妻宫、福德宫和大限怎么把关系推出来。真正形成判断力，还是要拿真实双盘去练结构、协同和阶段同步。
-cta_primary_url: https://www.tianjiyao.com/zh/hepan
+cta_primary_url: https://tianjiyao.com/zh/hepan
 cta_primary_label: 去主站做双盘合盘
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei
+cta_secondary_url: https://tianjiyao.com/zh/ziwei
 cta_secondary_label: 先看个人关系结构
 ---
 

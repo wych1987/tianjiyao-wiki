@@ -8,9 +8,9 @@ date: 2026-03-28
 cta_topic: relationship
 cta_heading: 关系 FAQ 读到这里，通常已经知道该去主站做合盘还是先起感情卦
 cta_description: 如果你关心双方长期匹配、婚后协同和关系结构，先去主站做合盘；如果你关心的是当前关系能不能推进、复合或何时有动作，直接带着问题去起卦更贴题。
-cta_primary_url: https://www.tianjiyao.com/zh/hepan
+cta_primary_url: https://tianjiyao.com/zh/hepan
 cta_primary_label: 去主站做关系合盘
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 带着当前关系问题去起卦
 ---
 

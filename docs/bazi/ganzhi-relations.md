@@ -9,9 +9,9 @@ seo_title: 八字干支合冲刑害怎么看｜判断顺序、真假合化与作
 cta_topic: ganzhi-relations
 cta_heading: 想先把自己的干支组合对起来？先回主站四柱入口
 cta_description: 这页负责讲天干地支合冲刑害的判断顺序；如果你想先把自己的四柱、干支组合和结构关系对起来，主站四柱页更适合先入门。如果你想继续补八字阅读顺序，也可以先回知识库。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi/four-pillars-calculator
+cta_primary_url: https://tianjiyao.com/zh/bazi/four-pillars-calculator
 cta_primary_label: 去主站看四柱
-cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_url: https://tianjiyao.com/zh/learn
 cta_secondary_label: 先回知识库
 ---
 

@@ -9,9 +9,9 @@ seo_title: 八字日主旺衰怎么看｜月令、通根与判断顺序
 cta_topic: bazi-strength
 cta_heading: 想先看自己的旺衰线索？直接去主站八字页
 cta_description: 这页负责讲月令、通根、透干和整体气势的判断顺序；如果你想先把自己的四柱、五行和旺衰线索对起来，主站八字页更适合先入门。如果你已经大致分清身强身弱，也可以继续看主站用神页。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看八字分析
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi/yongshen
+cta_secondary_url: https://tianjiyao.com/zh/bazi/yongshen
 cta_secondary_label: 继续看用神
 ---
 

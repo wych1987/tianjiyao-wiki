@@ -14,9 +14,9 @@ date: 2026-03-22
 cta_topic: ziwei-faq
 cta_heading: 紫微 FAQ 读到这里，通常已经可以带着自己的盘面问题去主站验证
 cta_description: 如果你想把星曜、宫位、四化这些知识落到自己的阶段与关系场域，先去主站看紫微入口会更有效；感情匹配问题则直接去合盘更合适。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei
+cta_primary_url: https://tianjiyao.com/zh/ziwei
 cta_primary_label: 去主站看紫微分析
-cta_secondary_url: https://www.tianjiyao.com/zh/hepan
+cta_secondary_url: https://tianjiyao.com/zh/hepan
 cta_secondary_label: 关系问题直接去合盘
 ---
 

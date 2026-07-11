@@ -7,9 +7,9 @@ author: 紫微斗数研究团队
 date: 2026-03-15
 cta_heading: 田宅宫专题看到这里，下一步最好回主站对照自己的整张盘
 cta_description: 这页负责讲田宅宫、资产承接和生活空间结构；如果你已经排好盘，主站紫微入口更适合先看整张盘主轴，再回来判断田宅宫细节。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei
+cta_primary_url: https://tianjiyao.com/zh/ziwei
 cta_primary_label: 去主站看紫微命盘
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/guide
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/guide
 cta_secondary_label: 先看紫微入门页
 cta_topic: ziwei-property-palace
 ---

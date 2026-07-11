@@ -8,9 +8,9 @@ date: 2025-11-06
 seo_title: 紫微高级技法怎么学：流日、小限与神煞
 cta_heading: 想先把紫微基础顺序看清？直接去主站看入门页
 cta_description: 这页负责讲流日、小限、神煞和高阶技法；如果你还在建立基础框架，主站入门页更适合先看，再回来补高级层内容。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei/guide
+cta_primary_url: https://tianjiyao.com/zh/ziwei/guide
 cta_primary_label: 去看紫微入门页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/sihua
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/sihua
 cta_secondary_label: 先看四化飞星
 cta_topic: ziwei-advanced-techniques
 ---

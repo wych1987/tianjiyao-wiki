@@ -9,9 +9,9 @@ seo_title: 八字健康命例怎么看｜体质偏向、压力结构与风险阶
 cta_topic: health-cases
 cta_heading: 健康命例看到这里，下一步就该回主站看自己的长期结构
 cta_description: 这页负责讲健康命例的标准拆法；如果你想先把自己的四柱、五行和长期节奏对起来，主站八字页更适合先入门。如果你想继续筛选主站已经整理好的命例入口，也可以先回案例库。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看八字排盘
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_url: https://tianjiyao.com/zh/cases
 cta_secondary_label: 先回案例库
 ---
 

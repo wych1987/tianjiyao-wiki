@@ -9,9 +9,9 @@ seo_title: 十神怎么看｜十神关系、现代读法与落地顺序
 cta_topic: ten-gods-advanced
 cta_heading: 想先看自己的十神分布？直接去主站十神页
 cta_description: 这页负责补十神体系的深层背景和现代读法；如果你想先把自己的十神分布、结构重点和下一步阅读方向对起来，主站十神页更适合先入门。如果你想先回八字总入口，也可以继续看主站八字页。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi/shishen
+cta_primary_url: https://tianjiyao.com/zh/bazi/shishen
 cta_primary_label: 去主站看十神
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi
+cta_secondary_url: https://tianjiyao.com/zh/bazi
 cta_secondary_label: 先回八字入口
 ---
 

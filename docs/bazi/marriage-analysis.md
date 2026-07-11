@@ -9,9 +9,9 @@ seo_title: 八字婚姻感情怎么看｜配偶星、日支与关系转折判断
 cta_topic: relationship
 cta_heading: 婚姻感情判断看到这里，下一步就该回主站验证真实关系结构
 cta_description: 这页负责讲配偶星、日支、合冲刑害和大运触发的判断顺序；如果你想把双方关系、推进节奏和现实匹配放在一起看，主站合盘入口会更直接。如果你想先看命例怎么拆，也可以先回案例库继续筛选。
-cta_primary_url: https://www.tianjiyao.com/zh/hepan
+cta_primary_url: https://tianjiyao.com/zh/hepan
 cta_primary_label: 去主站做合盘验证
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_url: https://tianjiyao.com/zh/cases
 cta_secondary_label: 先回案例库
 ---
 

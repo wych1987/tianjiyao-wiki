@@ -8,9 +8,9 @@ date: 2025-11-06
 seo_title: 紫微格局组合怎么看：主星组合与格局判断
 cta_heading: 想先把组合格局看清？直接去主站看组合页
 cta_description: 这页负责讲星曜组合和格局理论；如果你已经排好盘，主站组合页更适合先按主星和四化的顺序看经典组合，再回来补完整背景。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei/zuhe
+cta_primary_url: https://tianjiyao.com/zh/ziwei/zuhe
 cta_primary_label: 去看组合格局页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/sihua
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/sihua
 cta_secondary_label: 先看四化飞星
 cta_topic: ziwei-pattern-combinations
 ---

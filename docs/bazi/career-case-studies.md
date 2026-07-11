@@ -9,9 +9,9 @@ seo_title: 八字事业命例怎么看｜官印相生、杀印相生与职业兑
 cta_topic: career-cases
 cta_heading: 事业命例看到这里，下一步就该回主站看自己的职业结构
 cta_description: 这页负责讲事业命例的标准拆法；如果你想先把自己的四柱、五行和职业财富结构对起来，主站八字页更适合先入门。如果你想继续筛选主站已经整理好的命例入口，也可以先回案例库。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看八字排盘
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_url: https://tianjiyao.com/zh/cases
 cta_secondary_label: 先回案例库
 ---
 

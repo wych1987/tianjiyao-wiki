@@ -8,9 +8,9 @@ date: 2026-03-22
 seo_title: 纳甲类象常见误判：会装卦却不会落地时的错误
 cta_heading: 想先把六爻方法训练路径走一遍？直接去主站知识库
 cta_description: 这页负责讲纳甲类象最常见的误判案例；如果你想先理清六爻方法顺序，再决定回来看哪类训练页，主站知识库更适合先进入。
-cta_primary_url: https://www.tianjiyao.com/zh/learn
+cta_primary_url: https://tianjiyao.com/zh/learn
 cta_primary_label: 去看主站知识库
-cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
 ---
 

@@ -8,9 +8,9 @@ date: 2026-03-15
 cta_topic: career-wealth
 cta_heading: 财富命例读到这里，下一步该回主站用真实命盘练财富结构
 cta_description: 这页已经把财帛、官禄、福德和田宅的财富逻辑拆开了。要把方法变成手感，最直接的动作就是拿真实命盘回主站做一轮验证。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei
+cta_primary_url: https://tianjiyao.com/zh/ziwei
 cta_primary_label: 去主站看财富场域结构
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 当前项目或回款去占断
 ---
 

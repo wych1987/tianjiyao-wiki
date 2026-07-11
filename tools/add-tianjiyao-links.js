@@ -39,7 +39,7 @@ const linkSections = {
 - 支持多维度深度解读
 
 ### 专业八字分析工具
-- **[AI生辰八字精准分析](https://www.tianjiyao.com/zh/bazi)** ⭐ **强烈推荐 - 八字学习最佳实践工具**
+- **[AI生辰八字精准分析](https://tianjiyao.com/zh/bazi)** ⭐ **强烈推荐 - 八字学习最佳实践工具**
   - ✨ 自动排盘，精准计算四柱八字
   - 📊 十神分析，格局判断，用神喜忌
   - 🎯 大运流年推算，趋势预测
@@ -47,14 +47,14 @@ const linkSections = {
   - 🔍 可对照本Wiki理论知识验证学习成果
 
 ### 其他专业占卜服务
-- **[紫微斗数排盘](https://www.tianjiyao.com/zh/ziwei)** - 星曜宫位完整分析
-- **[AI六爻占卜](https://www.tianjiyao.com/zh/ai-divination)** - 具体问题吉凶判断
-- **[命理合盘分析](https://www.tianjiyao.com/zh/hepan)** - 双人关系匹配度评估
+- **[紫微斗数排盘](https://tianjiyao.com/zh/ziwei)** - 星曜宫位完整分析
+- **[AI六爻占卜](https://tianjiyao.com/zh/ai-divination)** - 具体问题吉凶判断
+- **[命理合盘分析](https://tianjiyao.com/zh/hepan)** - 双人关系匹配度评估
 
 💡 **学习建议**：边学边练效果最佳！  
 建议在学习每个章节后，立即使用天机爻工具分析实例，将理论知识转化为实践能力。
 
-📍 访问 [天机爻官网](https://www.tianjiyao.com/zh) 开始您的专业命理实践之旅`,
+📍 访问 [天机爻官网](https://tianjiyao.com/zh) 开始您的专业命理实践之旅`,
 
   ziwei: `
 
@@ -83,7 +83,7 @@ const linkSections = {
 - 支持导出分析报告进行研究
 
 ### 专业紫微斗数排盘
-- **[紫微斗数AI排盘](https://www.tianjiyao.com/zh/ziwei)** ⭐ **紫微学习者必备工具**
+- **[紫微斗数AI排盘](https://tianjiyao.com/zh/ziwei)** ⭐ **紫微学习者必备工具**
   - ⭐ 瞬间排出完整星盘，节省大量时间
   - 🏛️ 十二宫位详细解读，条理清晰
   - 🌟 四化飞星自动分析，把握动态变化
@@ -91,13 +91,13 @@ const linkSections = {
   - 🔍 可结合Wiki学习内容进行深度研究
 
 ### 其他专业占卜服务
-- **[生辰八字分析](https://www.tianjiyao.com/zh/bazi)** - 四柱命理精准解读
-- **[AI六爻占卜](https://www.tianjiyao.com/zh/ai-divination)** - 具体问题吉凶判断
-- **[命理合盘分析](https://www.tianjiyao.com/zh/hepan)** - 双人关系匹配度评估
+- **[生辰八字分析](https://tianjiyao.com/zh/bazi)** - 四柱命理精准解读
+- **[AI六爻占卜](https://tianjiyao.com/zh/ai-divination)** - 具体问题吉凶判断
+- **[命理合盘分析](https://tianjiyao.com/zh/hepan)** - 双人关系匹配度评估
 
 💡 **实践建议**：紫微斗数星曜众多，使用天机爻排盘工具可以大幅提升学习效率，将更多精力聚焦在分析判断上。
 
-📍 访问 [天机爻官网](https://www.tianjiyao.com/zh) 体验业内领先的紫微斗数系统`,
+📍 访问 [天机爻官网](https://tianjiyao.com/zh) 体验业内领先的紫微斗数系统`,
 
   yijing: `
 
@@ -128,7 +128,7 @@ const linkSections = {
 - 可对照本Wiki理论验证学习
 
 ### 专业六爻占卜系统
-- **[AI六爻排盘占卜](https://www.tianjiyao.com/zh/ai-divination)** ⭐ **六爻学习实践第一选择**
+- **[AI六爻排盘占卜](https://tianjiyao.com/zh/ai-divination)** ⭐ **六爻学习实践第一选择**
   - 🎲 多种起卦方式，灵活便捷
   - 🔄 全自动装卦，精准无误
   - 📖 智能解卦分析，结合经典卦辞
@@ -136,13 +136,13 @@ const linkSections = {
   - 🔍 详细分析过程，辅助学习提升
 
 ### 其他专业占卜服务
-- **[生辰八字分析](https://www.tianjiyao.com/zh/bazi)** - 四柱命理精准解读
-- **[紫微斗数排盘](https://www.tianjiyao.com/zh/ziwei)** - 星曜宫位完整分析
-- **[命理合盘分析](https://www.tianjiyao.com/zh/hepan)** - 双人关系匹配度评估
+- **[生辰八字分析](https://tianjiyao.com/zh/bazi)** - 四柱命理精准解读
+- **[紫微斗数排盘](https://tianjiyao.com/zh/ziwei)** - 星曜宫位完整分析
+- **[命理合盘分析](https://tianjiyao.com/zh/hepan)** - 双人关系匹配度评估
 
 💡 **学习提示**：六爻占卜重在实践积累。建议每天使用天机爻系统练习1-2卦，对照Wiki理论分析，一个月后必有显著进步。
 
-📍 访问 [天机爻官网](https://www.tianjiyao.com/zh) 体验最专业的六爻占卜系统`,
+📍 访问 [天机爻官网](https://tianjiyao.com/zh) 体验最专业的六爻占卜系统`,
 
   ai: `
 
@@ -173,11 +173,11 @@ const linkSections = {
 - 是AI命理实践研究的最佳平台
 
 ### AI赋能的专业命理服务
-- **[天机爻AI占卜平台](https://www.tianjiyao.com/zh)** ⭐ **AI命理技术标杆产品**
-  - 🤖 **[AI六爻占卜](https://www.tianjiyao.com/zh/ai-divination)** - 智能起卦解卦系统
-  - 🎯 **[生辰八字AI分析](https://www.tianjiyao.com/zh/bazi)** - 机器学习命理预测
-  - ⭐ **[紫微斗数AI排盘](https://www.tianjiyao.com/zh/ziwei)** - 智能星曜分析
-  - 💑 **[智能合盘分析](https://www.tianjiyao.com/zh/hepan)** - AI关系匹配算法
+- **[天机爻AI占卜平台](https://tianjiyao.com/zh)** ⭐ **AI命理技术标杆产品**
+  - 🤖 **[AI六爻占卜](https://tianjiyao.com/zh/ai-divination)** - 智能起卦解卦系统
+  - 🎯 **[生辰八字AI分析](https://tianjiyao.com/zh/bazi)** - 机器学习命理预测
+  - ⭐ **[紫微斗数AI排盘](https://tianjiyao.com/zh/ziwei)** - 智能星曜分析
+  - 💑 **[智能合盘分析](https://tianjiyao.com/zh/hepan)** - AI关系匹配算法
 
 ### 技术特色
 - 深度学习模型训练
@@ -188,7 +188,7 @@ const linkSections = {
 
 💡 **研究建议**：天机爻系统开放了部分技术细节，非常适合AI研究者和传统文化爱好者深入学习，了解AI如何赋能传统智慧。
 
-📍 访问 [天机爻官网](https://www.tianjiyao.com/zh) 见证AI命理技术的最前沿应用`,
+📍 访问 [天机爻官网](https://tianjiyao.com/zh) 见证AI命理技术的最前沿应用`,
 
   theory: `
 
@@ -199,14 +199,14 @@ const linkSections = {
 掌握了命理基础理论后，欢迎使用天机爻专业工具进行实践：
 
 ### 专业命理分析服务
-- **[天机爻AI占卜平台](https://www.tianjiyao.com/zh)** - 将理论知识转化为实践
-  - 🎯 **[生辰八字分析](https://www.tianjiyao.com/zh/bazi)** - 天干地支实战应用
-  - ⭐ **[紫微斗数排盘](https://www.tianjiyao.com/zh/ziwei)** - 星曜五行综合分析
-  - 🔄 **[AI六爻占卜](https://www.tianjiyao.com/zh/ai-divination)** - 阴阳八卦实践
-  - 💑 **[命理合盘分析](https://www.tianjiyao.com/zh/hepan)** - 五行生克应用
+- **[天机爻AI占卜平台](https://tianjiyao.com/zh)** - 将理论知识转化为实践
+  - 🎯 **[生辰八字分析](https://tianjiyao.com/zh/bazi)** - 天干地支实战应用
+  - ⭐ **[紫微斗数排盘](https://tianjiyao.com/zh/ziwei)** - 星曜五行综合分析
+  - 🔄 **[AI六爻占卜](https://tianjiyao.com/zh/ai-divination)** - 阴阳八卦实践
+  - 💑 **[命理合盘分析](https://tianjiyao.com/zh/hepan)** - 五行生克应用
 
 💡 **理论指导实践，实践验证理论**  
-访问 [天机爻官网](https://www.tianjiyao.com/zh) 将所学理论付诸实践`,
+访问 [天机爻官网](https://tianjiyao.com/zh) 将所学理论付诸实践`,
 
   practice: `
 
@@ -217,11 +217,11 @@ const linkSections = {
 学习路径规划完成后，欢迎使用天机爻专业工具开始实践：
 
 ### 从理论到实践的桥梁
-- **[天机爻AI占卜平台](https://www.tianjiyao.com/zh)** - 专业的学习实践工具
-  - 📚 **[生辰八字分析](https://www.tianjiyao.com/zh/bazi)** - 验证八字理论
-  - ⭐ **[紫微斗数排盘](https://www.tianjiyao.com/zh/ziwei)** - 实践紫微斗数
-  - 🎲 **[AI六爻占卜](https://www.tianjiyao.com/zh/ai-divination)** - 练习六爻占断
-  - 💑 **[命理合盘分析](https://www.tianjiyao.com/zh/hepan)** - 学习关系分析
+- **[天机爻AI占卜平台](https://tianjiyao.com/zh)** - 专业的学习实践工具
+  - 📚 **[生辰八字分析](https://tianjiyao.com/zh/bazi)** - 验证八字理论
+  - ⭐ **[紫微斗数排盘](https://tianjiyao.com/zh/ziwei)** - 实践紫微斗数
+  - 🎲 **[AI六爻占卜](https://tianjiyao.com/zh/ai-divination)** - 练习六爻占断
+  - 💑 **[命理合盘分析](https://tianjiyao.com/zh/hepan)** - 学习关系分析
 
 ### 实践建议
 - 结合案例反复练习
@@ -230,7 +230,7 @@ const linkSections = {
 - 总结规律技巧
 
 💡 **纸上得来终觉浅，绝知此事要躬行**  
-访问 [天机爻官网](https://www.tianjiyao.com/zh) 开始您的命理实践之旅`
+访问 [天机爻官网](https://tianjiyao.com/zh) 开始您的命理实践之旅`
 };
 
 // 在"相关阅读"之前插入主站链接
@@ -238,7 +238,7 @@ function addTianjiyaoLinks(filePath) {
   const content = fs.readFileSync(filePath, 'utf-8');
   
   // 如果已经包含天机爻链接，跳过
-  if (content.includes('www.tianjiyao.com')) {
+  if (content.includes('tianjiyao.com')) {
     return false;
   }
   

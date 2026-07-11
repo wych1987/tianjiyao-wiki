@@ -7,9 +7,9 @@ author: 紫微斗数研究团队
 date: 2026-03-15
 cta_heading: 婚姻与事业联动读到这里，下一步适合回主站做关系验证
 cta_description: 这页负责讲婚姻与事业宫位的联动；如果你想看真实关系如何落到长期协同里，主站婚姻合盘页更适合先做一轮双盘验证。
-cta_primary_url: https://www.tianjiyao.com/zh/hepan/love/marriage
+cta_primary_url: https://tianjiyao.com/zh/hepan/love/marriage
 cta_primary_label: 去看婚姻合盘页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei
+cta_secondary_url: https://tianjiyao.com/zh/ziwei
 cta_secondary_label: 先看单盘结构
 cta_topic: relationship
 ---

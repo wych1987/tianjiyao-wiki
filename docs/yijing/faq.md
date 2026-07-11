@@ -14,9 +14,9 @@ date: 2026-03-22
 cta_topic: yijing-faq
 cta_heading: 想先把常见问题对应到真实起卦？直接去主站周易入口
 cta_description: 如果你已经把入门顺序、用神、世应和应期误区读清楚，下一步更自然的是带着一个明确问题去主站判断该怎么进入，而不是继续空读 FAQ。
-cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
 ---
 

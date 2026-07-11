@@ -8,9 +8,9 @@ date: 2025-11-06
 seo_title: 紫微四化飞星怎么看：化禄化权化科化忌读法
 cta_heading: 想先把四化顺序看清？直接去主站看四化页
 cta_description: 这页负责讲四化原理和宫位联动；如果你已经排好盘，主站四化页更适合先看禄权科忌怎样落进自己的命盘，再回来补完整说明。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei/sihua
+cta_primary_url: https://tianjiyao.com/zh/ziwei/sihua
 cta_primary_label: 去看四化飞星页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/xingyao
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/xingyao
 cta_secondary_label: 先看十四主星
 cta_topic: ziwei-four-transformations
 ---

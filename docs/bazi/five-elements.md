@@ -8,9 +8,9 @@ date: 2025-11-06
 seo_title: 五行怎么看：金木水火土、生克顺序与平衡逻辑
 cta_heading: 想先看自己的五行分布？直接去主站八字页
 cta_description: 这页负责系统讲五行生克和失衡逻辑；如果你想先对照自己的五行强弱，主站八字页更适合先看命盘，再回来补完整理论。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去看八字五行分析
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi/yongshen
+cta_secondary_url: https://tianjiyao.com/zh/bazi/yongshen
 cta_secondary_label: 继续看用神详解
 cta_topic: five-elements
 ---

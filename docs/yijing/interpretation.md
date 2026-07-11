@@ -8,9 +8,9 @@ date: 2025-11-06
 seo_title: 卦象怎么解读：从卦象到人事的思维转换
 cta_heading: 想先把卦象放回 64 卦里看？直接去主站 64 卦页
 cta_description: 这页负责系统讲卦象解读方法；如果你想先按卦名和卦象看白话解释，再回来补思维方法，主站 64 卦页更适合先看。
-cta_primary_url: https://www.tianjiyao.com/zh/64-gua
+cta_primary_url: https://tianjiyao.com/zh/64-gua
 cta_primary_label: 去看 64 卦总览
-cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
 ---
 

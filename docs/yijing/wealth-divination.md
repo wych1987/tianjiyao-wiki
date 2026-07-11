@@ -9,9 +9,9 @@ cta_topic: career-wealth
 seo_title: 六爻求财问题怎么看：财爻、子孙与回款投资判断
 cta_heading: 想先把求财题问清再起卦？直接去主站周易入口
 cta_description: 如果你已经把财爻、世爻、子孙和兄弟的结构读清，下一步更适合带着具体项目、回款或交易问题去主站判断该怎么起卦；如果你还想先把题型和问法理顺，更适合先回知识库继续筛选。
-cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_url: https://tianjiyao.com/zh/learn
 cta_secondary_label: 先回知识库
 ---
 

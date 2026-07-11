@@ -8,9 +8,9 @@ date: 2026-03-28
 cta_topic: ziwei-index
 cta_heading: 紫微模块已经形成主线了，下一步最适合回主站拿真实星盘训练结构
 cta_description: 如果你已经知道自己要补星曜、宫位、四化还是双盘应用，现在直接按这张索引回主站做真实排盘验证，会比继续零散翻页更快建立手感。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei
+cta_primary_url: https://tianjiyao.com/zh/ziwei
 cta_primary_label: 去主站做紫微排盘
-cta_secondary_url: https://www.tianjiyao.com/zh/hepan
+cta_secondary_url: https://tianjiyao.com/zh/hepan
 cta_secondary_label: 关系主题去做双盘合盘
 ---
 

@@ -8,9 +8,9 @@ date: 2026-03-15
 seo_title: 紫微三方四正怎么看：结构化读盘骨架
 cta_heading: 想先把读盘结构骨架看清？直接去主站看入门页
 cta_description: 这页负责讲三方四正、对宫和借星；如果你已经排好盘，主站入门页更适合先把命宫、主星和四化顺序串起来，再回来补完整结构。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei/guide
+cta_primary_url: https://tianjiyao.com/zh/ziwei/guide
 cta_primary_label: 去看紫微入门页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/minggong
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/minggong
 cta_secondary_label: 先看命宫身宫
 cta_topic: ziwei-sanfang-sizheng
 ---

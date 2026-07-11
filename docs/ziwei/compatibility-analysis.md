@@ -8,9 +8,9 @@ date: 2026-03-15
 cta_topic: relationship
 cta_heading: 双人合盘方法看到这里，最自然的下一步就是拿真实双盘去验证
 cta_description: 这页讲的是怎样看命宫、夫妻宫、福德和阶段同步。真正建立手感的方式，是回主站用双方资料做一轮真实合盘。
-cta_primary_url: https://www.tianjiyao.com/zh/hepan
+cta_primary_url: https://tianjiyao.com/zh/hepan
 cta_primary_label: 去主站做紫微合盘验证
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei
+cta_secondary_url: https://tianjiyao.com/zh/ziwei
 cta_secondary_label: 先看单盘结构
 ---
 

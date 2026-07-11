@@ -14,9 +14,9 @@ date: 2026-03-22
 cta_topic: career-wealth
 cta_heading: 跳槽转行这类题目，最适合把长期结构和眼前节点拆开验证
 cta_description: 如果你在判断的是长期职业方向，先去主站看八字结构；如果你在判断的是眼前这次机会能不能成，直接带着问题去主站占断会更快。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 先去主站看长期职业结构
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 带着当前机会去占断
 ---
 

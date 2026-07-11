@@ -8,9 +8,9 @@ date: 2026-03-15
 cta_topic: bazi-case-method
 cta_heading: 命例方法学完后，最有效的练法就是回主站看真实命盘
 cta_description: 这页讲的是八字命例的标准拆法。下一步最自然的动作不是继续背术语，而是拿真实命盘按这里的顺序做一轮验证；如果你想先看主站已经整理好的命例入口，也可以先回案例库继续筛选。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站做八字排盘验证
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_url: https://tianjiyao.com/zh/cases
 cta_secondary_label: 先回案例库
 ---
 

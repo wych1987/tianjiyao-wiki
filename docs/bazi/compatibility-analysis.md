@@ -9,9 +9,9 @@ seo_title: 八字合婚怎么看｜关系结构、配偶星与大运同步判断
 cta_topic: compatibility
 cta_heading: 合婚方法看到这里，下一步就该回主站验证两个人的关系结构
 cta_description: 这页负责讲合婚的标准分析顺序；如果你想把双方结构、节奏和关系承压方式放在一起看，主站合盘入口会更直接。如果你想先看各自的个人底盘，再决定要不要合看，也可以先回八字页。
-cta_primary_url: https://www.tianjiyao.com/zh/hepan
+cta_primary_url: https://tianjiyao.com/zh/hepan
 cta_primary_label: 去主站做合盘验证
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi
+cta_secondary_url: https://tianjiyao.com/zh/bazi
 cta_secondary_label: 先看个人命盘
 ---
 

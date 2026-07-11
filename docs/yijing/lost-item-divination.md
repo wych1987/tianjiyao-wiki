@@ -9,9 +9,9 @@ cta_topic: yijing-lost-item
 seo_title: 六爻失物怎么找：失物、寻人和寻宠的方向与归期判断
 cta_heading: 失物寻人题先锁定当前线索，再去主站周易入口
 cta_description: 这类问题高度依赖当下对象、时间和线索。读完规则后，更适合带着当前失物、寻人或寻宠问题去主站判断该怎么问；如果你还想先补起卦规则，也可以回六爻指南继续读。
-cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
 ---
 

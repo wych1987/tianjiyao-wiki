@@ -9,9 +9,9 @@ cta_mode: light
 cta_topic: system-selection
 cta_heading: 分清三套体系的分工后，下一步是去主站按问题类型进入
 cta_description: 如果你已经知道自己更关心长期结构、关系匹配还是眼前事件，现在直接按问题去主站选入口会更高效，不必继续纠结哪一套绝对更准。
-cta_primary_url: https://www.tianjiyao.com/zh
+cta_primary_url: https://tianjiyao.com/zh
 cta_primary_label: 去主站选适合的入口
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 有具体事件先去占断
 ---
 

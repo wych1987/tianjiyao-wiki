@@ -23,9 +23,9 @@ breadcrumbs:
 seo_title: 八字入门先看什么：天干地支、四柱与十神基础
 cta_heading: 想先看自己的八字命盘？直接去主站八字页
 cta_description: 这页负责系统讲八字入门理论；如果你想先知道排盘后会看到什么，主站八字页更适合先看四柱、五行和十神，再回来补基础术语。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去看在线八字排盘
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi/four-pillars-calculator
+cta_secondary_url: https://tianjiyao.com/zh/bazi/four-pillars-calculator
 cta_secondary_label: 先算四柱
 cta_topic: bazi-introduction
 ---
@@ -189,7 +189,7 @@ cta_topic: bazi-introduction
 3. 确认**地域经度**的时间校正
 
 **推荐工具**：
-- [天机爻AI八字分析](https://www.tianjiyao.com/zh/bazi) - 基于权威历法数据库
+- [天机爻AI八字分析](https://tianjiyao.com/zh/bazi) - 基于权威历法数据库
 - 紫金山天文台授权历法数据
 
 ### 步骤二：确定日主与十神
@@ -252,7 +252,7 @@ cta_topic: bazi-introduction
 - 理解日主的旺衰判断
 
 **实践工具**：
-- [天机爻八字排盘系统](https://www.tianjiyao.com/zh/bazi)
+- [天机爻八字排盘系统](https://tianjiyao.com/zh/bazi)
 
 #### 第三阶段：格局分析（3-4个月）
 - 学习常见格局识别

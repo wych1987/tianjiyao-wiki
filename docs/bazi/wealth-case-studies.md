@@ -8,9 +8,9 @@ date: 2026-03-15
 cta_topic: career-wealth
 cta_heading: 财富命例看到这里，下一步就该回主站看自己的财富结构
 cta_description: 命例能帮你分清食伤生财、财多身弱和比劫夺财的差别；真正建立手感，还是要回到自己的命盘里按这套顺序做验证。如果你想先继续看主站已经整理好的命例入口，也可以先回案例库。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看财富结构
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_url: https://tianjiyao.com/zh/cases
 cta_secondary_label: 先回案例库
 ---
 

@@ -8,9 +8,9 @@ date: 2026-03-15
 cta_topic: relationship
 cta_heading: 婚姻命例看完后，最该做的是把真实关系放进结构里验证
 cta_description: 这页展示的是八字婚姻命例怎么拆。下一步如果你想看双方关系结构和推进节奏，直接回主站做合盘会更自然；如果你想继续看主站已经整理好的命例入口，也可以先回案例库。
-cta_primary_url: https://www.tianjiyao.com/zh/hepan
+cta_primary_url: https://tianjiyao.com/zh/hepan
 cta_primary_label: 去主站做合盘验证
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_url: https://tianjiyao.com/zh/cases
 cta_secondary_label: 先回案例库
 ---
 

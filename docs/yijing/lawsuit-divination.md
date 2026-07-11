@@ -9,9 +9,9 @@ cta_topic: yijing-litigation
 seo_title: 六爻官司纠纷怎么看：诉讼、仲裁与证据对抗判断
 cta_heading: 官司纠纷题先把节点问清，再去主站周易入口
 cta_description: 诉讼、仲裁、合同争议这类问题，抽象学习帮助有限；更适合带着证据状态、对方动作和当前节点去主站判断这次该问什么。如果你还想先把题型和问法理顺，更适合先回知识库继续筛选。
-cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_url: https://tianjiyao.com/zh/learn
 cta_secondary_label: 先回知识库
 ---
 

@@ -9,9 +9,9 @@ seo_title: 六爻应期怎么看：从动爻、合冲到月日引发的推期框
 cta_topic: yijing-timing
 cta_heading: 想先看这题该不该追时间？直接去主站六爻入口
 cta_description: 六爻应期最怕空推日期。先分清你问的是消息、动作还是结果，再带着一个具体问题去起卦验证，才比空背口诀更有效。
-cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看六爻起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
 ---
 

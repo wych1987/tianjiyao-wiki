@@ -7,9 +7,9 @@ author: 紫微斗数研究团队
 date: 2026-03-15
 cta_heading: 想先把大限流年顺序看清？直接去主站看入门页
 cta_description: 这页负责讲大限、流年和动态层级；如果你想先把本命、主星、四化和动态顺序串起来，主站入门页更适合先看，再回来补完整理论。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei/guide
+cta_primary_url: https://tianjiyao.com/zh/ziwei/guide
 cta_primary_label: 去看紫微入门页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/sihua
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/sihua
 cta_secondary_label: 先看四化飞星
 cta_topic: ziwei-dynamic-fortune
 ---

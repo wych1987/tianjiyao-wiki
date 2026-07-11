@@ -9,9 +9,9 @@ seo_title: 六爻分类占断怎么看：婚姻、求财、事业、疾病的取
 cta_topic: yijing-classified
 cta_heading: 想先判断这题该怎么起卦？直接去主站六爻入口
 cta_description: 婚姻、求财、事业、疾病这些题目，真正有价值的是先把问题收敛成一件事，再带入真实卦象验证。主站周易入口更适合先判断当前问题该怎么进入。
-cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看六爻起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
 ---
 

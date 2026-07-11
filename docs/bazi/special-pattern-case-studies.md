@@ -9,9 +9,9 @@ seo_title: 八字特殊格命例怎么看｜从格、化气格与假从边界
 cta_topic: special-pattern-cases
 cta_heading: 特殊格命例看到这里，下一步就该回主站看自己的格局边界
 cta_description: 这页负责讲从格、化气格和假从误判怎样在命例里展开；如果你想先把自己的四柱、旺衰和格局边界放回命盘看，主站八字页更适合先入门。如果你还想继续按阅读顺序往下走，也可以先回知识库。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi
+cta_primary_url: https://tianjiyao.com/zh/bazi
 cta_primary_label: 去主站看八字排盘
-cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_url: https://tianjiyao.com/zh/learn
 cta_secondary_label: 先回知识库
 ---
 

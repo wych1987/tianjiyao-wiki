@@ -9,9 +9,9 @@ cta_mode: light
 cta_topic: health-boundary
 cta_heading: 健康恢复问题只能做辅助判断，先把边界守住再去主站
 cta_description: 如果你关心复工、恢复节奏和风险窗口，可以在不替代医疗决策的前提下，把问题带去主站做辅助观察；涉及检查、治疗和用药时，优先依赖医生意见。
-cta_primary_url: https://www.tianjiyao.com/zh
+cta_primary_url: https://tianjiyao.com/zh
 cta_primary_label: 去主站按场景谨慎进入
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 有明确恢复问题再去辅助判断
 ---
 

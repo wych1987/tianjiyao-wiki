@@ -8,9 +8,9 @@ date: 2026-03-15
 seo_title: 六爻断卦怎么判断：用神、旺衰与应期的核心顺序
 cta_heading: 想先把六爻断卦顺序看清？直接去主站六爻指南
 cta_description: 这页负责讲完整的断卦核心法则；如果你想先快速理解六爻怎么取用神、怎么看旺衰和判断顺序，主站六爻指南更适合先入门。
-cta_primary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_primary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_primary_label: 去看六爻指南
-cta_secondary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_secondary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_secondary_label: 直接在线起卦
 cta_topic: duan-gua-rules
 ---

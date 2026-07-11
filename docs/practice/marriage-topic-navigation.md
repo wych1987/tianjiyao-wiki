@@ -8,9 +8,9 @@ date: 2026-03-15
 cta_topic: relationship
 cta_heading: 关系专题已经走到应用层了，可以直接去主站做双人验证
 cta_description: 如果你已经分清八字看底盘、紫微看关系场、六爻看当前阶段，现在最自然的下一步就是带着双方信息去主站做合盘或关系分析。
-cta_primary_url: https://www.tianjiyao.com/zh/hepan
+cta_primary_url: https://tianjiyao.com/zh/hepan
 cta_primary_label: 去主站做合盘分析
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 带着当前关系问题去占断
 ---
 

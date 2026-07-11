@@ -23,9 +23,9 @@ breadcrumbs:
 seo_title: 紫微十四主星怎么看：主星顺序与辅星影响
 cta_heading: 想先看十四主星怎么读？直接去主站看主星页
 cta_description: 这页负责讲十四主星、辅星和判断框架；如果你已经排好盘，主站主星页更适合先看自己的主星落点，再回来补完整词典和规则。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei/xingyao
+cta_primary_url: https://tianjiyao.com/zh/ziwei/xingyao
 cta_primary_label: 去看十四主星页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/minggong
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/minggong
 cta_secondary_label: 先看命宫身宫
 cta_topic: ziwei-stars
 ---

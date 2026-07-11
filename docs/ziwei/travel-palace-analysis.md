@@ -7,9 +7,9 @@ author: 紫微斗数研究团队
 date: 2026-03-15
 cta_heading: 迁移宫专题看到这里，下一步最好回主站对照外部平台结构
 cta_description: 这页负责讲迁移宫、外部机会和平台承接；如果你已经排好盘，主站紫微入口更适合先看整张盘主轴，再回来判断迁移宫细节。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei
+cta_primary_url: https://tianjiyao.com/zh/ziwei
 cta_primary_label: 去主站看紫微命盘
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/sihua
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/sihua
 cta_secondary_label: 先看四化飞星
 cta_topic: ziwei-travel-palace
 seo_title: 紫微迁移宫怎么看：外部环境与异地发展

@@ -7,9 +7,9 @@ author: 紫微斗数研究团队
 date: 2026-03-15
 cta_heading: 婚后协同读到这里，下一步最自然的是拿真实双盘去验证
 cta_description: 这页讲的是婚后分工、情绪承接和长期共处结构。真正建立手感的方式，是回主站用双方资料做一轮婚姻合盘验证。
-cta_primary_url: https://www.tianjiyao.com/zh/hepan/love/marriage
+cta_primary_url: https://tianjiyao.com/zh/hepan/love/marriage
 cta_primary_label: 去做婚姻合盘验证
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei
+cta_secondary_url: https://tianjiyao.com/zh/ziwei
 cta_secondary_label: 先看单盘结构
 cta_topic: relationship
 ---

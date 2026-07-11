@@ -5,7 +5,7 @@
 ## 在线入口
 
 - [Wiki 首页](https://wiki.tianjiyao.com/) - 进入知识库首页与导航体系
-- [天机爻主站](https://www.tianjiyao.com/zh) - 按场景进入八字、紫微、六爻与合盘工具
+- [天机爻主站](https://tianjiyao.com/zh) - 按场景进入八字、紫微、六爻与合盘工具
 
 ## 📊 知识库概况
 

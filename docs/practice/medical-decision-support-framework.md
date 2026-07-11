@@ -15,9 +15,9 @@ cta_mode: light
 cta_topic: medical-boundary
 cta_heading: 这类内容只能做辅助观察，进入主站前先确认你的问题边界
 cta_description: 主站只能帮助你观察体质承受、阶段压力与时间节奏，不能替代检查、诊断和治疗方案。如果你已经理解这一点，再按场景进入会更合适。
-cta_primary_url: https://www.tianjiyao.com/zh
+cta_primary_url: https://tianjiyao.com/zh
 cta_primary_label: 去主站按场景查看
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 仅在问题明确时去占断
 ---
 

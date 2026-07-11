@@ -8,9 +8,9 @@ date: 2025-11-06
 seo_title: 易经64卦查询：六十四卦卦名、卦象与卦辞爻辞速查
 cta_heading: 想直接查某一卦？先去主站 64 卦查询页
 cta_description: 这页适合系统查六十四卦的卦象和卦辞；如果你想先按卦名快速查白话解读，主站 64 卦查询页会更直接。
-cta_primary_url: https://www.tianjiyao.com/zh/64-gua
+cta_primary_url: https://tianjiyao.com/zh/64-gua
 cta_primary_label: 去查 64 卦
-cta_secondary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_secondary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_secondary_label: 有问题就直接起卦
 cta_topic: hexagram-index
 ---

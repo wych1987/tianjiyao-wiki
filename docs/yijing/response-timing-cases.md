@@ -14,9 +14,9 @@ date: 2026-03-22
 cta_topic: yijing-timing
 cta_heading: 想先看时间判断案例入口？直接去主站案例库
 cta_description: 这页已经把消息应、动作应、结果应和阶段成熟应拆开了。如果你想先看不同场景的案例入口，再决定读哪类时间判断案例，主站案例库更适合先进入。
-cta_primary_url: https://www.tianjiyao.com/zh/cases
+cta_primary_url: https://tianjiyao.com/zh/cases
 cta_primary_label: 去看主站案例库
-cta_secondary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_secondary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_secondary_label: 直接进入周易起卦入口
 ---
 

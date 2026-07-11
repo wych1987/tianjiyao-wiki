@@ -7,9 +7,9 @@ author: 紫微斗数研究团队
 date: 2026-03-15
 cta_heading: 事业命例读到这里，下一步该回主站拿真实命盘练结构
 cta_description: 这页已经把官禄、命宫、财帛和迁移的事业逻辑拆开了。要把方法变成手感，最直接的动作就是回主站做一轮真实命盘验证。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei
+cta_primary_url: https://tianjiyao.com/zh/ziwei
 cta_primary_label: 去主站做紫微排盘验证
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/guide
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/guide
 cta_secondary_label: 先看紫微入门页
 cta_topic: career-wealth
 ---

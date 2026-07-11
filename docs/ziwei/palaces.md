@@ -8,9 +8,9 @@ date: 2025-11-06
 seo_title: 紫微十二宫位怎么看：命宫财帛宫夫妻宫顺序
 cta_heading: 想先按宫位顺序看紫微？直接去主站看入门页
 cta_description: 这页负责讲十二宫位的完整定义；如果你想先抓住宫位阅读顺序，主站入门页和命宫页更适合先看，再回来补完整宫位说明。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei/guide
+cta_primary_url: https://tianjiyao.com/zh/ziwei/guide
 cta_primary_label: 去看紫微入门页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei/minggong
+cta_secondary_url: https://tianjiyao.com/zh/ziwei/minggong
 cta_secondary_label: 先看命宫身宫
 cta_topic: ziwei-palaces
 ---

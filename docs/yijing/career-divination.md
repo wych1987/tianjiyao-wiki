@@ -9,9 +9,9 @@ cta_topic: career-wealth
 seo_title: 六爻工作问题怎么看：官鬼、父母与岗位变动判断
 cta_heading: 想先把岗位题问清再起卦？直接去主站周易入口
 cta_description: 如果你已经把官鬼、父母、世应和流程接口读清楚，下一步更适合带着具体岗位、面试或转岗问题去主站判断该怎么起卦；如果你想先看案例，也可以先去案例库对照。
-cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/cases
+cta_secondary_url: https://tianjiyao.com/zh/cases
 cta_secondary_label: 先看案例库
 ---
 

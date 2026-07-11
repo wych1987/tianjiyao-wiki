@@ -8,9 +8,9 @@ date: 2026-03-28
 cta_topic: relationship
 cta_heading: 关系线读到这里，最自然的下一步就是去主站做双人验证
 cta_description: 如果你已经分清长期匹配、关系模式和当前推进是三层不同问题，现在直接去主站做合盘或起感情卦，会比继续零散翻页更有效。
-cta_primary_url: https://www.tianjiyao.com/zh/hepan
+cta_primary_url: https://tianjiyao.com/zh/hepan
 cta_primary_label: 去主站做关系合盘
-cta_secondary_url: https://www.tianjiyao.com/zh/ai-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 带着当前关系问题去起卦
 ---
 

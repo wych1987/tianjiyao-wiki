@@ -9,9 +9,9 @@ cta_topic: yijing-travel
 seo_title: 六爻出行结果怎么看：旅行、搬家与调动能不能成行
 cta_heading: 出行迁移题先把当前计划问清，再去主站周易入口
 cta_description: 无论是出差、旅行、搬家还是异地发展，这类问题都更依赖眼前安排和接口条件。先带着具体计划去主站判断该怎么问；如果你还想先补起卦规则，也可以回六爻指南继续读。
-cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/liuyao-guide
+cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
 ---
 

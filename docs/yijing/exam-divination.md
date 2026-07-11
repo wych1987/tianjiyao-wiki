@@ -9,9 +9,9 @@ cta_topic: yijing-exam
 seo_title: 六爻考试结果怎么看：考试、录取与通知应期判断
 cta_heading: 考试录取题先把层次问清，再去主站周易入口
 cta_description: 这类问题的价值不在抽象地问我行不行，而在结合当次考试、申请材料、名额和出结果时间去看推进节奏。如果你还想先把题型和问法理顺，更适合先回知识库继续筛选。
-cta_primary_url: https://www.tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
 cta_primary_label: 去看周易起卦入口
-cta_secondary_url: https://www.tianjiyao.com/zh/learn
+cta_secondary_url: https://tianjiyao.com/zh/learn
 cta_secondary_label: 先回知识库
 ---
 

@@ -8,9 +8,9 @@ date: 2026-03-15
 cta_topic: ziwei-case-method
 cta_heading: 命例方法读完后，最该做的是回主站拿真实星盘练结构
 cta_description: 紫微最怕只背宫位和星曜，不回到真实命盘里练三方四正和四化主轴。下一步可以直接去主站做一轮读盘验证。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei
+cta_primary_url: https://tianjiyao.com/zh/ziwei
 cta_primary_label: 去主站做紫微排盘验证
-cta_secondary_url: https://www.tianjiyao.com/zh/hepan
+cta_secondary_url: https://tianjiyao.com/zh/hepan
 cta_secondary_label: 关系主题去做双盘比较
 ---
 

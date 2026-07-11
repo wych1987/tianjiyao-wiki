@@ -128,9 +128,9 @@ keywords:
 
 ### 外部轻量入口
 
-- [生辰八字精准分析](https://www.tianjiyao.com/zh/bazi) - 验证五行、十神与长期结构判断
-- [紫微斗数排盘](https://www.tianjiyao.com/zh/ziwei) - 验证宫位、星曜与结构场判断
-- [AI六爻排盘占卜](https://www.tianjiyao.com/zh/ai-divination) - 验证类象、事件与时机判断
+- [生辰八字精准分析](https://tianjiyao.com/zh/bazi) - 验证五行、十神与长期结构判断
+- [紫微斗数排盘](https://tianjiyao.com/zh/ziwei) - 验证宫位、星曜与结构场判断
+- [AI六爻排盘占卜](https://tianjiyao.com/zh/ai-divination) - 验证类象、事件与时机判断
 
 ---
 

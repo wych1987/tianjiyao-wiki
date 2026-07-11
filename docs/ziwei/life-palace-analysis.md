@@ -7,9 +7,9 @@ author: 紫微斗数研究团队
 date: 2026-03-15
 cta_heading: 想先看命宫身宫怎么读？直接去主站看命宫页
 cta_description: 这页负责讲命宫专题、命身关系和读盘起点；如果你已经排好盘，主站命宫身宫页更适合先看自己的落点，再回来补完整理论。
-cta_primary_url: https://www.tianjiyao.com/zh/ziwei/minggong
+cta_primary_url: https://tianjiyao.com/zh/ziwei/minggong
 cta_primary_label: 去看命宫身宫页
-cta_secondary_url: https://www.tianjiyao.com/zh/ziwei
+cta_secondary_url: https://tianjiyao.com/zh/ziwei
 cta_secondary_label: 先生成紫微命盘
 cta_topic: ziwei-life-palace
 ---

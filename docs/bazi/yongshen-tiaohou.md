@@ -8,9 +8,9 @@ date: 2026-03-15
 seo_title: 八字用神怎么看：喜用神、喜忌判断与调候通关
 cta_heading: 想先看自己的喜用神阅读顺序？直接去主站用神页
 cta_description: 这页负责讲用神、喜忌、调候和病药的完整理论；如果你想先快速看懂“用神怎么看”，主站用神页更适合先入门，再回来补完整框架。
-cta_primary_url: https://www.tianjiyao.com/zh/bazi/yongshen
+cta_primary_url: https://tianjiyao.com/zh/bazi/yongshen
 cta_primary_label: 去看用神详解页
-cta_secondary_url: https://www.tianjiyao.com/zh/bazi/geju
+cta_secondary_url: https://tianjiyao.com/zh/bazi/geju
 cta_secondary_label: 先看格局阅读顺序
 cta_topic: useful-elements
 ---

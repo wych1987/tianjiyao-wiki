@@ -127,8 +127,8 @@ AI 模块更适合回答“产品为什么这样设计”“哪些场景该谨�
 
 ### 外部体验入口
 
-- [天机爻主站](https://www.tianjiyao.com/zh) - 看真实产品、场景入口与当前功能分布
-- [AI六爻排盘占卜](https://www.tianjiyao.com/zh/ai-divination) - 直接体验 AI 在真实问题里的问答与占断链路
+- [天机爻主站](https://tianjiyao.com/zh) - 看真实产品、场景入口与当前功能分布
+- [AI六爻排盘占卜](https://tianjiyao.com/zh/ai-divination) - 直接体验 AI 在真实问题里的问答与占断链路
 
 ## 🎯 学习路径
 
