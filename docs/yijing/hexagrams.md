@@ -22,6 +22,59 @@ cta_topic: hexagram-index
 
 如果你想先按卦名快速查看白话解读，可以直接用 [主站易经64卦查询大全](https://tianjiyao.com/zh/64-gua)；如果你已经有具体问题，不只是查卦义，而是想判断事情怎么走，下一步更适合进入 [六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
 
+<div class="trigram-calc-widget" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 12px; background: #f8fafc; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  <div style="font-size: 1.15rem; font-weight: 700; color: #1e293b; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+    <span>⚡</span> 易经 64 卦快速配对推演器
+  </div>
+  <p style="font-size: 0.92rem; color: #64748b; margin-bottom: 20px; line-height: 1.6;">
+    上下两卦相重即成六十四卦。选定你的<strong>上卦（外卦）</strong>与<strong>下卦（内卦）</strong>，即可快速查阅对应卦名、卦象符号与白话解卦，并可直接深入查阅完整爻辞或在线起卦。
+  </p>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 20px;">
+    <div>
+      <label style="display: block; font-size: 0.88rem; font-weight: 600; color: #334155; margin-bottom: 6px;">上卦（外卦 / 悔）</label>
+      <select class="trigram-up-select" style="width: 100%; padding: 10px 12px; font-size: 0.95rem; border: 1px solid #cbd5e1; border-radius: 8px; background: #fff; color: #1e293b; outline: none;">
+        <option value="乾" selected>乾 ☰（天 / 阳金）</option>
+        <option value="坤">坤 ☷（地 / 阴土）</option>
+        <option value="震">震 ☳（雷 / 阳木）</option>
+        <option value="巽">巽 ☴（风 / 阴木）</option>
+        <option value="坎">坎 ☵（水 / 阳水）</option>
+        <option value="离">离 ☲（火 / 阴火）</option>
+        <option value="艮">艮 ☶（山 / 阳土）</option>
+        <option value="兑">兑 ☱（泽 / 阴金）</option>
+      </select>
+    </div>
+    <div>
+      <label style="display: block; font-size: 0.88rem; font-weight: 600; color: #334155; margin-bottom: 6px;">下卦（内卦 / 贞）</label>
+      <select class="trigram-down-select" style="width: 100%; padding: 10px 12px; font-size: 0.95rem; border: 1px solid #cbd5e1; border-radius: 8px; background: #fff; color: #1e293b; outline: none;">
+        <option value="乾" selected>乾 ☰（天 / 阳金）</option>
+        <option value="坤">坤 ☷（地 / 阴土）</option>
+        <option value="震">震 ☳（雷 / 阳木）</option>
+        <option value="巽">巽 ☴（风 / 阴木）</option>
+        <option value="坎">坎 ☵（水 / 阳水）</option>
+        <option value="离">离 ☲（火 / 阴火）</option>
+        <option value="艮">艮 ☶（山 / 阳土）</option>
+        <option value="兑">兑 ☱（泽 / 阴金）</option>
+      </select>
+    </div>
+  </div>
+
+  <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px; text-align: center;">
+    <div class="trigram-symbol" style="font-size: 3rem; line-height: 1; color: #4f46e5; margin-bottom: 10px;">䷀</div>
+    <div class="trigram-title" style="font-size: 1.25rem; font-weight: 700; color: #0f172a; margin-bottom: 8px;">第01卦 乾卦（乾為天）</div>
+    <div class="trigram-desc" style="font-size: 0.95rem; color: #475569; margin-bottom: 18px; line-height: 1.6;">元亨利贞。刚健笃实，自强不息，盛极当防亏。</div>
+    <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+      <a class="trigram-detail-link" href="https://tianjiyao.com/zh/64-gua/01-Qian" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #4f46e5; color: #ffffff; text-decoration: none; border-radius: 8px; font-size: 0.92rem; font-weight: 600;">
+        查看该卦白话详解与爻辞 →
+      </a>
+      <a href="https://tianjiyao.com/zh/zhouyi-divination" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #f1f5f9; color: #334155; text-decoration: none; border: 1px solid #cbd5e1; border-radius: 8px; font-size: 0.92rem; font-weight: 600;">
+        针对眼前问题在线起卦 →
+      </a>
+    </div>
+  </div>
+</div>
+<script src="/assets/js/hexagram-lookup.js" defer></script>
+
 ## 一、六十四卦的形成原理
 
 ### 八卦相重的数学原理
