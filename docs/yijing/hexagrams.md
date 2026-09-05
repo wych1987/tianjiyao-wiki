@@ -6,6 +6,7 @@ keywords: [ 六十四卦, 卦辞, 爻辞, 卦象, 卦义, 周易本义 ]
 author: 周易研究团队
 date: 2025-11-06
 seo_title: 易经64卦查询：六十四卦卦名、卦象与卦辞爻辞速查
+image: /assets/images/gua-64-v2-og.png
 cta_heading: 想直接查某一卦？先去主站 64 卦查询页
 cta_description: 这页适合系统查六十四卦的卦象和卦辞；如果你想先按卦名快速查白话解读，主站 64 卦查询页会更直接。
 cta_primary_url: https://tianjiyao.com/zh/64-gua
