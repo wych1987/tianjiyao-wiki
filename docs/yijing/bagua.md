@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 八卦图解与口诀速查：先天八卦、后天八卦方位图与乾坤六十四卦详解
-description: 提供先天八卦与后天八卦方位图解、卦象符号、八卦取象口诀（乾三连、坤六断）与五行属性对照表。适合快速查阅八卦基础结构，再进一步对照易经六十四卦与六爻解卦。
-keywords: [ 八卦, 八卦图, 先天八卦, 后天八卦, 八卦方位, 八卦口诀, 乾坤, 震巽, 坎离, 艮兑, 六十四卦 ]
+title: 八卦方位图解与取象口诀速查【高清对照表】先天八卦·后天八卦与六十四卦卦象详解
+description: 提供高清先天八卦与后天八卦方位对照图解、卦象符号对照表、八卦速记口诀（乾三连、坤六断）与五行属性。适合快速查询八卦基础，并可一键进入主站易经 64 卦与在线起卦深入推演。
+keywords: [ 八卦, 八卦图, 先天八卦, 后天八卦, 八卦方位, 八卦口诀, 乾坤, 震巽, 坎离, 艮兑, 六十四卦, 八卦对照表 ]
 author: 周易研究团队
-date: 2025-11-06
-seo_title: 八卦图解与口诀速查：先天八卦、后天八卦方位图与乾坤六十四卦详解
+date: 2026-09-14
+seo_title: 八卦方位图解与取象口诀速查【高清对照表】先天八卦·后天八卦与六十四卦卦象详解
 image: /assets/images/bagua-og.png
 cta_heading: 想把八卦和 64 卦连起来看？直接去主站查卦或在线起卦
 cta_description: 这页系统讲解先天八卦、后天八卦与卦象方位；如果你想从具体卦名或当前问题直接入手，主站 64 卦总览与六爻在线起卦更直接。
@@ -15,7 +15,16 @@ cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 直接去在线起卦
 ---
 
-# 八卦图解与口诀速查：先天八卦、后天八卦方位图与乾坤六十四卦详解
+# 八卦方位图解与取象口诀速查【高清对照表】先天八卦·后天八卦与六十四卦卦象详解
+
+<div style="margin: 16px 0 24px; padding: 14px 18px; border-radius: 10px; background: #eff6ff; border: 1px solid #bfdbfe; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px;">
+  <span style="font-size: 0.95rem; color: #1e40af; font-weight: 500;">💡 正在查找卦象或推演具体问题？可直接体验在线工具：</span>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <a href="https://tianjiyao.com/zh/64-gua" style="padding: 6px 14px; background: #2563eb; color: #fff; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">查 64 卦图解</a>
+    <a href="https://tianjiyao.com/zh/ai-divination" style="padding: 6px 14px; background: #fff; color: #2563eb; border: 1px solid #bfdbfe; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">六爻在线起卦</a>
+    <a href="https://tianjiyao.com/zh/free-fortune" style="padding: 6px 14px; background: #fff; color: #4b5563; border: 1px solid #d1d5db; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">免费在线算命</a>
+  </div>
+</div>
 
 > **八卦取象速记口诀**：  
 > **乾三连 (☰)**，**坤六断 (☷)**；**震仰盂 (☳)**，**艮覆碗 (☶)**；  
