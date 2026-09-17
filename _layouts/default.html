@@ -3,11 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% assign meta_title = page.seo_title | default: page.title | default: site.title %}
+    {% assign meta_title = page.seo_title | default: page.title %}
+    {% assign brand_suffix = site.short_title | default: '天机爻 Wiki' %}
+    {% if meta_title contains brand_suffix %}
+        {% assign full_title = meta_title %}
+    {% elsif page.path == 'index.md' %}
+        {% assign full_title = site.title %}
+    {% elsif meta_title %}
+        {% assign full_title = meta_title | append: ' | ' | append: brand_suffix %}
+    {% else %}
+        {% assign full_title = site.title %}
+    {% endif %}
     {% assign page_description = page.description | default: page.excerpt | strip_html | strip_newlines | truncate: 160 | default: site.description %}
-    <title>{{ meta_title }}</title>
+    <title>{{ full_title }}</title>
     <meta name="description" content="{{ page_description }}">
     <link rel="canonical" href="{{ page.url | absolute_url }}">
+    {% if page.faqs and page.faqs.size > 0 %}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {% for faq in page.faqs %}
+            {
+                "@type": "Question",
+                "name": {{ faq.question | jsonify }},
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": {{ faq.answer | jsonify }}
+                }
+            }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+        ]
+    }
+    </script>
+    {% endif %}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
     <style>
         :root {
