@@ -18,6 +18,7 @@
     "optimize-links": "node optimize-internal-links.js",
     "seo:normalize": "node tools/normalize-seo-frontmatter.js",
     "seo:anchors": "node tools/optimize-anchor-texts.js",
+    "audit:ctr": "node tools/audit-seo-ctr.js",
     "sitemap": "node generate-sitemap.js",
     "build:site": "cd docs && bundle install && bundle exec jekyll build",
     "build": "npm run sitemap && npm run build:site",

@@ -483,7 +483,7 @@ faqs:
 ## 📚 推荐延伸阅读
 
 - [十天干系统理论详解：从哲学基础到实践应用](./heavenly-stems.md)
-- [阴阳理论基础：平衡、转化与命理判断框架](./yinyang.md)
+- [阴阳理论基础：平衡、消长与命理判断框架](./yinyang.md)
 - [干支时空框架深度解析](./ganzhi-time-space-framework.md)
 - [五行生克与对应关系速查](./wuxing-correspondences.md)
 - [天机爻 Wiki 首页](../index.md)
