@@ -812,6 +812,14 @@
     <section class="page-header">
         <div class="project-name">{{ meta_title | default: site.title }}</div>
         <p class="project-tagline">{{ page_description }}</p>
+        {% unless page.hide_site_cta %}
+        <div class="page-header-cta" style="position: relative; z-index: 1; margin-top: 1.25rem; display: inline-flex; align-items: center; gap: 0.5rem; background: rgba(255, 247, 238, 0.16); border: 1px solid rgba(255, 247, 238, 0.28); padding: 0.45rem 1rem; border-radius: 9999px; font-size: 0.875rem;">
+            <span>💡 查阅知识前已有具体问题或出生时间？</span>
+            <a href="{{ cta_primary_url }}" target="_blank" rel="noopener" data-cta-role="primary" data-cta-slot="header-cta-primary" style="color: #fff7ee; font-weight: 600; text-decoration: underline; text-underline-offset: 3px;">
+                {{ cta_primary_label }} →
+            </a>
+        </div>
+        {% endunless %}
     </section>
 
     <!-- Main Content -->
