@@ -10,6 +10,7 @@ keywords:
   - AI命理分析
   - 传统玄学知识
   - 中国命理学
+date: 2026-11-18
 breadcrumbs:
   - name: 首页
     url: /
@@ -223,7 +224,7 @@ breadcrumbs:
 ### 📖 Wiki知识库价值
 本 Wiki 作为**天机爻官方知识库**，专注于系统教程、传统典籍脉络、分析方法拆解，以及对主站能力的理论支撑。
 
-💡 **完整体验**：[立即体验AI占卜服务](https://tianjiyao.com/zh) | [深入学习传统理论](/)
+💡 **完整体验**：[立即体验AI占卜服务](https://tianjiyao.com/zh) | [深入学习传统理论](theory/index.md)
 
 ## 📋 学习态度
 

@@ -10,7 +10,7 @@ cta_heading: 想先走一遍主站周易学习路线？直接去六爻指南
 cta_description: 这页负责整理八卦、断卦、应期和案例的完整路径；如果你想先从主站快速进入周易六爻学习主线，再回头按索引深读，六爻指南更适合先入门。
 cta_primary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_primary_label: 去看六爻指南
-cta_secondary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 直接进入周易起卦入口
 ---
 
@@ -18,7 +18,7 @@ cta_secondary_label: 直接进入周易起卦入口
 
 如果你主要是为了学六爻实战，建议把这条路线记住：八卦基础 → 起卦方法 → 纳甲装卦 → 类象落地 → 断卦规则 → 分类占断 → 应期训练。很多人学到中段会卡住，不是因为规则不够，而是不会把六亲、六神、世应和伏神真正落到现实事件里。
 
-如果你想先快速判断“周易和六爻应该从哪里开始学”，可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 看起卦、装卦和判断主线，再回来按这页安排完整阅读顺序；如果你已经准备带着具体问题进入实践，也可以直接去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
+如果你想先快速判断“周易和六爻应该从哪里开始学”，可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 看起卦、装卦和判断主线，再回来按这页安排完整阅读顺序；如果你已经准备带着具体问题进入实践，也可以直接去 [主站周易起卦入口](https://tianjiyao.com/zh/ai-divination)。
 
 这页会把六爻学习中心整理成一条更清楚的路径，帮助你从概念进入事件判断。
 
@@ -271,6 +271,7 @@ cta_secondary_label: 直接进入周易起卦入口
 
 **第三阶段（1-3年）**：
 系统研究易学流派、深入理解易学哲学
+形成个人理解体系、尝试实际应用指导
 
 ## 🔗 推荐联读
 
@@ -280,7 +281,6 @@ cta_secondary_label: 直接进入周易起卦入口
 - [宫位场域框架](../theory/palace-field-framework.md) - 帮助理解“世应与外部环境”也是一种场域关系
 - [八字命理学习中心](../bazi/index.md) - 补趋势与结构视角
 - [紫微斗数学习中心](../ziwei/index.md) - 补人格与宫位视角
-形成个人理解体系、尝试实际应用指导
 
 ## 七、六爻学习路线
 
@@ -318,10 +318,10 @@ cta_secondary_label: 直接进入周易起卦入口
 12. [六爻出行迁移占断](travel-divination.md)
 13. [六爻考试升学占断](exam-divination.md)
 14. [六爻应期判断](response-timing.md)
-14. [六爻应期案例专题](response-timing-cases.md)
-15. [卦象解读技巧](interpretation.md)
-16. [六爻实战案例](practical-cases.md)
-17. [六爻与周易常见问题](faq.md)
+15. [六爻应期案例专题](response-timing-cases.md)
+16. [卦象解读技巧](interpretation.md)
+17. [六爻实战案例](practical-cases.md)
+18. [六爻与周易常见问题](faq.md)
 
 ### 常见误区避免
 1. **迷信化**：将周易简单等同于算命工具
@@ -331,7 +331,7 @@ cta_secondary_label: 直接进入周易起卦入口
 
 《周易·系辞上传》提醒："仁者见之谓之仁，智者见之谓之智，百姓日用而不知。"学习周易应当保持理性态度和开放心态。
 
-## 七、参考资源
+## 八、参考资源
 
 ### 经典文献书目
 1. 《周易注》（王弼）

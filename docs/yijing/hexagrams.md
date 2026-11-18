@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 易经64卦全图解速查表：六十四卦卦名、卦象、卦辞爻辞与八宫世应
-seo_title: 易经64卦速查表：六十四卦卦象、卦辞爻辞与八宫归属全解
-description: 【易经64卦速查全解】完整收录周易六十四卦卦名卦象对照表、八宫归属（本宫/一至五世/游魂/归魂）、卦辞爻辞精解与上下经记忆口诀，支持按上下卦快速检索推演。
-keywords: [ 易经64卦速查表, 六十四卦卦象, 六十四卦卦辞爻辞, 八宫归属表, 64卦查询, 上下经卦序, 六爻世应规律 ]
+title: 六十四卦图表与图文详解：周易64卦八宫归属表、上下经卦序歌诀与世应速查
+seo_title: 六十四卦图表与图文详解：64卦八宫表、卦序口诀与卦辞速查
+description: 【六十四卦图表与图文详解】完整收录周易64卦卦象图对照表、京房八宫六十四卦归属表（本宫/一至五世/游魂/归魂）、上下经卦序记忆歌诀与卦辞爻辞精解，支持上下卦配对速查。
+keywords: [ 六十四卦, 六十四卦图表, 六十四卦图文详解, 易经64卦速查表, 周易64卦, 八宫六十四卦, 64卦查询, 上下经卦序, 六爻世应规律 ]
 author: 周易研究团队
 date: 2025-11-06
 faqs:
@@ -22,7 +22,7 @@ cta_heading: 想直接查某一卦？先去主站 64 卦查询页
 cta_description: 这页适合系统查六十四卦的卦象和卦辞；如果你想先按卦名快速查白话解读，主站 64 卦查询页会更直接。
 cta_primary_url: https://tianjiyao.com/zh/64-gua
 cta_primary_label: 去查 64 卦
-cta_secondary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 有问题就直接起卦
 cta_topic: hexagram-index
 ---
@@ -33,20 +33,20 @@ cta_topic: hexagram-index
 > 本文系统整理了**易经六十四卦八宫归属表**、**卦象卦辞白话全解**、**上下经演化顺序**与**上下卦速配查询工具**。适合在研读易理、查验卦辞或六爻装卦推演世应时作为高频速查工具。
 
 
-如果你想先按卦名快速查看白话解读，可以直接用 [主站易经64卦查询大全](https://tianjiyao.com/zh/64-gua)；如果你已经有具体问题，不只是查卦义，而是想判断事情怎么走，下一步更适合进入 [六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
+如果你想先按卦名快速查看白话解读，可以直接用 [主站易经64卦查询大全](https://tianjiyao.com/zh/64-gua)；如果你已经有具体问题，不只是查卦义，而是想判断事情怎么走，下一步更适合进入 [六爻在线起卦入口](https://tianjiyao.com/zh/ai-divination)。
 
-<div class="trigram-calc-widget" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 12px; background: #f8fafc; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
-  <div style="font-size: 1.15rem; font-weight: 700; color: #1e293b; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+<div class="trigram-calc-widget">
+  <div class="trigram-calc-widget__title">
     <span>⚡</span> 易经 64 卦快速配对推演器
   </div>
-  <p style="font-size: 0.92rem; color: #64748b; margin-bottom: 20px; line-height: 1.6;">
+  <p class="trigram-calc-widget__desc">
     上下两卦相重即成六十四卦。选定你的<strong>上卦（外卦）</strong>与<strong>下卦（内卦）</strong>，即可快速查阅对应卦名、卦象符号与白话解卦，并可直接深入查阅完整爻辞或在线起卦。
   </p>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 20px;">
+  <div class="trigram-calc-grid">
     <div>
-      <label style="display: block; font-size: 0.88rem; font-weight: 600; color: #334155; margin-bottom: 6px;">上卦（外卦 / 悔）</label>
-      <select class="trigram-up-select" style="width: 100%; padding: 10px 12px; font-size: 0.95rem; border: 1px solid #cbd5e1; border-radius: 8px; background: #fff; color: #1e293b; outline: none;">
+      <label class="trigram-calc-label">上卦（外卦 / 悔）</label>
+      <select class="trigram-up-select trigram-calc-select">
         <option value="乾" selected>乾 ☰（天 / 阳金）</option>
         <option value="坤">坤 ☷（地 / 阴土）</option>
         <option value="震">震 ☳（雷 / 阳木）</option>
@@ -58,8 +58,8 @@ cta_topic: hexagram-index
       </select>
     </div>
     <div>
-      <label style="display: block; font-size: 0.88rem; font-weight: 600; color: #334155; margin-bottom: 6px;">下卦（内卦 / 贞）</label>
-      <select class="trigram-down-select" style="width: 100%; padding: 10px 12px; font-size: 0.95rem; border: 1px solid #cbd5e1; border-radius: 8px; background: #fff; color: #1e293b; outline: none;">
+      <label class="trigram-calc-label">下卦（内卦 / 贞）</label>
+      <select class="trigram-down-select trigram-calc-select">
         <option value="乾" selected>乾 ☰（天 / 阳金）</option>
         <option value="坤">坤 ☷（地 / 阴土）</option>
         <option value="震">震 ☳（雷 / 阳木）</option>
@@ -72,15 +72,15 @@ cta_topic: hexagram-index
     </div>
   </div>
 
-  <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px; text-align: center;">
-    <div class="trigram-symbol" style="font-size: 3rem; line-height: 1; color: #4f46e5; margin-bottom: 10px;">䷀</div>
-    <div class="trigram-title" style="font-size: 1.25rem; font-weight: 700; color: #0f172a; margin-bottom: 8px;">第01卦 乾卦（乾為天）</div>
-    <div class="trigram-desc" style="font-size: 0.95rem; color: #475569; margin-bottom: 18px; line-height: 1.6;">元亨利贞。刚健笃实，自强不息，盛极当防亏。</div>
-    <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-      <a class="trigram-detail-link" href="https://tianjiyao.com/zh/64-gua/01-Qian" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #4f46e5; color: #ffffff; text-decoration: none; border-radius: 8px; font-size: 0.92rem; font-weight: 600;">
+  <div class="trigram-calc-result">
+    <div class="trigram-symbol">䷀</div>
+    <div class="trigram-title">第01卦 乾卦（乾為天）</div>
+    <div class="trigram-desc">元亨利贞。刚健笃实，自强不息，盛极当防亏。</div>
+    <div class="trigram-calc-actions">
+      <a class="trigram-btn trigram-detail-link" href="https://tianjiyao.com/zh/64-gua/01-Qian" target="_blank" rel="noopener noreferrer">
         查看该卦白话详解与爻辞 →
       </a>
-      <a href="https://tianjiyao.com/zh/zhouyi-divination" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #f1f5f9; color: #334155; text-decoration: none; border: 1px solid #cbd5e1; border-radius: 8px; font-size: 0.92rem; font-weight: 600;">
+      <a class="trigram-btn trigram-secondary-link" href="https://tianjiyao.com/zh/ai-divination" target="_blank" rel="noopener noreferrer">
         针对眼前问题在线起卦 →
       </a>
     </div>
@@ -92,7 +92,7 @@ cta_topic: hexagram-index
 
 ### 八卦相重的数学原理
 
-六十四卦的形成基于"八卦相重"的基本原理。《周易·系辞传》云："八卦成列，象在其中矣；因而重之，爻在其中矣。"八卦（乾☰、坤☷、震☳、艮☶、离☲、坎☵、兑☴、巽☴）两两相重，形成六十四卦。
+六十四卦的形成基于"八卦相重"的基本原理。《周易·系辞传》云："八卦成列，象在其中矣；因而重之，爻在其中矣。"八卦（乾☰、坤☷、震☳、艮☶、离☲、坎☵、兑☱、巽☴）两两相重，形成六十四卦。
 
 数学上，这是排列组合的完美体现：8×8=64。每个六画卦由上下两个三画卦组成，上卦称为"悔卦"或"外卦"，下卦称为"贞卦"或"内卦"。如"水雷屯"卦，上卦为坎☵（水），下卦为震☳（雷）。
 

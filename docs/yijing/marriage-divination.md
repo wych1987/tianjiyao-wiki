@@ -9,7 +9,7 @@ cta_topic: relationship
 seo_title: 六爻婚姻感情怎么看：复合、结婚、分开与世应官财判断
 cta_heading: 想直接问关系题？去主站带着当前问题在线起卦
 cta_description: 这页负责讲感情题的用神、世应、干扰爻和应期；如果你已经有明确对象和当前阶段，主站周易入口更适合先判断。想先看别人怎么拆关系题，也可以先去关系案例页。
-cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/ai-divination
 cta_primary_label: 去在线判断关系题
 cta_secondary_url: https://tianjiyao.com/zh/blog/love-relationships-i-ching
 cta_secondary_label: 先看关系案例
@@ -19,7 +19,7 @@ cta_secondary_label: 先看关系案例
 
 婚姻感情类问题，是六爻实战中最常见、也最容易误判的一类。原因不在于规则不够，而在于关系问题天然复杂，既有主观情绪，也有现实条件，还常常夹杂第三方因素、时间差和反复试探。
 
-如果你想先快速判断“复合、结婚、分开这类关系题该怎么问、该先看接口还是结果”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补关系题的判断框架；如果你想先看别人怎么拆关系案例，也可以先去 [关系场景案例页](https://tianjiyao.com/zh/blog/love-relationships-i-ching)。
+如果你想先快速判断“复合、结婚、分开这类关系题该怎么问、该先看接口还是结果”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/ai-divination) 收敛问题，再回来补关系题的判断框架；如果你想先看别人怎么拆关系案例，也可以先去 [关系场景案例页](https://tianjiyao.com/zh/blog/love-relationships-i-ching)。
 
 《增删卜易》重用神，《卜筮正宗》善分类，《易隐》强调神机流动。落实到婚姻卦中，可以归纳成一句话：先看有没有对象与关系基础，再看双方能否对接，最后判断成败、变数和时间。
 

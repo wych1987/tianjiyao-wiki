@@ -7,12 +7,47 @@
 
 const fs = require('fs');
 const path = require('path');
+const { execFileSync } = require('child_process');
 const glob = require('glob');
+const yaml = require('yaml');
 
 const SITE_URL = 'https://wiki.tianjiyao.com';
 const DOCS_DIR = path.join(__dirname, 'docs');
 const DOCS_SITEMAP_PATH = path.join(DOCS_DIR, 'sitemap.xml');
 const ROOT_SITEMAP_PATH = path.join(__dirname, 'sitemap.xml');
+
+function getLastMod(file, filePath) {
+  try {
+    const gitDate = execFileSync(
+      'git',
+      ['log', '-1', '--format=%cs', '--', `docs/${file}`],
+      { cwd: __dirname, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] }
+    ).trim();
+    if (/^\d{4}-\d{2}-\d{2}$/.test(gitDate)) {
+      return gitDate;
+    }
+  } catch (_) {
+    // fallback below
+  }
+
+  try {
+    const raw = fs.readFileSync(filePath, 'utf8');
+    const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+    if (match) {
+      const fm = yaml.parse(match[1]) || {};
+      if (fm.date) {
+        const d = new Date(fm.date);
+        if (!Number.isNaN(d.getTime())) {
+          return d.toISOString().split('T')[0];
+        }
+      }
+    }
+  } catch (_) {
+    // fallback below
+  }
+
+  return fs.statSync(filePath).mtime.toISOString().split('T')[0];
+}
 
 // 获取所有markdown文件
 const files = glob.sync('**/*.md', {
@@ -26,8 +61,7 @@ const pageEntries = files.map(file => {
     ? ''
     : htmlPath.replace(/\/index\.html$/, '/');
   const filePath = path.join(DOCS_DIR, file);
-  const stats = fs.statSync(filePath);
-  const lastmod = stats.mtime.toISOString().split('T')[0];
+  const lastmod = getLastMod(file, filePath);
   
   // 根据文件路径判断优先级
   let priority = '0.5';

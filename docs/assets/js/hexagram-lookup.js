@@ -90,6 +90,9 @@
         titleEl.textContent = "第" + numStr + "卦 " + item.name + "（" + item.subtitle + "）";
         descEl.textContent = item.desc;
         detailLink.href = "https://tianjiyao.com/zh/64-gua/" + item.slug;
+        if (typeof window.decorateTianjiyaoLinks === "function") {
+          window.decorateTianjiyaoLinks(widget);
+        }
       }
 
       upSelect.addEventListener("change", update);

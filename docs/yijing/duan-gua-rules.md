@@ -10,7 +10,7 @@ cta_heading: 想先把六爻断卦顺序看清？直接去主站六爻指南
 cta_description: 这页负责讲完整的断卦核心法则；如果你想先快速理解六爻怎么取用神、怎么看旺衰和判断顺序，主站六爻指南更适合先入门。
 cta_primary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_primary_label: 去看六爻指南
-cta_secondary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 直接在线起卦
 cta_topic: duan-gua-rules
 ---
@@ -19,7 +19,7 @@ cta_topic: duan-gua-rules
 
 六爻真正难的不是起卦，而是判断时如何抓主线。专业断卦通常都遵循一个固定顺序：先定用神，再看旺衰，再查动变，最后推事件性质与应期。顺序一乱，判断就容易被枝节带偏。
 
-如果你想先快速弄清“六爻断卦先看什么、后看什么”，可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 看起卦、装卦、动爻、用神和判断顺序，再回来补完整的断卦规则；如果你已经有明确问题，也可以直接进入 [六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
+如果你想先快速弄清“六爻断卦先看什么、后看什么”，可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 看起卦、装卦、动爻、用神和判断顺序，再回来补完整的断卦规则；如果你已经有明确问题，也可以直接进入 [六爻在线起卦入口](https://tianjiyao.com/zh/ai-divination)。
 
 ## 一、断卦的基本顺序
 

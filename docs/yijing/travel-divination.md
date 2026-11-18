@@ -9,7 +9,7 @@ cta_topic: yijing-travel
 seo_title: 六爻出行结果怎么看：旅行、搬家与调动能不能成行
 cta_heading: 出行迁移题先把当前计划问清，再去主站周易入口
 cta_description: 无论是出差、旅行、搬家还是异地发展，这类问题都更依赖眼前安排和接口条件。先带着具体计划去主站判断该怎么问；如果你还想先补起卦规则，也可以回六爻指南继续读。
-cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/ai-divination
 cta_primary_label: 去看周易起卦入口
 cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
@@ -19,7 +19,7 @@ cta_secondary_label: 先看六爻指南
 
 出行迁移类问题，在六爻中最容易被误判成“动就凶，静就吉”。其实正相反，这类问题的核心往往在于“动得成不成、动得顺不顺、动了之后有没有承接”。对旅行、出差、搬家、岗位调动、异地发展来说，冲与动很多时候恰恰是必要条件。
 
-如果你想先快速判断“这次该先问能不能成行、先问手续，还是先问到了以后稳不稳”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补出行卦结构；如果你还想先把起卦和断卦顺序读明白，也可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
+如果你想先快速判断“这次该先问能不能成行、先问手续，还是先问到了以后稳不稳”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/ai-divination) 收敛问题，再回来补出行卦结构；如果你还想先把起卦和断卦顺序读明白，也可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
 
 因此，出行卦判断时，不是先问吉凶，而是先问三个问题：
 

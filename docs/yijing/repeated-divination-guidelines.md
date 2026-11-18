@@ -15,7 +15,7 @@ cta_topic: yijing-question-guidelines
 cta_mode: light
 cta_heading: 想先把题目问对？直接去主站周易入口
 cta_description: 六爻对具体事件很敏感，但前提是问题单一、对象明确、时间范围清楚。先在主站入口把问题收敛好，再去起卦，会比反复重问更有效。
-cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/ai-divination
 cta_primary_label: 去看周易起卦入口
 cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
@@ -25,7 +25,7 @@ cta_secondary_label: 先看六爻指南
 
 很多人不是不会起卦，而是在真正发问之前，没有把问题收敛好，最后落成了重复问卦。
 
-如果你想先快速判断“这题该怎么问、现在该不该起卦、是不是已经算重复问卦”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛题目，再回来补一事一卦和重复问卦边界；如果你还没把六爻起卦与判断顺序理清，也可以先读 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
+如果你想先快速判断“这题该怎么问、现在该不该起卦、是不是已经算重复问卦”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/ai-divination) 收敛题目，再回来补一事一卦和重复问卦边界；如果你还没把六爻起卦与判断顺序理清，也可以先读 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
 
 最常见的情况有三种：
 

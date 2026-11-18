@@ -30,7 +30,6 @@ social:
 # Navigation
 plugins:
   - jekyll-relative-links
-  - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
 
@@ -42,7 +41,7 @@ relative_links:
 seo:
   type: Organization
   name: 天机爻
-  logo: /assets/images/logo.png
+  logo: /apple-touch-icon.png
 
 # Feed Configuration
 feed:

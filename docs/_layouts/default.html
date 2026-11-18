@@ -338,9 +338,10 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
     
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
+    <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
     
     <!-- Google Analytics 4 - Head Section -->
     {% if site.google_analytics %}
@@ -354,7 +355,6 @@
     {% endif %}
     
     <!-- Theme CSS from CDN -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
     <link rel="stylesheet" href="https://pages-themes.github.io/cayman/assets/css/style.css">
     
     <!-- Custom CSS -->
@@ -620,6 +620,12 @@
             background-color: rgba(217, 201, 175, 0.88);
         }
 
+        .main-content table {
+            display: block;
+            width: 100%;
+            overflow-x: auto;
+        }
+
         .main-content table th {
             color: var(--wiki-text);
             background: var(--wiki-surface-strong);
@@ -642,6 +648,191 @@
         .main-content img {
             border-radius: 18px;
             box-shadow: 0 16px 36px rgba(64, 1, 1, 0.08);
+        }
+
+        /* Callout banner & interactive trigram lookup widget */
+        .wiki-callout-bar {
+            margin: 1rem 0 1.5rem;
+            padding: 0.9rem 1.15rem;
+            border-radius: 14px;
+            background: linear-gradient(135deg, rgba(255, 249, 242, 0.96) 0%, rgba(243, 231, 215, 0.85) 100%);
+            border: 1px solid var(--wiki-border-strong);
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            gap: 0.75rem;
+        }
+
+        .wiki-callout-bar__text {
+            font-size: 0.95rem;
+            color: var(--wiki-text);
+            font-weight: 600;
+        }
+
+        .wiki-callout-bar__actions {
+            display: flex;
+            gap: 0.6rem;
+            flex-wrap: wrap;
+        }
+
+        .wiki-callout-btn {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.42rem 0.95rem;
+            border-radius: 999px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            text-decoration: none;
+            border: 1px solid var(--wiki-border-strong);
+            background: var(--wiki-surface);
+            color: var(--wiki-accent-strong);
+        }
+
+        .wiki-callout-btn:hover {
+            background: var(--wiki-accent-soft);
+            color: var(--wiki-highlight);
+            text-decoration: none;
+        }
+
+        .wiki-callout-btn--primary {
+            background: var(--wiki-highlight);
+            border-color: var(--wiki-highlight);
+            color: #fff9f2 !important;
+        }
+
+        .wiki-callout-btn--primary:hover {
+            background: var(--wiki-highlight-strong);
+            border-color: var(--wiki-highlight-strong);
+            color: #fffdf9 !important;
+        }
+
+        .trigram-calc-widget {
+            margin: 1.75rem 0;
+            padding: 1.5rem;
+            border: 1px solid var(--wiki-border-strong);
+            border-radius: 18px;
+            background: linear-gradient(135deg, rgba(255, 253, 249, 0.98) 0%, rgba(247, 242, 232, 0.9) 100%);
+            box-shadow: 0 12px 28px rgba(64, 1, 1, 0.06);
+        }
+
+        .trigram-calc-widget__title {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--wiki-text);
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .trigram-calc-widget__desc {
+            font-size: 0.92rem;
+            color: var(--wiki-muted);
+            margin-bottom: 1.25rem;
+            line-height: 1.65;
+        }
+
+        .trigram-calc-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1.25rem;
+        }
+
+        .trigram-calc-label {
+            display: block;
+            font-size: 0.88rem;
+            font-weight: 600;
+            color: var(--wiki-accent-strong);
+            margin-bottom: 0.35rem;
+        }
+
+        .trigram-calc-select {
+            width: 100%;
+            padding: 0.6rem 0.75rem;
+            font-size: 0.95rem;
+            border: 1px solid var(--wiki-border-strong);
+            border-radius: 10px;
+            background: var(--wiki-surface);
+            color: var(--wiki-text);
+            outline: none;
+        }
+
+        .trigram-calc-select:focus {
+            border-color: var(--wiki-highlight);
+            box-shadow: 0 0 0 3px var(--wiki-highlight-soft);
+        }
+
+        .trigram-calc-result {
+            background: var(--wiki-surface);
+            border: 1px solid var(--wiki-border);
+            border-radius: 14px;
+            padding: 1.25rem;
+            text-align: center;
+        }
+
+        .trigram-symbol {
+            font-size: 3rem;
+            line-height: 1;
+            color: var(--wiki-highlight);
+            margin-bottom: 0.6rem;
+        }
+
+        .trigram-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--wiki-text);
+            margin-bottom: 0.5rem;
+        }
+
+        .trigram-desc {
+            font-size: 0.95rem;
+            color: var(--wiki-muted);
+            margin-bottom: 1.1rem;
+            line-height: 1.65;
+        }
+
+        .trigram-calc-actions {
+            display: flex;
+            gap: 0.75rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .trigram-btn {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.6rem 1.25rem;
+            border-radius: 999px;
+            font-size: 0.92rem;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .trigram-detail-link {
+            background: var(--wiki-highlight);
+            color: #fff9f2 !important;
+            border: 1px solid var(--wiki-highlight);
+        }
+
+        .trigram-detail-link:hover {
+            background: var(--wiki-highlight-strong);
+            border-color: var(--wiki-highlight-strong);
+            color: #fffdf9 !important;
+            text-decoration: none;
+        }
+
+        .trigram-secondary-link {
+            background: var(--wiki-accent-soft);
+            color: var(--wiki-accent-strong) !important;
+            border: 1px solid var(--wiki-border-strong);
+        }
+
+        .trigram-secondary-link:hover {
+            background: var(--wiki-surface-strong);
+            color: var(--wiki-highlight) !important;
+            text-decoration: none;
         }
 
         .site-cta {
@@ -794,6 +985,8 @@
                 <li><a href="{{ '/bazi/' | relative_url }}">八字命理</a></li>
                 <li><a href="{{ '/ziwei/' | relative_url }}">紫微斗数</a></li>
                 <li><a href="{{ '/yijing/' | relative_url }}">周易八卦</a></li>
+                <li><a href="{{ '/theory/' | relative_url }}">理论基础</a></li>
+                <li><a href="{{ '/practice/' | relative_url }}">实践指南</a></li>
                 <li><a href="{{ '/ai/' | relative_url }}">AI玄学</a></li>
                 <li><a href="https://tianjiyao.com/zh" target="_blank" rel="noopener" data-cta-slot="nav-main-site">天机爻主站 ↗</a></li>
             </ul>
@@ -943,16 +1136,25 @@
                 });
             }
 
-            document.querySelectorAll('a[href]').forEach(function (link) {
-                if (!isMainSiteLink(link)) {
-                    return;
-                }
+            function decorateLinks(root) {
+                var container = root || document;
+                container.querySelectorAll('a[href]').forEach(function (link) {
+                    if (!isMainSiteLink(link)) {
+                        return;
+                    }
 
-                decorateLink(link);
-                link.addEventListener('click', function () {
-                    trackLinkClick(link);
+                    decorateLink(link);
+                    if (!link.dataset.wikiTracked) {
+                        link.dataset.wikiTracked = '1';
+                        link.addEventListener('click', function () {
+                            trackLinkClick(link);
+                        });
+                    }
                 });
-            });
+            }
+
+            window.decorateTianjiyaoLinks = decorateLinks;
+            decorateLinks(document);
         })();
     </script>
     

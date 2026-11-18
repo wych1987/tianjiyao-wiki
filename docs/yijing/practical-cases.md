@@ -10,13 +10,13 @@ cta_heading: 想先找接近自己的案例？直接去主站案例库
 cta_description: 这页负责讲完整的六爻实战案例；如果你想先按关系、职业、时间判断这些场景找案例入口，再决定读哪类案例或直接开始自己的问题，主站案例库更适合先进入。
 cta_primary_url: https://tianjiyao.com/zh/cases
 cta_primary_label: 去看主站案例库
-cta_secondary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 直接进入周易起卦入口
 ---
 
 # 六爻实战案例怎么看：真实起卦、断卦与反馈验证
 
-如果你想先弄清“六爻实战案例应该怎么读、先看哪类案例更接近自己的问题”，可以先去 [主站案例库](https://tianjiyao.com/zh/cases) 看不同场景的案例入口，再回来细读完整实战案例；如果你已经有明确问题，也可以直接进入 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
+如果你想先弄清“六爻实战案例应该怎么读、先看哪类案例更接近自己的问题”，可以先去 [主站案例库](https://tianjiyao.com/zh/cases) 看不同场景的案例入口，再回来细读完整实战案例；如果你已经有明确问题，也可以直接进入 [主站周易起卦入口](https://tianjiyao.com/zh/ai-divination)。
 
 ## 第一章 婚姻感情类案例
 

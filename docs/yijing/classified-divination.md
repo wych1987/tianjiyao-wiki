@@ -9,7 +9,7 @@ seo_title: 六爻分类占断怎么看：婚姻、求财、事业、疾病的取
 cta_topic: yijing-classified
 cta_heading: 想先判断这题该怎么起卦？直接去主站六爻入口
 cta_description: 婚姻、求财、事业、疾病这些题目，真正有价值的是先把问题收敛成一件事，再带入真实卦象验证。主站周易入口更适合先判断当前问题该怎么进入。
-cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/ai-divination
 cta_primary_label: 去看六爻起卦入口
 cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
@@ -19,7 +19,7 @@ cta_secondary_label: 先看六爻指南
 
 六爻之学，难在“同一套装卦结构，要对应不同问题”。起卦装卦只是共同底盘，真正体现断卦水平的，是面对不同占题时能否迅速抓住正确用神、主次关系与判断顺序。
 
-如果你想先快速判断“这类题目该怎么问、该直接起卦还是先看方法”，可以先去 [主站六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补分类占断框架；如果你还没把起卦、装卦和用神顺序理清，也可以先读 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
+如果你想先快速判断“这类题目该怎么问、该直接起卦还是先看方法”，可以先去 [主站六爻在线起卦入口](https://tianjiyao.com/zh/ai-divination) 收敛问题，再回来补分类占断框架；如果你还没把起卦、装卦和用神顺序理清，也可以先读 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide)。
 
 《增删卜易》重在用神，《卜筮正宗》长于分类占断，《易隐》则重视神机与变通。若把这三类思路综合起来，分类占断可以归结为一句话：先辨题目，再立主神，后看成败，最后推应期。
 

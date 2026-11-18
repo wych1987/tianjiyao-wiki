@@ -26,12 +26,12 @@ cta_secondary_label: 直接去在线起卦
 
 # 八卦图解大全：先天八卦与后天八卦方位图、取象口诀与五行对照表
 
-<div style="margin: 16px 0 24px; padding: 14px 18px; border-radius: 10px; background: #eff6ff; border: 1px solid #bfdbfe; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px;">
-  <span style="font-size: 0.95rem; color: #1e40af; font-weight: 500;">💡 正在查找卦象或推演具体问题？可直接体验在线工具：</span>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <a href="https://tianjiyao.com/zh/64-gua" style="padding: 6px 14px; background: #2563eb; color: #fff; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">查 64 卦图解</a>
-    <a href="https://tianjiyao.com/zh/ai-divination" style="padding: 6px 14px; background: #fff; color: #2563eb; border: 1px solid #bfdbfe; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">六爻在线起卦</a>
-    <a href="https://tianjiyao.com/zh/free-fortune" style="padding: 6px 14px; background: #fff; color: #4b5563; border: 1px solid #d1d5db; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">免费在线算命</a>
+<div class="wiki-callout-bar">
+  <span class="wiki-callout-bar__text">💡 正在查找卦象或推演具体问题？可直接体验在线工具：</span>
+  <div class="wiki-callout-bar__actions">
+    <a class="wiki-callout-btn wiki-callout-btn--primary" href="https://tianjiyao.com/zh/64-gua" target="_blank" rel="noopener">查 64 卦图解</a>
+    <a class="wiki-callout-btn" href="https://tianjiyao.com/zh/ai-divination" target="_blank" rel="noopener">六爻在线起卦</a>
+    <a class="wiki-callout-btn" href="https://tianjiyao.com/zh" target="_blank" rel="noopener">访问天机爻主站</a>
   </div>
 </div>
 
@@ -44,18 +44,18 @@ cta_secondary_label: 直接去在线起卦
 
 如果你想先弄清“先天八卦、后天八卦、卦数和 64 卦是什么关系”，可以先去 [主站 64 卦总览](https://tianjiyao.com/zh/64-gua) 看卦名、卦象和白话解读，再回来补八卦的底层结构；如果你遇到具体事情想推演卦象，也可以直接使用 [六爻在线起卦](https://tianjiyao.com/zh/ai-divination)。
 
-<div class="trigram-calc-widget" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 12px; background: #f8fafc; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
-  <div style="font-size: 1.15rem; font-weight: 700; color: #1e293b; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+<div class="trigram-calc-widget">
+  <div class="trigram-calc-widget__title">
     <span>⚡</span> 易经 64 卦快速配对推演器
   </div>
-  <p style="font-size: 0.92rem; color: #64748b; margin-bottom: 20px; line-height: 1.6;">
+  <p class="trigram-calc-widget__desc">
     上下两卦相重即成六十四卦。选定你的<strong>上卦（外卦）</strong>与<strong>下卦（内卦）</strong>，即可快速查阅对应卦名、卦象符号与白话解卦，并可直接深入查阅完整爻辞或在线起卦。
   </p>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 20px;">
+  <div class="trigram-calc-grid">
     <div>
-      <label style="display: block; font-size: 0.88rem; font-weight: 600; color: #334155; margin-bottom: 6px;">上卦（外卦 / 悔）</label>
-      <select class="trigram-up-select" style="width: 100%; padding: 10px 12px; font-size: 0.95rem; border: 1px solid #cbd5e1; border-radius: 8px; background: #fff; color: #1e293b; outline: none;">
+      <label class="trigram-calc-label">上卦（外卦 / 悔）</label>
+      <select class="trigram-up-select trigram-calc-select">
         <option value="乾" selected>乾 ☰（天 / 阳金）</option>
         <option value="坤">坤 ☷（地 / 阴土）</option>
         <option value="震">震 ☳（雷 / 阳木）</option>
@@ -67,8 +67,8 @@ cta_secondary_label: 直接去在线起卦
       </select>
     </div>
     <div>
-      <label style="display: block; font-size: 0.88rem; font-weight: 600; color: #334155; margin-bottom: 6px;">下卦（内卦 / 贞）</label>
-      <select class="trigram-down-select" style="width: 100%; padding: 10px 12px; font-size: 0.95rem; border: 1px solid #cbd5e1; border-radius: 8px; background: #fff; color: #1e293b; outline: none;">
+      <label class="trigram-calc-label">下卦（内卦 / 贞）</label>
+      <select class="trigram-down-select trigram-calc-select">
         <option value="乾" selected>乾 ☰（天 / 阳金）</option>
         <option value="坤">坤 ☷（地 / 阴土）</option>
         <option value="震">震 ☳（雷 / 阳木）</option>
@@ -81,15 +81,15 @@ cta_secondary_label: 直接去在线起卦
     </div>
   </div>
 
-  <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px; text-align: center;">
-    <div class="trigram-symbol" style="font-size: 3rem; line-height: 1; color: #4f46e5; margin-bottom: 10px;">䷀</div>
-    <div class="trigram-title" style="font-size: 1.25rem; font-weight: 700; color: #0f172a; margin-bottom: 8px;">第01卦 乾卦（乾為天）</div>
-    <div class="trigram-desc" style="font-size: 0.95rem; color: #475569; margin-bottom: 18px; line-height: 1.6;">元亨利贞。刚健笃实，自强不息，盛极当防亏。</div>
-    <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-      <a class="trigram-detail-link" href="https://tianjiyao.com/zh/64-gua/01-Qian" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #4f46e5; color: #ffffff; text-decoration: none; border-radius: 8px; font-size: 0.92rem; font-weight: 600;">
+  <div class="trigram-calc-result">
+    <div class="trigram-symbol">䷀</div>
+    <div class="trigram-title">第01卦 乾卦（乾為天）</div>
+    <div class="trigram-desc">元亨利贞。刚健笃实，自强不息，盛极当防亏。</div>
+    <div class="trigram-calc-actions">
+      <a class="trigram-btn trigram-detail-link" href="https://tianjiyao.com/zh/64-gua/01-Qian" target="_blank" rel="noopener noreferrer">
         查看该卦白话详解与爻辞 →
       </a>
-      <a href="https://tianjiyao.com/zh/zhouyi-divination" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #f1f5f9; color: #334155; text-decoration: none; border: 1px solid #cbd5e1; border-radius: 8px; font-size: 0.92rem; font-weight: 600;">
+      <a class="trigram-btn trigram-secondary-link" href="https://tianjiyao.com/zh/ai-divination" target="_blank" rel="noopener noreferrer">
         针对眼前问题在线起卦 →
       </a>
     </div>

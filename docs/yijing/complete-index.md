@@ -11,7 +11,7 @@ cta_heading: 想先把六爻学习顺序走一遍？直接去主站六爻指南
 cta_description: 这页负责整理六爻模块目录；如果你想先看起卦、装卦、断卦和分类占断的主线顺序，主站六爻指南更适合先入门，再回来按索引深读。
 cta_primary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_primary_label: 去看六爻指南
-cta_secondary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 直接在线起卦
 ---
 
@@ -19,7 +19,7 @@ cta_secondary_label: 直接在线起卦
 
 如果你进入六爻模块后，已经知道内容不算少，但又不确定该先看起卦、装卦、断卦、分类占断还是应期，那么最省时间的方式不是逐页跳，而是先用这张完整索引把顺序理清。
 
-如果你想先弄清“六爻入门先看什么、先起卦还是先学断卦顺序”，可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 看起卦、装卦、动爻和判断主线，再回来按这张索引补完整方法；如果你已经有明确问题，也可以直接进入 [六爻在线起卦入口](https://tianjiyao.com/zh/zhouyi-divination)。
+如果你想先弄清“六爻入门先看什么、先起卦还是先学断卦顺序”，可以先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 看起卦、装卦、动爻和判断主线，再回来按这张索引补完整方法；如果你已经有明确问题，也可以直接进入 [六爻在线起卦入口](https://tianjiyao.com/zh/ai-divination)。
 
 这页把六爻模块现有内容按“基础概念 → 核心方法 → 分类占断 → 应期与实战 → FAQ 与延伸”的方式重新组织，目标是让你知道每一页为什么要放在那个位置。
 

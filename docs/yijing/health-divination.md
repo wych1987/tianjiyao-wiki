@@ -10,7 +10,7 @@ cta_topic: health-boundary
 seo_title: 六爻健康问题怎么看：疾病、检查与恢复节奏的辅助观察
 cta_heading: 健康题先判断边界，再决定是否进入周易辅助观察
 cta_description: 如果你只是想辅助观察恢复节奏、检查节点或风险轻重，可以先去主站周易入口收敛问题；涉及病名、用药、手术和急症时，仍应优先听从医生建议，不把占断当诊疗。
-cta_primary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_primary_url: https://tianjiyao.com/zh/ai-divination
 cta_primary_label: 去看周易起卦入口
 cta_secondary_url: https://tianjiyao.com/zh/liuyao-guide
 cta_secondary_label: 先看六爻指南
@@ -20,7 +20,7 @@ cta_secondary_label: 先看六爻指南
 
 疾病卦是六爻中最需要克制和边界感的一类。它可以用于判断趋势、风险、轻重缓急与恢复节奏，但不能替代现代医学检查与诊疗。《卜筮正宗》《增删卜易》虽均有病症占例，但真正用在现代知识库写作中，必须把“提示”和“诊断”明确区分。
 
-如果你想先判断“这题能不能用六爻做辅助观察、该问恢复节奏还是先问检查节点”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/zhouyi-divination) 收敛问题，再回来补病卦边界；如果你还不确定六爻适不适合，先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 也更稳。
+如果你想先判断“这题能不能用六爻做辅助观察、该问恢复节奏还是先问检查节点”，可以先去 [主站周易起卦入口](https://tianjiyao.com/zh/ai-divination) 收敛问题，再回来补病卦边界；如果你还不确定六爻适不适合，先去 [主站六爻指南](https://tianjiyao.com/zh/liuyao-guide) 也更稳。
 
 专业疾病卦的核心，不是神秘化病名，而是判断四件事：
 

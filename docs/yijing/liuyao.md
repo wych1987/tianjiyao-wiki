@@ -21,7 +21,7 @@ cta_heading: 想直接起一卦？去主站六爻在线排盘
 cta_description: 这页负责讲六爻入门规则；如果你已经有明确问题，可以先去主站六爻排盘，再回来对照术语和判断顺序。
 cta_primary_url: https://tianjiyao.com/zh/ai-divination
 cta_primary_label: 去六爻在线排盘
-cta_secondary_url: https://tianjiyao.com/zh/zhouyi-divination
+cta_secondary_url: https://tianjiyao.com/zh/ai-divination
 cta_secondary_label: 先看六爻入口说明
 cta_topic: liuyao-casting
 ---
