@@ -164,20 +164,35 @@
     <meta name="author" content="{{ site.author }}">
     <meta name="robots" content="index,follow,max-image-preview:large">
     
+    {% assign resolved_image = 'https://tianjiyao.com/img/search-previews/home-v2-og.png' %}
+    {% if page.image %}
+        {% assign resolved_image = page.image | absolute_url %}
+    {% elsif page.path contains 'yijing/' %}
+        {% assign resolved_image = 'https://tianjiyao.com/img/search-previews/bagua-v2-og.png' %}
+    {% elsif page.path contains 'bazi/' %}
+        {% assign resolved_image = 'https://tianjiyao.com/img/search-previews/bazi-v2-og.png' %}
+    {% elsif page.path contains 'ziwei/' %}
+        {% assign resolved_image = 'https://tianjiyao.com/img/search-previews/ziwei-v2-og.png' %}
+    {% endif %}
+    <meta name="thumbnail" content="{{ resolved_image }}">
+    <link rel="image_src" href="{{ resolved_image }}">
+
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
     <meta property="og:title" content="{% if meta_title %}{{ meta_title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:description" content="{{ page_description }}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/apple-touch-icon.png' | absolute_url }}{% endif %}">
+    <meta property="og:image" content="{{ resolved_image }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="zh_CN">
     
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{% if meta_title %}{{ meta_title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{{ page_description }}">
-    <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/apple-touch-icon.png' | absolute_url }}{% endif %}">
+    <meta name="twitter:image" content="{{ resolved_image }}">
     
     <!-- Structured Data - Organization -->
     <script type="application/ld+json">
@@ -202,6 +217,7 @@
         "name": {{ current_page_name | jsonify }},
         "url": {{ page.url | absolute_url | jsonify }},
         "description": {{ page_description | jsonify }},
+        "image": {{ resolved_image | jsonify }},
         "inLanguage": {{ site.lang | default: 'zh-CN' | jsonify }},
         "isPartOf": {
             "@type": "WebSite",
@@ -221,6 +237,7 @@
         "@type": {% if page.path contains 'ai/' %}"TechArticle"{% else %}"Article"{% endif %},
         "headline": {{ current_page_name | jsonify }},
         "description": {{ page_description | jsonify }},
+        "image": [{{ resolved_image | jsonify }}],
         "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
         "dateModified": {{ page.date | date_to_xmlschema | jsonify }},
         "mainEntityOfPage": {{ page.url | absolute_url | jsonify }},
